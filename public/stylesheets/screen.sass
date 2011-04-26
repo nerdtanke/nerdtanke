@@ -1,0 +1,78 @@
+@import reset
+@import silkscreen
+
+html, body
+  background-color: #000
+  color: #fff
+  min-height: 100% // Opera 11 (when toggling print preview)
+
+#page
+  text-align: left
+  margin: 0 auto
+  width: 720px
+  padding: 23px 24px
+
+body
+  text-align: center
+  font:
+    weight: normal
+    style: normal
+    family: 'Silkscreen', monospace
+    size: 25px
+  line-height: 25px // We don not want to round because the download_link icon cannot be positioned properly cross-browser
+
+p,
+ul
+  margin-bottom: 20px
+  &:last-child
+    margin-bottom: 0
+
+ul
+  padding-left: 20px
+  li
+    list-style: square outside
+
+h1, h2
+  color: #6f6
+
+h3, h4, h5, h6
+  color: #ff6
+
+#header,
+.section
+  margin-bottom: 23px
+  padding-bottom: 23px
+  border-bottom: 3px solid #111
+  
+.podcast
+  .player, .download, .shownotes
+    margin: 10px 0
+
+#header
+  background: url(../images/die-nerdtanke-50x50.png) no-repeat right top
+  h1
+    font-size: 50px
+    line-height: 50px
+    margin: 0 -3px
+    font-weight: bold
+
+#footer
+  position: relative
+  .imprint
+    position: absolute
+    right: 0
+    bottom: 0
+    a, a:hover
+      color: #666
+    font-size: 13px
+
+
+a
+  color: #66f
+  text-decoration: none
+  &:hover
+    color: #6ff
+  &.download_link
+    padding-left: 20px
+    background: url('../images/download.png') no-repeat 2px center
+
