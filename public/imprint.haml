@@ -1,14 +1,14 @@
 !!!
 %html
   %head
-    %title Nerdtanke
+    %title Die Nerdtanke
+    %meta{ :content => 'text/html; charset=UTF-8', 'http-equiv' => 'Content-Type' }
     %link{ :type => 'text/css', :href => 'stylesheets/screen.css', :media => 'screen', :rel => 'stylesheet' }
     %base{ :target => '_blank' }
   %body
     #page
       #header
         %h1 Die Nerdtanke
-        %h4 Bytes und Bier – bitte einmal vollmachen
       #content
         #imprint.section
           %h2 Impressum
@@ -18,6 +18,10 @@
             Singerstr. 13
             %br
             86159 Augsburg
+        #credits.section
+          %h2 Credits
+          %p
+            Podcast Player mit <a href="http://www.longtailvideo.com/players/jw-flv-player/">JW Player</a> und <a href="http://www.longtailvideo.com/addons/skins/50/Modieus-%28aka:-Stylish%29?q=">Modieus</a> skin.
         %p
           %a{ :href => '/', :target => '_self' }
             Zurueck
