@@ -30,23 +30,16 @@
 	<p>Below you see a simple embedded example of the JW Player.</p>
 
 	<!-- START OF THE PLAYER EMBEDDING TO COPY-PASTE -->
-	<object id="player" classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" name="player" width="328" height="200"> 
-		<param name="movie" value="player.swf" /> 
-		<param name="allowfullscreen" value="true" /> 
-		<param name="allowscriptaccess" value="always" /> 
-		<param name="flashvars" value="file=video.mp4&image=preview.jpg" /> 
-		<embed 
-			type="application/x-shockwave-flash"
-			id="player2"
-			name="player2"
-			src="player.swf" 
-			width="328" 
-			height="200"
-			allowscriptaccess="always" 
-			allowfullscreen="true"
-			flashvars="file=video.mp4&image=preview.jpg" 
-		/> 
-	</object> 
+	<div id="mediaplayer">JW Player goes here</div>
+	
+	<script type="text/javascript" src="jwplayer.js"></script>
+	<script type="text/javascript">
+		jwplayer("mediaplayer").setup({
+			flashplayer: "player.swf",
+			file: "video.mp4",
+			image: "preview.jpg"
+		});
+	</script>
 	<!-- END OF THE PLAYER EMBEDDING -->
 
 	<h3>Support, Documentation and Source Code</h3>

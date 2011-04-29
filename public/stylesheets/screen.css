@@ -110,11 +110,9 @@ ul:last-child {
   margin-bottom: 0;
 }
 
-ul {
-  padding-left: 20px;
-}
 ul li {
-  list-style: square outside;
+  padding-left: 20px;
+  background: url(../images/bullet.png) no-repeat 5px 8px;
 }
 
 h1, h2 {
@@ -134,6 +132,9 @@ h3, h4, h5, h6 {
 
 .podcast .player, .podcast .download, .podcast .shownotes {
   margin: 10px 0;
+}
+.podcast .player:last-child, .podcast .download:last-child, .podcast .shownotes:last-child {
+  margin-bottom: 0;
 }
 
 #header {
@@ -168,8 +169,12 @@ h3, h4, h5, h6 {
   background-color: #aa6600;
 }
 #about .links a.email {
-  background-color: #ff66ff;
   color: black;
+  background-color: #ff66ff;
+}
+#about .links a.itunes {
+  color: #555555;
+  background-color: white;
 }
 
 #footer {

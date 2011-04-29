@@ -28,9 +28,9 @@ ul
     margin-bottom: 0
 
 ul
-  padding-left: 20px
   li
-    list-style: square outside
+    padding-left: 20px
+    background: url(../images/bullet.png) no-repeat 5px 8px
 
 h1, h2
   color: #6f6
@@ -47,6 +47,8 @@ h3, h4, h5, h6
 .podcast
   .player, .download, .shownotes
     margin: 10px 0
+    &:last-child
+      margin-bottom: 0
 
 #header
   position: relative
@@ -66,19 +68,20 @@ h3, h4, h5, h6
       margin-right: 1px
       padding: 0 2px
       &.facebook
-        color: white
+        color: #fff
         background-color: #66f
       &.twitter
         color: #6ff
         background-color: #555
       &.rss
-        color: white
+        color: #fff
         background-color: #a60
       &.email
+        color: #000
         background-color: #f6f
-        color: black
-
-        
+      &.itunes
+        color: #555
+        background-color: #fff
 
 #footer
   position: relative
@@ -89,7 +92,6 @@ h3, h4, h5, h6
     a, a:hover
       color: #666
     font-size: 13px
-
 
 a
   color: #66f

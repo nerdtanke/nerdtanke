@@ -1,14 +1,14 @@
 !!!
-%html
+%html{ :lang => 'de', :'xml:lang' => 'de', :xmlns => 'http://www.w3.org/1999/xhtml' }
   %head
     %title Die Nerdtanke
     %meta{ :content => 'text/html; charset=UTF-8', 'http-equiv' => 'Content-Type' }
+    %meta{ :content => 'de', 'http-equiv' => 'Content-Language' }
     %link{ :type => 'text/css', :href => 'stylesheets/screen.css', :media => 'screen', :rel => 'stylesheet' }
     %link{ :type => 'application/rss+xml', :href => 'http://feeds.feedburner.com/DieNerdtanke', :rel => 'alternate', :title => 'Die Nerdtanke als RSS-Feed' }
     %link{ :type => 'image/x-icon', :rel => 'icon', :href => 'favicon.ico' }
     %link{ :type => 'image/x-icon', :rel => 'shortcut icon', :href => 'favicon.ico' }
     %script{ :type => 'text/javascript', :src => 'javascripts/jwplayer/jwplayer.js' }
-
     :javascript
       var _gaq = _gaq || [];
       _gaq.push(['_setAccount', 'UA-441965-5']);
@@ -32,8 +32,9 @@
             Wir (Henning, Thomas und Arne) sind 3 Nerds und sprechen in Podcasts ueber Themen, die Nerds wie euch interessieren.
           %p.links
             %a.rss{ :href => 'http://feeds.feedburner.com/DieNerdtanke' } RSS
-            %a.facebook{ :href => 'https://www.facebook.com/pages/Die-Nerdtanke/150205078377851' } Facebook
-            %a.twitter{ :href => 'http://twitter.com/nerdtanke' } Twitter
+            %a.itunes{ :href => 'http://itunes.apple.com/de/podcast/die-nerdtanke/id434211329', :target => '_blank' } iTunes
+            %a.facebook{ :href => 'https://www.facebook.com/pages/Die-Nerdtanke/150205078377851', :target => '_blank' } Facebook
+            %a.twitter{ :href => 'http://twitter.com/nerdtanke', :target => '_blank' } Twitter
             %a.email{ :href => 'mailto:tankwart@nerdtanke.de' } E-Mail
         #downloads
           .podcast.section
@@ -41,19 +42,19 @@
               Episode 1: Die Cloud ist voll (24.04.2011)
             .player
               #episode_1_player
-                :javascript
-                  jwplayer('episode_1_player').setup({
-                    'flashplayer': 'javascripts/jwplayer/player.swf',
-                    'skin': 'javascripts/jwplayer/modieus-modded.zip',
-                    'id': 'playerID',
-                    'width': '480',
-                    'height': '31',
-                    'icons': false,
-                    'controlbar.idlehide': false,
-                    'volume': '90',
-                    'file': 'podcasts/nerdtanke-1.mp3',
-                    'duration': '0:33:47',
-                  });
+              :javascript
+                jwplayer('episode_1_player').setup({
+                  'flashplayer': 'javascripts/jwplayer/player.swf',
+                  'skin': 'javascripts/jwplayer/modieus-modded.zip',
+                  'id': 'playerID',
+                  'width': '480',
+                  'height': '31',
+                  'icons': false,
+                  'controlbar.idlehide': false,
+                  'volume': '90',
+                  'file': 'podcasts/nerdtanke-1.mp3',
+                  'duration': '0:33:47'
+                });
             .download
               %a{ :href => 'podcasts/nerdtanke-1.mp3', :class => 'download_link' }
                 Download
@@ -64,37 +65,37 @@
                   Ab 0:00: Hello World
                 %li
                   Ab 2:47: Ubuntu 11.04
-                  (<a href='http://www.ubuntu.com/'>ubuntu.com</a>)
+                  (<a href='http://www.ubuntu.com/' target='_blank'>ubuntu.com</a>)
                 %li
                   Ab 9:13: Portal 2
-                  (<a href='http://www.thinkwithportals.com/'>thinkwithportals.com</a>)
+                  (<a href='http://www.thinkwithportals.com/' target='_blank'>thinkwithportals.com</a>)
                 %li
                   Ab 13:52: Naumachia Space Warfare
-                  (<a href='http://naumachia.aureasection.com/'>naumachia.aureasection.com</a>)
+                  (<a href='http://naumachia.aureasection.com/' target='_blank'>naumachia.aureasection.com</a>)
                 %li
                   Ab 14:49: Amazon EC2 Outage
                 %li
                   Ab 21:19: Jill Bolte Taylor's Powerful Stroke of Insight
-                  (<a href='http://www.ted.com/talks/jill_bolte_taylor_s_powerful_stroke_of_insight.html'>ted.com</a>)
+                  (<a href='http://www.ted.com/talks/jill_bolte_taylor_s_powerful_stroke_of_insight.html' target='_blank'>ted.com</a>)
                 %li
                   Ab 23:15: Nerd Nite
-                  (<a href='http://nerdnite.com/'>nerdnite.com</a>, <a href='http://www.facebook.com/group.php?gid=100416418772&v=wall'>facebook.com</a>)
+                  (<a href='http://nerdnite.com/' target='_blank'>nerdnite.com</a>, <a href='http://www.facebook.com/group.php?gid=100416418772&amp;v=wall' target='_blank'>facebook.com</a>)
                 %li
                   Ab 26:30: Battle: Los Angeles
-                  (<a href='http://www.youtube.com/watch?v=mEwlqSpj4BA'>youtube.com</a>)
+                  (<a href='http://www.youtube.com/watch?v=mEwlqSpj4BA' target='_blank'>youtube.com</a>)
                 %li
                   Ab 28:59: Another Earth
-                  (<a href='http://www.youtube.com/watch?v=N8hEwMMDtFY'>youtube.com</a>)
+                  (<a href='http://www.youtube.com/watch?v=N8hEwMMDtFY' target='_blank'>youtube.com</a>)
                 %li
                   Ab 31:10: The Mountain
-                  (<a href='http://vimeo.com/22439234'>vimeo.com</a>)
+                  (<a href='http://vimeo.com/22439234' target='_blank'>vimeo.com</a>)
 
       #footer
-        .imprint
-          %a{ :href => 'imprint.html', :rel => 'nofollow' }
-            Impressum
         Kontakt:
         %a{ :href => 'mailto:tankwart@nerdtanke.de' }
           tankwart@nerdtanke.de
+        .imprint
+          %a{ :href => 'imprint.html', :rel => 'nofollow' }
+            Impressum
 
 
