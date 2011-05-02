@@ -8,7 +8,6 @@
     <link href='http://feeds.feedburner.com/DieNerdtanke' rel='alternate' title='Die Nerdtanke als RSS-Feed' type='application/rss+xml' />
     <link href='favicon.ico' rel='icon' type='image/x-icon' />
     <link href='favicon.ico' rel='shortcut icon' type='image/x-icon' />
-    <script src='javascripts/jwplayer/jwplayer.js' type='text/javascript'></script>
     <script type='text/javascript'>
       //<![CDATA[
         var _gaq = _gaq || [];
@@ -50,27 +49,14 @@
               Episode 1: Die Cloud ist voll (24.04.2011)
             </h2>
             <div class='player'>
-              <div id='episode_1_player'></div>
-              <script type='text/javascript'>
-                //<![CDATA[
-                  jwplayer('episode_1_player').setup({
-                    'flashplayer': 'javascripts/jwplayer/player.swf',
-                    'skin': 'javascripts/jwplayer/modieus-modded.zip',
-                    'id': 'playerID',
-                    'width': '480',
-                    'height': '31',
-                    'icons': false,
-                    'controlbar.idlehide': false,
-                    'volume': '90',
-                    'file': 'podcasts/nerdtanke-1.mp3',
-                    'duration': '0:33:47'
-                  });
-                //]]>
-              </script>
+              <audio controls='controls' preload='none'>
+                <source src='podcasts/nerdtanke-1.mpg' type='audio/mpeg'></source>
+                <source src='podcasts/nerdtanke-1.ogg' type='audio/ogg'></source>
+              </audio>
             </div>
             <div class='download'>
               <a class='download_link' href='podcasts/nerdtanke-1.mp3'>
-                Download
+                Download als MP3 (20 MB)
               </a>
             </div>
             <div class='shownotes'>

@@ -8,7 +8,6 @@
     %link{ :type => 'application/rss+xml', :href => 'http://feeds.feedburner.com/DieNerdtanke', :rel => 'alternate', :title => 'Die Nerdtanke als RSS-Feed' }
     %link{ :type => 'image/x-icon', :rel => 'icon', :href => 'favicon.ico' }
     %link{ :type => 'image/x-icon', :rel => 'shortcut icon', :href => 'favicon.ico' }
-    %script{ :type => 'text/javascript', :src => 'javascripts/jwplayer/jwplayer.js' }
     :javascript
       var _gaq = _gaq || [];
       _gaq.push(['_setAccount', 'UA-441965-5']);
@@ -41,23 +40,12 @@
             %h2
               Episode 1: Die Cloud ist voll (24.04.2011)
             .player
-              #episode_1_player
-              :javascript
-                jwplayer('episode_1_player').setup({
-                  'flashplayer': 'javascripts/jwplayer/player.swf',
-                  'skin': 'javascripts/jwplayer/modieus-modded.zip',
-                  'id': 'playerID',
-                  'width': '480',
-                  'height': '31',
-                  'icons': false,
-                  'controlbar.idlehide': false,
-                  'volume': '90',
-                  'file': 'podcasts/nerdtanke-1.mp3',
-                  'duration': '0:33:47'
-                });
+              %audio{ :controls => 'controls', :preload => 'none' }
+                %source{ :src => 'podcasts/nerdtanke-1.mpg', :type => 'audio/mpeg' }
+                %source{ :src => 'podcasts/nerdtanke-1.ogg', :type => 'audio/ogg' }
             .download
               %a{ :href => 'podcasts/nerdtanke-1.mp3', :class => 'download_link' }
-                Download
+                Download als MP3 (20 MB)
             .shownotes
               %h4 Themen und Shownotes
               %ul

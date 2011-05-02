@@ -136,6 +136,11 @@ h3, h4, h5, h6 {
 .podcast .player:last-child, .podcast .download:last-child, .podcast .shownotes:last-child {
   margin-bottom: 0;
 }
+.podcast .player audio {
+  width: 500px;
+  font-family: arial, helvetica, sans-serif;
+  font-size: 14px;
+}
 
 #header {
   position: relative;
