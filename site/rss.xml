@@ -33,6 +33,21 @@
   <itunes:explicit>clean</itunes:explicit>
 
   <item>
+    <title>#3: Harrison F*ing Ford</title>
+    <itunes:author>Die Nerdtanke</itunes:author>
+    <itunes:subtitle></itunes:subtitle>
+    <itunes:summary>
+      kino.to gesperrt, Brink, Configuration Management, Getting Things Done, Trailer-Schnelldurchlauf, Ende des Space-Shuttle-Programms
+    </itunes:summary>
+    <itunes:image href="http://nerdtanke.de/images/die-nerdtanke.png" />
+    <enclosure url="http://www.nerdtanke.de/podcasts/nerdtanke-3.mp3" length="21817518" type="audio/mpeg" />
+    <guid>http://www.nerdtanke.de/podcasts/nerdtanke-3.mp3</guid>
+    <pubDate>Thu, 02 Jun 2011 13:37:00 +0200</pubDate>
+    <itunes:duration>47:56</itunes:duration>
+    <itunes:keywords></itunes:keywords>
+  </item>
+
+  <item>
     <title>#2: Die Zukunft</title>
     <itunes:author>Die Nerdtanke</itunes:author>
     <itunes:subtitle></itunes:subtitle>
