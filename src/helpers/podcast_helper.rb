@@ -28,7 +28,7 @@ module PodcastHelper
 
     attr_reader :topics
 
-    %w[ episode label date filename filesize ].each do |attribute|
+    %w[ episode label date filename filesize duration ].each do |attribute|
       define_method attribute do |*method_args|
         instance_variable_get("@#{attribute}") or instance_variable_set("@#{attribute}", method_args.first)
       end
@@ -46,8 +46,8 @@ module PodcastHelper
   def render_podcast(podcast)
     html = tag :div, :class => 'podcast section' do
       headline = tag(:h2) { "Episode #{podcast.episode}: #{podcast.label} (#{podcast.date})" }
-      player = player(podcast.filename)
-      download = download(podcast.filename, podcast.filesize)
+      player = player(podcast)
+      download = download(podcast)
       shownotes = shownotes(podcast.topics)
       
       headline + player + download + shownotes
@@ -55,17 +55,19 @@ module PodcastHelper
     haml_concat html
   end
 
-  def player(filename)
+  def player(podcast)
+    filename = podcast.filename
     tag :div, :class => 'player' do
-      tag :audio, :controls => 'controls', :preload => 'none' do
+      audio_tag = tag :audio, :controls => 'controls', :preload => 'none' do
         [ podcast_source(filename, :ogg), podcast_source(filename, :mp3) ].join
       end
+      link "Abspielen (#{podcast.duration})", '#', :class => 'play_link', 'data-audio' => CGI::escapeHTML(audio_tag)
     end
   end
 
-  def download(filename, filesize)
+  def download(podcast)
     tag :div, :class => 'download' do
-      link "Download als MP3 (#{filesize})", podcast_path(filename), :class => 'download_link' 
+      link "Download als MP3 (#{podcast.filesize})", podcast_path(podcast.filename), :class => 'download_link' 
     end
   end
 

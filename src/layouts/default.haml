@@ -8,6 +8,15 @@
     %link{ :type => 'image/x-icon', :rel => 'icon', :href => 'favicon.ico' }
     %link{ :type => 'image/x-icon', :rel => 'shortcut icon', :href => 'favicon.ico' }
     = stylesheets
+    = javascripts 'jquery-1.6.1.min'
+    :javascript
+      $('.play_link').live('click', function() {
+        var self = $(this);
+        var audioTag = self.attr('data-audio')
+        self.parent('.player').append(audioTag).find('audio').get(0).play();
+        self.removeAttr('data-audio').hide();
+        return false;
+      });
     :javascript
       var _gaq = _gaq || [];
       _gaq.push(['_setAccount', 'UA-441965-5']);

@@ -103,7 +103,14 @@ a
   text-decoration: none
   &:hover
     color: #6ff
-  &.download_link
+  &.download_link,
+  &.play_link
     padding-left: 20px
-    background: url('../images/download.png') no-repeat 2px center
+    background:
+      repeat: no-repeat
+      position: 2px center
+  &.download_link
+    background-image: url('../images/download.png')
+  &.play_link
+    background-image: url('../images/play.png')
 

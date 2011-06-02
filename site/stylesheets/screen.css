@@ -238,7 +238,16 @@ a:hover {
   color: #66ffff;
 }
 /* line 106 */
-a.download_link {
+a.download_link, a.play_link {
   padding-left: 20px;
-  background: url("../images/download.png") no-repeat 2px center;
+  background-repeat: no-repeat;
+  background-position: 2px center;
+}
+/* line 112 */
+a.download_link {
+  background-image: url("../images/download.png");
+}
+/* line 114 */
+a.play_link {
+  background-image: url("../images/play.png");
 }
