@@ -7,7 +7,7 @@
     %link{ :type => 'application/rss+xml', :href => 'http://feeds.feedburner.com/DieNerdtanke', :rel => 'alternate', :title => 'Die Nerdtanke als RSS-Feed' }
     %link{ :type => 'image/x-icon', :rel => 'icon', :href => 'favicon.ico' }
     %link{ :type => 'image/x-icon', :rel => 'shortcut icon', :href => 'favicon.ico' }
-    = stylesheets
+    = stylesheets :media => 'screen'
     = javascripts 'jquery-1.6.1.min'
     :javascript
       $('.play_link').live('click', function() {
