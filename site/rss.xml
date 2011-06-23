@@ -33,6 +33,21 @@
   <itunes:explicit>clean</itunes:explicit>
 
   <item>
+    <title>#4: Ausgenerdet</title>
+    <itunes:author>Die Nerdtanke</itunes:author>
+    <itunes:subtitle></itunes:subtitle>
+    <itunes:summary>
+      f.lux, Windows 8, Wii U, Battlefield 3, Star Wars: The Old Republic, Jamestown, Java 7, Buchtipp: Feed, Trailer: The Girl With The Dragon Tattoo, Betthupferl
+    </itunes:summary>
+    <itunes:image href="http://nerdtanke.de/images/die-nerdtanke.png" />
+    <enclosure url="http://www.nerdtanke.de/podcasts/nerdtanke-4.mp3" length="21817518" type="audio/mpeg" />
+    <guid>http://www.nerdtanke.de/podcasts/nerdtanke-4.mp3</guid>
+    <pubDate>Thu, 23 Jun 2011 17:30:00 +0200</pubDate>
+    <itunes:duration>34:09</itunes:duration>
+    <itunes:keywords></itunes:keywords>
+  </item>
+
+  <item>
     <title>#3: Harrison F*ing Ford</title>
     <itunes:author>Die Nerdtanke</itunes:author>
     <itunes:subtitle></itunes:subtitle>
