@@ -88,14 +88,14 @@ blockquote, q {
   font-style: normal;
 }
 
-/* line 4 */
+/* line 22 */
 html, body {
   background-color: black;
   color: white;
   min-height: 100%;
 }
 
-/* line 9 */
+/* line 27 */
 #page {
   text-align: left;
   margin: 0 auto;
@@ -103,7 +103,7 @@ html, body {
   padding: 23px 0;
 }
 
-/* line 15 */
+/* line 33 */
 body {
   text-align: center;
   font-weight: normal;
@@ -113,34 +113,34 @@ body {
   line-height: 25px;
 }
 
-/* line 24 */
+/* line 42 */
 p,
 ul {
   margin-bottom: 20px;
 }
-/* line 27 */
+/* line 45 */
 p:last-child,
 ul:last-child {
   margin-bottom: 0;
 }
 
-/* line 31 */
+/* line 49 */
 ul li {
   padding-left: 20px;
   background: url(../images/bullet.png) no-repeat 5px 8px;
 }
 
-/* line 35 */
+/* line 53 */
 h1, h2 {
   color: #66ff66;
 }
 
-/* line 38 */
+/* line 56 */
 h3, h4, h5, h6 {
   color: #ffff66;
 }
 
-/* line 41 */
+/* line 59 */
 #header,
 .section {
   margin-bottom: 23px;
@@ -148,32 +148,32 @@ h3, h4, h5, h6 {
   border-bottom: 3px solid #111111;
 }
 
-/* line 48 */
+/* line 66 */
 .podcast .player, .podcast .download, .podcast .shownotes {
   margin: 10px 0;
 }
-/* line 50 */
+/* line 68 */
 .podcast .player:last-child, .podcast .download:last-child, .podcast .shownotes:last-child {
   margin-bottom: 0;
 }
-/* line 53 */
+/* line 71 */
 .podcast .player audio {
   width: 500px;
   font-family: arial, helvetica, sans-serif;
   font-size: 14px;
 }
 
-/* line 58 */
+/* line 76 */
 #header {
   position: relative;
 }
-/* line 60 */
+/* line 78 */
 #header img {
   position: absolute;
   right: 0;
   top: 0;
 }
-/* line 64 */
+/* line 82 */
 #header h1 {
   font-size: 50px;
   line-height: 50px;
@@ -181,73 +181,97 @@ h3, h4, h5, h6 {
   font-weight: bold;
 }
 
-/* line 72 */
+/* line 90 */
 #about .links a {
   margin-right: 1px;
   padding: 0 2px;
 }
-/* line 75 */
+/* line 93 */
 #about .links a.facebook {
   color: white;
   background-color: #6666ff;
 }
-/* line 78 */
+/* line 96 */
 #about .links a.twitter {
-  color: #66ffff;
-  background-color: #555555;
+  color: white;
+  background-color: #00aaaa;
 }
-/* line 81 */
+/* line 99 */
 #about .links a.rss {
   color: white;
   background-color: #aa6600;
 }
-/* line 84 */
+/* line 102 */
 #about .links a.email {
   color: black;
   background-color: #ff66ff;
 }
-/* line 87 */
+/* line 105 */
 #about .links a.itunes {
   color: #555555;
   background-color: white;
 }
+/* line 108 */
+#about .links a.google_plus {
+  background-color: #373737;
+}
+/* line 110 */
+#about .links a.google_plus .red {
+  color: #ff5555;
+}
+/* line 112 */
+#about .links a.google_plus .blue {
+  color: #7373ff;
+}
+/* line 114 */
+#about .links a.google_plus .green {
+  color: #55ff55;
+}
+/* line 116 */
+#about .links a.google_plus .yellow {
+  color: #ffff55;
+}
+/* line 118 */
+#about .links a.google_plus .plus {
+  color: black;
+}
 
-/* line 91 */
+/* line 121 */
 #footer {
   position: relative;
 }
-/* line 93 */
+/* line 123 */
 #footer .imprint {
   position: absolute;
   right: 0;
   bottom: 0;
   font-size: 13px;
 }
-/* line 97 */
+/* line 127 */
 #footer .imprint a, #footer .imprint a:hover {
   color: #666666;
 }
 
-/* line 101 */
+/* line 131 */
 a {
   color: #6666ff;
   text-decoration: none;
 }
-/* line 104 */
+/* line 134 */
 a:hover {
   color: #66ffff;
 }
-/* line 106 */
+/* line 136 */
 a.download_link, a.play_link {
   padding-left: 20px;
   background-repeat: no-repeat;
   background-position: 2px center;
 }
-/* line 112 */
+/* line 142 */
 a.download_link {
   background-image: url("../images/download.png");
 }
-/* line 114 */
+/* line 144 */
 a.play_link {
   background-image: url("../images/play.png");
 }
