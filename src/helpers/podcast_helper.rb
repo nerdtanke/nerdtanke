@@ -102,7 +102,7 @@ module PodcastHelper
       links.collect do |item|
         tag :li do
           help = "(#{item.help})" if item.help
-          [ link(item.label, item.url), help ].join ' '
+          [ link(item.label, item.url, :target => '_blank'), help ].join ' '
         end
       end.join
     end
