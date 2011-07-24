@@ -44,7 +44,7 @@ module PodcastHelper
   end
 
   def render_podcast(podcast)
-    html = tag :div, :class => 'podcast section' do
+    html = tag :div, :class => 'podcast' do
       headline = tag(:h2) { "Episode #{podcast.episode}: #{podcast.label} (#{podcast.date})" }
       player = player(podcast)
       download = download(podcast)

@@ -1,34 +1,12 @@
 @import reset
 @import silkscreen
-
-$cga_yellow: #ffff55
-$cga_brown: #aa5500
-$cga_light_red: #ff5555
-$cga_dark_red: #aa0000
-$cga_light_green: #55ff55
-$cga_dark_green: #00aa00
-$cga_light_cyan: #55ffff
-$cga_dark_cyan: #00aaaa
-$cga_light_blue: #5555ff
-$cga_dark_blue: #0000aa
-$cga_light_magenta: #ff55ff
-$cga_dark_magenta: #aa00aa
-$cga_black: #000000
-$cga_white: #ffffff
-$cga_dark_gray: #555555
-$cga_light_gray: #aaaaaa
-
+@import constants
+@import mixins
 
 html, body
   background-color: #000
   color: #fff
   min-height: 100% // Opera 11 (when toggling print preview)
-
-#page
-  text-align: left
-  margin: 0 auto
-  width: 720px
-  padding: 23px 0
 
 body
   text-align: center
@@ -52,95 +30,149 @@ ul
 
 h1, h2
   color: #6f6
+  a
+    color: #6f6 !important
+
+h2
+  margin-bottom: 5px
 
 h3, h4, h5, h6
   color: #ff6
 
-#header,
-.section
-  margin-bottom: 23px
-  padding-bottom: 23px
-  border-bottom: 3px solid #111
-  
-.podcast
-  .player, .download, .shownotes
-    margin: 10px 0
-    &:last-child
-      margin-bottom: 0
-  .player
-    audio
-      width: 500px
-      font-family: arial, helvetica, sans-serif
-      font-size: 14px
+.clear
+  height: 0
+  clear: both
 
-#header
-  position: relative
-  img
-    position: absolute
-    right: 0
-    top: 0
-  h1
-    font-size: 50px
-    line-height: 50px
-    margin: 0 -3px
-    font-weight: bold
+#page
+  text-align: left
+  margin: 0 auto
+  width: 960px
+  padding: 23px 0
 
-#about
-  .links
-    a
-      margin-right: 1px
-      padding: 0 2px
-      &.facebook
-        color: #fff
-        background-color: #66f
-      &.twitter
-        color: $cga_white
-        background-color: $cga_dark_cyan
-      &.rss
-        color: #fff
-        background-color: #a60
-      &.email
-        color: #000
-        background-color: #f6f
-      &.itunes
-        color: #555
-        background-color: #fff
-      &.google_plus
-        background-color: $cga_dark_gray - 30
-        .red
-          color: $cga_light_red
-        .blue
-          color: $cga_light_blue + 30
-        .green
-          color: $cga_light_green
-        .yellow
-          color: $cga_yellow
-        .plus
-          color: $cga_black
+  #header
+    position: relative
+    padding-left: 90px
+    margin-bottom: 23px
+    padding-bottom: 16px
+    border-bottom: 3px solid #333
 
-#footer
-  position: relative
-  .imprint
-    position: absolute
-    right: 0
-    bottom: 0
-    a, a:hover
-      color: #666
-    font-size: 13px
+    #logo
+      position: absolute
+      left: 0
+      top: 2px
+    h1
+      font-size: 50px
+      line-height: 50px
+      margin: 0 -3px
+      font-weight: bold
 
-a
-  color: #66f
-  text-decoration: none
-  &:hover
-    color: #6ff
-  &.download_link,
-  &.play_link
-    padding-left: 20px
-    background:
-      repeat: no-repeat
-      position: 2px center
-  &.download_link
-    background-image: url('../images/download.png')
-  &.play_link
-    background-image: url('../images/play.png')
+  a
+    color: #66f
+    text-decoration: none
+    &:hover
+      color: #6ff
 
+  #torso
+    position: relative
+
+    #sidebar
+      position: absolute
+      top: 0
+      left: 0
+      width: $sidebar_width
+
+      #about
+        +section
+
+      #buttons
+        margin-top: -4px
+        line-height: 30px
+        +section
+        a
+          padding: 0 2px
+          xdisplay: block
+          xwidth: 170px
+          margin-bottom: 4px
+          &.facebook
+            color: #fff
+            background-color: #66f
+          &.twitter
+            color: $cga_white
+            background-color: $cga_dark_cyan
+          &.rss
+            color: #fff
+            background-color: #a60
+          &.email
+            color: #000
+            background-color: #f6f
+          &.itunes
+            color: #555
+            background-color: #fff
+          &.google_plus
+            background-color: $cga_dark_gray - 30
+            .red
+              color: $cga_light_red
+            .blue
+              color: $cga_light_blue + 30
+            .green
+              color: $cga_light_green
+            .yellow
+              color: $cga_yellow
+            .plus
+              color: $cga_black
+
+      #hosts
+        .host
+          margin-bottom: 12px
+          position: relative
+          .name
+            position: absolute
+            bottom: 5px
+            left: 5px
+            color: $cga_black
+            text-shadow: $cga_white 0 0 8px
+
+    #main
+
+      margin-left: $sidebar_width + 25px
+
+      .podcast
+        +section
+        .player, .download, .shownotes
+          margin: 10px 0
+          &:last-child
+            margin-bottom: 0
+        .player
+          audio
+            width: 500px
+            font-family: arial, helvetica, sans-serif
+            font-size: 14px
+
+      #podcasts
+        a
+          &.download_link,
+          &.play_link
+            padding-left: 20px
+            background:
+              repeat: no-repeat
+              position: 2px center
+          &.download_link
+            background-image: url('../images/download.png')
+          &.play_link
+            background-image: url('../images/play.png')
+
+      #credits
+        +section
+
+      #imprint
+        +section
+
+      #footer
+        position: relative
+        .imprint
+          position: absolute
+          right: 0
+          bottom: 0
+          a, a:hover
+            color: #666
+          font-size: 13px
