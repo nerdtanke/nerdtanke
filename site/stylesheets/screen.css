@@ -269,8 +269,11 @@ h3, h4, h5, h6 {
 #page #torso #sidebar #hosts .host {
   margin-bottom: 12px;
   position: relative;
+  border: 3px solid white;
+  padding: 3px;
+  float: left;
 }
-/* line 128 */
+/* line 131 */
 #page #torso #sidebar #hosts .host .name {
   position: absolute;
   bottom: 5px;
@@ -278,68 +281,68 @@ h3, h4, h5, h6 {
   color: black;
   text-shadow: white 0 0 8px;
 }
-/* line 135 */
+/* line 138 */
 #page #torso #main {
   margin-left: 245px;
 }
-/* line 139 */
+/* line 142 */
 #page #torso #main .podcast {
   margin-bottom: 21px;
   padding-bottom: 21px;
   border-bottom: 3px solid #222222;
 }
-/* line 141 */
+/* line 144 */
 #page #torso #main .podcast .player, #page #torso #main .podcast .download, #page #torso #main .podcast .shownotes {
   margin: 10px 0;
 }
-/* line 143 */
+/* line 146 */
 #page #torso #main .podcast .player:last-child, #page #torso #main .podcast .download:last-child, #page #torso #main .podcast .shownotes:last-child {
   margin-bottom: 0;
 }
-/* line 146 */
+/* line 149 */
 #page #torso #main .podcast .player audio {
   width: 500px;
   font-family: arial, helvetica, sans-serif;
   font-size: 14px;
 }
-/* line 153 */
+/* line 156 */
 #page #torso #main #podcasts a.download_link, #page #torso #main #podcasts a.play_link {
   padding-left: 20px;
   background-repeat: no-repeat;
   background-position: 2px center;
 }
-/* line 159 */
+/* line 162 */
 #page #torso #main #podcasts a.download_link {
   background-image: url("../images/download.png");
 }
-/* line 161 */
+/* line 164 */
 #page #torso #main #podcasts a.play_link {
   background-image: url("../images/play.png");
 }
-/* line 164 */
+/* line 167 */
 #page #torso #main #credits {
   margin-bottom: 21px;
   padding-bottom: 21px;
   border-bottom: 3px solid #222222;
 }
-/* line 167 */
+/* line 170 */
 #page #torso #main #imprint {
   margin-bottom: 21px;
   padding-bottom: 21px;
   border-bottom: 3px solid #222222;
 }
-/* line 170 */
+/* line 173 */
 #page #torso #main #footer {
   position: relative;
 }
-/* line 172 */
+/* line 175 */
 #page #torso #main #footer .imprint {
   position: absolute;
   right: 0;
   bottom: 0;
   font-size: 13px;
 }
-/* line 176 */
+/* line 179 */
 #page #torso #main #footer .imprint a, #page #torso #main #footer .imprint a:hover {
   color: #666666;
 }

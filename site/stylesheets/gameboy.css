@@ -16,20 +16,21 @@
 }
 /* line 17 */
 #page #torso #sidebar #hosts .host {
-  float: left;
   margin-bottom: 0;
   margin-right: 10px;
+  border-width: 2px;
+  padding: 2px;
 }
-/* line 21 */
+/* line 22 */
 #page #torso #sidebar #hosts .host img {
   width: 100px;
 }
-/* line 23 */
+/* line 24 */
 #page #torso #sidebar #hosts .host .name {
   font-size: 14px;
   line-height: 12px;
 }
-/* line 26 */
+/* line 27 */
 #page #torso #main {
   margin: 0;
 }
