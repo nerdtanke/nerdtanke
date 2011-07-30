@@ -9,7 +9,7 @@
     %link{ :type => 'image/x-icon', :rel => 'shortcut icon', :href => 'favicon.ico' }
     = stylesheets 'screen', :media => 'screen'
     = stylesheets 'gameboy', :media => 'screen and (max-width: 970px)'
-    = javascripts 'jquery-1.6.1.min'
+    = javascripts 'jquery-1.6.1.min', 'starfield'
     :javascript
       $('.play_link').live('click', function() {
         var self = $(this);
@@ -29,6 +29,7 @@
         var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
       })();
   %body
+    #debug
     #page
       #header
         %h1= link 'Die Nerdtanke', '/'
