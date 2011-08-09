@@ -58,7 +58,7 @@ module PodcastHelper
   def player(podcast)
     filename = podcast.filename
     tag :div, :class => 'player' do
-      audio_tag = tag :audio, :controls => 'controls', :preload => 'none' do
+      audio_tag = tag :audio, :controls => 'controls' do
         [ podcast_source(filename, :ogg), podcast_source(filename, :mp3) ].join
       end
       link "Abspielen (#{podcast.duration})", '#', :class => 'play_link', 'data-audio' => CGI::escapeHTML(audio_tag)
