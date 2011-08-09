@@ -33,6 +33,21 @@
   <itunes:explicit>clean</itunes:explicit>
 
   <item>
+    <title>#6: Hack &amp; Slay</title>
+    <itunes:author>Die Nerdtanke</itunes:author>
+    <itunes:subtitle></itunes:subtitle>
+    <itunes:summary>
+      Pen &amp; Paper Rollenspiele, LARPs, Diablo, Solarized-Farbpalette, Sublime Text 2, Diablo 3, Deus Ex 3, Starcraft Universe, PubNub, WTF der Woche, Post-It War
+    </itunes:summary>
+    <itunes:image href="http://nerdtanke.de/images/die-nerdtanke.png" />
+    <enclosure url="http://www.nerdtanke.de/podcasts/nerdtanke-6.mp3" length="21733352" type="audio/mpeg" />
+    <guid>http://www.nerdtanke.de/podcasts/nerdtanke-6.mp3</guid>
+    <pubDate>Tue, 09 Aug 2011 10:12:00 +0200</pubDate>
+    <itunes:duration>34:47</itunes:duration>
+    <itunes:keywords></itunes:keywords>
+  </item>
+
+  <item>
     <title>#5: Pi Milliarden Dollar</title>
     <itunes:author>Die Nerdtanke</itunes:author>
     <itunes:subtitle></itunes:subtitle>
