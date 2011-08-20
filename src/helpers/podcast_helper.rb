@@ -45,14 +45,30 @@ module PodcastHelper
 
   def render_podcast(podcast)
     html = tag :div, :class => 'podcast' do
-      headline = tag(:h2) { "Episode #{podcast.episode}: #{podcast.label} (#{podcast.date})" }
+      headline = tag(:h2) do
+        html = ''
+        html << "Episode #{podcast.episode}: " if podcast.episode
+        html << "#{podcast.label} (#{podcast.date})"
+        html
+      end
       player = player(podcast)
       download = download(podcast)
       shownotes = shownotes(podcast.topics)
       
       headline + player + download + shownotes
     end
-    haml_concat html
+    haml_concat seven_bit_umlauts(html)
+  end
+
+  def seven_bit_umlauts(text)
+    text.
+      gsub('ä', 'ae').
+      gsub('ö', 'oe').
+      gsub('ü', 'ue').
+      gsub('Ä', 'Ae').
+      gsub('Ö', 'Oe').
+      gsub('Ü', 'Ue').
+      gsub('ß', 'ss')
   end
 
   def player(podcast)

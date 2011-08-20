@@ -7,11 +7,11 @@
   <link>http://www.nerdtanke.de</link>
   <language>de</language>
   <copyright>Arne Hartherz, Henning Koch, Thomas Eisenbarth</copyright>
-  <itunes:subtitle>Bytes und Bier - Bitte einmal vollmachen</itunes:subtitle>
+  <itunes:subtitle>Bytes und Bier - Einmal vollmachen</itunes:subtitle>
   <itunes:author>Die Nerdtanke</itunes:author>
 
   <itunes:summary>
-    Wir (Henning, Thomas und Arne) sind 3 Nerds und sprechen in Podcasts ueber Themen die "den Nerd an sich" interessieren. Dazu gehören Technik, Internet, Spiele, Filme und alles was uns im Alltag sonst noch über den Weg läuft.
+    Wir (Henning, Thomas und Arne) sind 3 Nerds und sprechen in Podcasts ueber Themen, die Nerds wie euch interessieren. Dazu gehören Technik, Internet, Spiele, Filme und alles was uns im Alltag sonst noch über den Weg läuft.
   </itunes:summary>
 
   <description>
@@ -26,11 +26,26 @@
   <itunes:image href="http://nerdtanke.de/images/die-nerdtanke.png" />
 
   <itunes:category text="Technology">
-  <itunes:category text="Tech News"/>
+    <itunes:category text="Tech News"/>
   </itunes:category>
   <itunes:category text="TV &amp; Film"/>
 
   <itunes:explicit>clean</itunes:explicit>
+
+  <item>
+    <title>Sonderheft: Gamescom 2011</title>
+    <itunes:author>Die Nerdtanke</itunes:author>
+    <itunes:subtitle></itunes:subtitle>
+    <itunes:summary>
+      Dummheit bei EA, Starcraft 2.2, Firefall, Space Marine, End of Nations, Jobs und Ausbildungen in der Spielebranche, Retro-Ecke, Skullgirls, Prey 2, Nicht-Spiele, Aethereus, Kölner sind super
+    </itunes:summary>
+    <itunes:image href="http://nerdtanke.de/images/die-nerdtanke.png" />
+    <enclosure url="http://www.nerdtanke.de/podcasts/nerdtanke-x1.mp3" length="12180782" type="audio/mpeg" />
+    <guid>http://www.nerdtanke.de/podcasts/nerdtanke-x1.mp3</guid>
+    <pubDate>Sat, 20 Aug 2011 22:58:00 +0200</pubDate>
+    <itunes:duration>19:10</itunes:duration>
+    <itunes:keywords></itunes:keywords>
+  </item>
 
   <item>
     <title>#6: Hack &amp; Slay</title>
