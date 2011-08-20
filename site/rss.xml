@@ -4,7 +4,7 @@
 <channel>
   <atom:link href="http://nerdtanke.de/rss.xml" rel="self" type="application/rss+xml" />
   <title>Die Nerdtanke</title>
-  <link>http://www.nerdtanke.de</link>
+  <link>http://nerdtanke.de</link>
   <language>de</language>
   <copyright>Arne Hartherz, Henning Koch, Thomas Eisenbarth</copyright>
   <itunes:subtitle>Bytes und Bier - Einmal vollmachen</itunes:subtitle>
@@ -40,8 +40,8 @@
       Dummheit bei EA, Starcraft 2.2, Firefall, Space Marine, End of Nations, Jobs und Ausbildungen in der Spielebranche, Retro-Ecke, Skullgirls, Prey 2, Nicht-Spiele, Aethereus, Kölner sind super
     </itunes:summary>
     <itunes:image href="http://nerdtanke.de/images/die-nerdtanke.png" />
-    <enclosure url="http://www.nerdtanke.de/podcasts/nerdtanke-x1.mp3" length="12180782" type="audio/mpeg" />
-    <guid>http://www.nerdtanke.de/podcasts/nerdtanke-x1.mp3</guid>
+    <enclosure url="http://nerdtanke.de/podcasts/nerdtanke-x1.mp3" length="12180782" type="audio/mpeg" />
+    <guid>http://nerdtanke.de/podcasts/nerdtanke-x1.mp3</guid>
     <pubDate>Sat, 20 Aug 2011 22:58:00 +0200</pubDate>
     <itunes:duration>19:10</itunes:duration>
     <itunes:keywords></itunes:keywords>
@@ -55,8 +55,8 @@
       Pen &amp; Paper Rollenspiele, LARPs, Diablo, Solarized-Farbpalette, Sublime Text 2, Diablo 3, Deus Ex 3, Starcraft Universe, PubNub, WTF der Woche, Post-It War
     </itunes:summary>
     <itunes:image href="http://nerdtanke.de/images/die-nerdtanke.png" />
-    <enclosure url="http://www.nerdtanke.de/podcasts/nerdtanke-6.mp3" length="21733352" type="audio/mpeg" />
-    <guid>http://www.nerdtanke.de/podcasts/nerdtanke-6.mp3</guid>
+    <enclosure url="http://nerdtanke.de/podcasts/nerdtanke-6.mp3" length="21733352" type="audio/mpeg" />
+    <guid>http://nerdtanke.de/podcasts/nerdtanke-6.mp3</guid>
     <pubDate>Tue, 09 Aug 2011 10:12:00 +0200</pubDate>
     <itunes:duration>34:47</itunes:duration>
     <itunes:keywords></itunes:keywords>
@@ -70,8 +70,8 @@
       Fotografie mit Lytro, Technologieblase, Google, Terminal Multiplexer, TF2, Rage, EA Origin, Miniaturwunderland Hamburg, Breaking Bad, Gradius Slot Machine
     </itunes:summary>
     <itunes:image href="http://nerdtanke.de/images/die-nerdtanke.png" />
-    <enclosure url="http://www.nerdtanke.de/podcasts/nerdtanke-5.mp3" length="23979900" type="audio/mpeg" />
-    <guid>http://www.nerdtanke.de/podcasts/nerdtanke-5.mp3</guid>
+    <enclosure url="http://nerdtanke.de/podcasts/nerdtanke-5.mp3" length="23979900" type="audio/mpeg" />
+    <guid>http://nerdtanke.de/podcasts/nerdtanke-5.mp3</guid>
     <pubDate>Thu, 22 Jul 2011 02:30:00 +0200</pubDate>
     <itunes:duration>39:35</itunes:duration>
     <itunes:keywords></itunes:keywords>
@@ -85,8 +85,8 @@
       f.lux, Windows 8, Wii U, Battlefield 3, Star Wars: The Old Republic, Jamestown, Java 7, Buchtipp: Feed, Trailer: The Girl With The Dragon Tattoo, Betthupferl
     </itunes:summary>
     <itunes:image href="http://nerdtanke.de/images/die-nerdtanke.png" />
-    <enclosure url="http://www.nerdtanke.de/podcasts/nerdtanke-4.mp3" length="21817518" type="audio/mpeg" />
-    <guid>http://www.nerdtanke.de/podcasts/nerdtanke-4.mp3</guid>
+    <enclosure url="http://nerdtanke.de/podcasts/nerdtanke-4.mp3" length="21817518" type="audio/mpeg" />
+    <guid>http://nerdtanke.de/podcasts/nerdtanke-4.mp3</guid>
     <pubDate>Thu, 23 Jun 2011 17:30:00 +0200</pubDate>
     <itunes:duration>34:09</itunes:duration>
     <itunes:keywords></itunes:keywords>
@@ -100,8 +100,8 @@
       kino.to gesperrt, Brink, Configuration Management, Getting Things Done, Trailer-Schnelldurchlauf, Ende des Space-Shuttle-Programms
     </itunes:summary>
     <itunes:image href="http://nerdtanke.de/images/die-nerdtanke.png" />
-    <enclosure url="http://www.nerdtanke.de/podcasts/nerdtanke-3.mp3" length="21817518" type="audio/mpeg" />
-    <guid>http://www.nerdtanke.de/podcasts/nerdtanke-3.mp3</guid>
+    <enclosure url="http://nerdtanke.de/podcasts/nerdtanke-3.mp3" length="21817518" type="audio/mpeg" />
+    <guid>http://nerdtanke.de/podcasts/nerdtanke-3.mp3</guid>
     <pubDate>Thu, 02 Jun 2011 13:37:00 +0200</pubDate>
     <itunes:duration>47:56</itunes:duration>
     <itunes:keywords></itunes:keywords>
@@ -115,8 +115,8 @@
       PSN aufgemacht, Backup unter Linux, StarCraft-Casting-Szene, Black Prophecy, HTML5, Harry Potter 7.2 Trailer, Filmwarnung: Catwoman, The Chapel
     </itunes:summary>
     <itunes:image href="http://nerdtanke.de/images/die-nerdtanke.png" />
-    <enclosure url="http://www.nerdtanke.de/podcasts/nerdtanke-2.mp3" length="21817518" type="audio/mpeg" />
-    <guid>http://www.nerdtanke.de/podcasts/nerdtanke-2.mp3</guid>
+    <enclosure url="http://nerdtanke.de/podcasts/nerdtanke-2.mp3" length="21817518" type="audio/mpeg" />
+    <guid>http://nerdtanke.de/podcasts/nerdtanke-2.mp3</guid>
     <pubDate>Fri, 06 May 2011 00:50:00 +0200</pubDate>
     <itunes:duration>35:16</itunes:duration>
     <itunes:keywords></itunes:keywords>
@@ -130,8 +130,8 @@
       Ubuntu 11.04, Portal 2, Naumachia Space Warfare, Amazon EC2 Outage, "Stroke of insight", Nerd Nite, Battle: LA, Another Earth, The Mountain
     </itunes:summary>
     <itunes:image href="http://nerdtanke.de/images/die-nerdtanke.png" />
-    <enclosure url="http://www.nerdtanke.de/podcasts/nerdtanke-1.mp3" length="20978171" type="audio/mpeg" />
-    <guid>http://www.nerdtanke.de/podcasts/nerdtanke-1.mp3</guid>
+    <enclosure url="http://nerdtanke.de/podcasts/nerdtanke-1.mp3" length="20978171" type="audio/mpeg" />
+    <guid>http://nerdtanke.de/podcasts/nerdtanke-1.mp3</guid>
     <pubDate>Sun, 24 Apr 2011 23:42:00 +0200</pubDate>
     <itunes:duration>33:47</itunes:duration>
     <itunes:keywords>Ubuntu 11.04, Gnome, Unity, Portal 2, Naumachia Space Warfare, Amazon EC2 Outage, "Stroke of insight", Nerd Nite, Battle: LA, Another Earth, The Mountain, Jill Bolte Taylor </itunes:keywords>
