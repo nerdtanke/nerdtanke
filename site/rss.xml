@@ -72,7 +72,7 @@
     <itunes:image href="http://nerdtanke.de/images/die-nerdtanke.png" />
     <enclosure url="http://www.nerdtanke.de/podcasts/nerdtanke-5.mp3" length="23979900" type="audio/mpeg" />
     <guid>http://www.nerdtanke.de/podcasts/nerdtanke-5.mp3</guid> <!-- we are no longer using the www subdomain, but if we change the item UID, all items will pop up as new in feed readers -->
-    <pubDate>Thu, 22 Jul 2011 02:30:00 +0200</pubDate>
+    <pubDate>Fri, 22 Jul 2011 02:30:00 +0200</pubDate>
     <itunes:duration>39:35</itunes:duration>
     <itunes:keywords></itunes:keywords>
   </item>
