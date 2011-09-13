@@ -32,6 +32,23 @@
 
   <itunes:explicit>clean</itunes:explicit>
 
+
+  <item>
+    <title>#7: Trust Issues</title>
+    <itunes:author>Die Nerdtanke</itunes:author>
+    <itunes:subtitle></itunes:subtitle>
+    <itunes:summary>
+      Black Hat / Defcon 2011, DigiNotar, PVP ohne Handschuhe bei EVE Online, Kindle Cloud Reader, Portal Fan-Videos, Städtereisen mit Google My Maps, Syria: The Other Side, Chalkbot
+    </itunes:summary>
+    <itunes:image href="http://nerdtanke.de/images/die-nerdtanke.png" />
+    <enclosure url="http://www.nerdtanke.de/podcasts/nerdtanke-7.mp3" length="18028576" type="audio/mpeg" />
+    <guid>http://nerdtanke.de/podcasts/nerdtanke-7.mp3</guid>
+    <pubDate>Tue, 13 Sep 2011 11:32:00 +0200</pubDate>
+    <itunes:duration>29:26</itunes:duration>
+    <itunes:keywords></itunes:keywords>
+  </item>
+
+
   <item>
     <title>Sonderheft: Gamescom 2011</title>
     <itunes:author>Die Nerdtanke</itunes:author>
