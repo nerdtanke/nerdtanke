@@ -87,7 +87,7 @@ end
 
 # Routes
 Podcast.all(data).each do |podcast|
-  page "#{podcast.page}", :proxy => "/_podcast.html", :ignore => true do
+  page "/#{podcast.page}", :proxy => "_podcast.html", :ignore => true do
     @podcast = podcast
   end
 end
@@ -138,13 +138,13 @@ configure :build do
   activate :minify_css
   
   # Minify Javascript on build
-  activate :minify_javascript
+  # activate :minify_javascript
   
   # Enable cache buster
   # activate :cache_buster
   
   # Use relative URLs
-  # activate :relative_assets
+  activate :relative_assets
   
   # Compress PNGs after build
   # First: gem install middleman-smusher

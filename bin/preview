@@ -1,2 +1,2 @@
 #!/bin/sh
-bundle exec staticmatic preview .
+bundle exec middleman server
