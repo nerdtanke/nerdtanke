@@ -3,36 +3,442 @@
   label: "Die Cloud ist voll"
   date: 2011-04-24
   filesize: 20992690
+  filename: 'nerdtanke-1'
+  duration: '33:47'
+  topics:
+    -
+      timestamp: '0:00'
+      label: 'Hello World'
+    -
+      timestamp: '2:47'
+      label: 'Ubuntu 11.04'
+      url: 'http://www.ubuntu.com/'
+    -
+      timestamp: '9:13'
+      label: 'Portal 2'
+      url: 'http://www.thinkwithportals.com/'
+    -
+      timestamp: '13:52'
+      label: 'Naumachia Space Warfare'
+      url: 'http://naumachia.aureasection.com/'
+    -
+      timestamp: '14:49'
+      label: 'Amazon EC2 Outage'
+    -
+      timestamp: '21:19'
+      label: "Jill Bolte Taylor's Powerful Stroke of Insight"
+      url: 'http://www.ted.com/talks/jill_bolte_taylor_s_powerful_stroke_of_insight.html'
+    -
+      timestamp: '23:15'
+      label: 'Nerd Nite'
+      url: 'http://nerdnite.com/'
+    -
+      timestamp: '26:30'
+      label: 'Battle: Los Angeles'
+      url: 'http://www.youtube.com/watch?v=mEwlqSpj4BA' 
+    -
+      timestamp: '28:59'
+      label: 'Another Earth'
+      url: 'http://www.youtube.com/watch?v=N8hEwMMDtFY' 
+    -
+      timestamp: '31:10'
+      label: 'The Mountain'
+      url: 'http://vimeo.com/22439234' 
+
 -
   episode: 2
   label: "Die Zukunft"
   date: 2011-05-06
   filesize: 21831911
+  filename: 'nerdtanke-2'
+  duration: '35:16'
+  topics:
+    -
+      timestamp: '0:00'
+      label: 'Hello World'
+    -
+      timestamp: '2:05'
+      label: 'PSN aufgemacht'
+      url: 'http://de.playstation.com/psn/'
+    -
+      timestamp: '7:45'
+      label: 'Backup unter Linux: Back In Time'
+      url: 'http://backintime.le-web.org/'
+    -
+      timestamp: '10:02'
+      label: 'StarCraft-Casting-Szene'
+      links:
+        -
+          label: 'NukeTheStars'
+          url: 'http://www.youtube.com/user/NukeTheStars'
+          help: 'SC: Brood War'
+        -
+          label: 'Psy'
+          url: 'http://www.youtube.com/user/PsyStarcraft'
+          help: 'StarCraft II'
+        -
+          label: 'Cricket'
+          url: 'http://www.youtube.com/user/CricketStarcraft'
+          help: 'StarCraft II'
+    -
+      timestamp: '16:51'
+      label: 'Black Prophecy'
+      url: 'http://www.blackprophecy.com/'
+    -
+      timestamp: '20:52'
+      label: 'HTML5'
+      url: 'http://www.html5rocks.com/'
+    -
+      timestamp: '26:46'
+      label: 'Harry Potter 7.2 Trailer'
+      url: 'http://www.youtube.com/watch?v=CndMW6FLEiI'
+    -
+      timestamp: '30:10'
+      label: 'Filmwarnung: Catwoman'
+      url: 'http://www.imdb.com/title/tt0327554/'
+    -
+      timestamp: '31:36'
+      label: 'The Chapel'
+      url: 'http://vimeo.com/16414140'
+
 -
   episode: 3
   label: "Harrison F*ing Ford"
   date: 2011-06-02
   filesize: 30061020
+  filename: 'nerdtanke-3'
+  duration: '47:56'
+  topics:
+    -
+      timestamp: '0:00'
+      label: 'Hello World'
+    -
+      timestamp: '2:40'
+      label: 'Leserbriefe'
+    -
+      timestamp: '6:08'
+      label: 'Gastnerds gesucht'
+    -
+      timestamp: '7:04'
+      label: 'kino.to gesperrt'
+      url: 'http://orf.at/stories/2058766/'
+    -
+      timestamp: '10:09'
+      label: 'Brink'
+      url: 'http://www.brinkthegame.com/'
+    -
+      timestamp: '16:24'
+      label: 'Configuration Management'
+    -
+      timestamp: '27:45'
+      label: 'Getting Things Done'
+      url: 'http://en.wikipedia.org/wiki/Getting_Things_Done'
+    -
+      timestamp: '37:07'
+      label: 'Trailer-Schnelldurchlauf'
+      links:
+        -
+          label: 'Die Abenteuer von Tim und Struppi in 3D'
+          url: 'http://www.youtube.com/watch?v=tqkveLUKwUU'
+        -
+          label: 'Green Lantern Official Trailer #2'
+          url: 'http://www.youtube.com/watch?v=wAueFkHby7A'
+        -
+          label: 'Green Lantern Fan Trailer'
+          url: 'http://www.youtube.com/watch?v=_hTiRnqnvDs'
+        -
+          label: 'Cowboys vs. Aliens'
+          url: 'http://www.youtube.com/watch?v=N13WZaX-OPo'
+    -
+      timestamp: '43:57'
+      label: 'Ende des Space-Shuttle-Programms'
+      url: 'http://www.youtube.com/watch?v=oSWsT95UVuI'
+
 -
   episode: 4
   label: "Ausgenerdet"
   date: 2011-06-23
   filesize: 21642097
+  filename: 'nerdtanke-4'
+  duration: '34:09'
+  topics:
+    -
+      timestamp: '0:00'
+      label: 'Hello World'
+    -
+      timestamp: '0:59'
+      label: 'Leserbriefe'
+    -
+      timestamp: '4:58'
+      label: 'PC-Games-Torte'
+      url: 'http://www.pcgames.de/PC-Games-Podcast-Thema-233689/'
+    -
+      timestamp: '6:54'
+      label: 'f.lux'
+      url: 'http://stereopsis.com/flux/'
+    -
+      timestamp: '8:58'
+      label: 'Windows 8'
+      url: 'http://www.youtube.com/watch?v=p92QfWOw88I'
+    -
+      timestamp: '12:48'
+      label: 'Wii U'
+      url: 'http://www.youtube.com/watch?v=4e3qaPg_keg'
+    -
+      timestamp: '16:06'
+      label: 'Battlefield 3'
+      links:
+        -
+          label: 'Operation Metro'
+          url: 'http://www.battlefield.com/de/battlefield3/videos/bf3-operation-metro-multiplayer-gameplay-trailer'
+        -
+          label: 'Bad Part Of Town'
+          url: 'http://www.battlefield.com/uk/battlefield3/videos/battlefield-3-fault-line-series-episode-1-bad-part-of-town-'
+    -
+      timestamp: '17:22'
+      label: 'Star Wars: The Old Republic'
+      url: 'http://www.youtube.com/watch?v=QyYbvVAtlWk'
+    -
+      timestamp: '18:52'
+      label: 'Jamestown'
+      url: 'http://www.finalformgames.com/jamestown/'
+    -
+      timestamp: '21:47'
+      label: 'Java 7'
+      url: 'http://openjdk.java.net/projects/jdk7/features/'
+    -
+      timestamp: '26:05'
+      label: 'Buchtipp: Feed (Mira Grant)'
+    -
+      timestamp: '29:25'
+      label: 'Trailer: The Girl With The Dragon Tattoo'
+      url: 'http://www.youtube.com/watch?v=xeS8MNPocBw'
+    -
+      timestamp: '30:38'
+      label: 'Betthupferl'
+      links:
+        -
+          label: 'Portal 2 Cosplay'
+          url: 'http://www.youtube.com/watch?v=dC-kHODhTBk'
+        -
+          label: 'Instrument Of Mass Destruction'
+          url: 'http://vimeo.com/19374769'
+        -
+          label: 'Robin & Zelda Williams'
+          url: 'http://www.youtube.com/watch?v=f6oYMtqZk4Y'
+
 -
   episode: 5
   label: "Pi Milliarden Dollar"
   date: 2011-07-22
   filesize: 23979900
+  filename: 'nerdtanke-5'
+  duration: '39:35'
+  topics:
+    -
+      timestamp: '0:00'
+      label: 'Hello World'
+    -
+      timestamp: '1:30'
+      label: 'Hörerbriefe'
+    -
+      timestamp: '4:36'
+      label: 'Fotografie mit Lytro'
+      links:
+        -
+          label: 'Artikel bei AllThingsD'
+          url: 'http://allthingsd.com/20110621/meet-the-stealthy-start-up-that-aims-to-sharpen-focus-of-entire-camera-industry/'
+        -
+          label: 'Interaktive Lytro-Galerie'
+          url: 'http://www.lytro.com/pictures/lyt-15'
+    -
+      timestamp: '6:53'
+      label: 'Internet-Zensur in Australien'
+    -
+      timestamp: '8:00'
+      label: 'Technologieblase 3.0'
+    -
+      timestamp: '11:36'
+      label: 'Googles neue Kleider'
+    -
+      timestamp: '12:55'
+      label: 'Google Plus'
+      url: 'https://plus.google.com/'
+    -
+      timestamp: '14:48'
+      label: 'Pi Milliarden Dollar'
+      url: 'http://science.slashdot.org/story/11/07/02/1335202/Google-Bid-Pi-Billion-Dollars-For-Nortel-Patents'
+    -
+      timestamp: '16:48'
+      label: 'Schnelleres Internet'
+      links:
+        -
+          label: 'Prerendering in Chrome'
+          url: 'http://code.google.com/chrome/whitepapers/prerender.html'
+        -
+          label: 'HD-WUCHT.EXE'
+          url: 'http://www.carstenbank.de/tools.html'
+        -
+          label: 'SPDY'
+          url: 'http://www.chromium.org/spdy/spdy-whitepaper'
+    -
+      timestamp: '21:30'
+      label: 'Terminal Multiplexer'
+      links:
+        -
+          label: 'tmux Tutorial'
+          url: 'http://blog.hawkhost.com/2010/06/28/tmux-the-terminal-multiplexer/'
+        -
+          label: 'tmux vs. GNU Screen'
+          url: 'http://www.techrepublic.com/blog/opensource/is-tmux-the-gnu-screen-killer/1901'
+    -
+      timestamp: '23:30'
+      label: 'Team Fortress 2 ist Free-to-Play'
+      url: 'http://www.teamfortress.com/'
+    -
+      timestamp: '27:11'
+      label: 'Neuer Rage-Trailer'
+      url: 'http://www.joystiq.com/2011/07/10/rage-the-dawn-trailer-breaks-over-the-horizon/'
+    -
+      timestamp: '30:00'
+      label: 'EA Origin'
+      url: 'http://www.joystiq.com/2011/06/03/ea-takes-on-steam-with-origin-the-only-place-to-download-the-ol/'
+    -
+      timestamp: '32:57'
+      label: 'Miniaturwunderland Hamburg'
+      url: 'http://www.miniatur-wunderland.de/'
+    -
+      timestamp: '34:36'
+      label: 'Breaking Bad'
+      url: 'http://www.amctv.com/shows/breaking-bad'
+    -
+      timestamp: '36:38'
+      label: 'Gradius Slot Machine'
+      url: 'http://www.youtube.com/watch?v=WI2MgdfAYe4'
+
 -
   episode: 6
   label: "Hack and Slay"
   date: 2011-08-09
   filesize: 21733352
+  filename: 'nerdtanke-6'
+  duration: '34:47'
+  topics:
+    -
+      timestamp: '0:00'
+      label: 'Hello World'
+    -
+      timestamp: '1:51'
+      label: 'Hörerbriefe'
+    -
+      timestamp: '3:08'
+      label: 'Regenwolke erschiesst Amazon-Cloud'
+      url: 'http://www.zdnet.co.uk/news/cloud/2011/08/08/lightning-strikes-amazons-european-cloud-40093641/'
+    -
+      timestamp: '4:31'
+      label: 'Die "Solarized" Farbpalette'
+      url: 'http://ethanschoonover.com/solarized'
+    -
+      timestamp: '6:24'
+      label: 'Neuer Texteditor: Sublime Text 2'
+      url: 'http://www.sublimetext.com/blog/articles/sublime-text-2-beta'
+    -
+      timestamp: '10:41'
+      label: 'Pen & Paper Rollenspiele'
+    -
+      timestamp: '13:57'
+      label: 'Live-Rollenspiele (LARPs)'
+      links:
+        -
+          label: 'Trailer für Massen-Con (Conquest of Mythodea)'
+          url: 'http://www.live-adventure.de/ConQuest/trailer.php'
+        -
+          label: 'LARP Kalender'
+          url: 'http://www.larpkalender.de/'
+    -
+      timestamp: '18:29'
+      label: 'Diablo 3: Echtgeld-Auktionshaus und Skillungen gestrichen'
+    -
+      timestamp: '23:07'
+      label: 'Leider nicht im Kino: Deus Ex 3'
+      url: 'http://www.youtube.com/watch?v=aRtdAOYKvmI'
+    -
+      timestamp: '24:52'
+      label: 'World of Starcraft: Starcraft Universe'
+      url: 'http://www.eurogamer.net/videos/starcraft-universe-alpha-gameplay'
+    -
+      timestamp: '26:07'
+      label: 'Real-time messaging mit PubNub'
+      url: 'http://www.pubnub.com/'
+    -
+      timestamp: '29:39'
+      label: 'WTF der Woche: Our security auditor is an idiot'
+      url: 'http://serverfault.com/questions/293217/our-security-auditor-is-an-idiot-how-do-i-give-him-the-information-he-wants'
+    -
+      timestamp: '31:45'
+      label: ' Post-It War'
+      url: 'http://www.obviouswinner.com/obvwin/2011/8/4/post-it-war-lands-in-france-as-a-giant-8bit-video-game-build.html'
+    -
+      timestamp: '32:38'
+      label: 'shutdown -h'
+
 -
   episode: x1
   label: "Sonderheft: Gamescom 2011"
   date: 2011-08-20
   filesize: 12180782
+  filename: 'nerdtanke-x1'
+  duration: '19:10'
+  topics:
+    -
+      timestamp: '0:00'
+      label: 'Hello World'
+    -
+      timestamp: '1:05'
+      label: 'Fuck you EA'
+    -
+      timestamp: '1:54'
+      label: 'Starcraft 2.2: Heart of the Swarm'
+      url: 'http://us.battle.net/sc2/en/game/heart-of-the-swarm-preview/'
+    -
+      timestamp: '3:14'
+      label: 'Firefall'
+      url: 'http://www.firefallthegame.com/'
+    -
+      timestamp: '6:04'
+      label: 'Space Marine'
+      url: 'http://www.spacemarine.com'
+    -
+      timestamp: '6:42'
+      label: 'End of Nations'
+      url: 'http://www.endofnations.com'
+    -
+      timestamp: '8:01'
+      label: 'Jobs und Ausbildungen in der Spielebranche'
+      url: 'http://www.gamestar.de/specials/spiele/2324698/gamescom_jobs_karriere.html'
+    -
+      timestamp: '10:34'
+      label: 'Retro-Ecke'
+    -
+      timestamp: '12:07'
+      label: 'Skullgirls'
+      url: 'http://www.skullgirls.com'
+    -
+      timestamp: '13:13'
+      label: 'Prey 2'
+      url: 'http://www.joystiq.com/game/prey-2'
+    -
+      timestamp: '15:40'
+      label: 'Nicht-Spiele'
+    -
+      timestamp: '16:19'
+      label: 'Aethereus'
+      url: 'http://www.aethereusgame.com/'
+    -
+      timestamp: '17:30'
+      label: 'Kölner sind super'
+      url: 'http://wikitravel.org/de/K%C3%B6ln'
+
 -
   episode: 7
   label: "Trust Issues"
