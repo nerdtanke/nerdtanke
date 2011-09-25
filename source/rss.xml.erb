@@ -1,4 +1,4 @@
-<% podcasts.each do |podcast| %>
+<% Podcast.all(data).each do |podcast| %>
   <item>
     <title><%= podcast.short_title %></title>
     <itunes:author>Die Nerdtanke</itunes:author>

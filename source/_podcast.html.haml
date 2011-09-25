@@ -1,1 +1,24 @@
-= render_podcast Podcast.new(@podcast)
+- podcast ||= @podcast
+.podcast
+  %h2
+    = podcast.long_title
+  
+  = player podcast
+
+  .download
+    = link_to "Download als MP3 (#{podcast.megabytes})", podcast.path, :class => 'download_link'
+
+  .shownotes
+    %h4
+      Themen und Shownotes
+
+    %ul
+      - podcast.topics.each do |topic|
+        %li
+          = partial 'topic', :locals => { :topic => topic }
+
+-# For some reason we can't use "partial" (with "_archive")
+-# but need to fall back to "render" (with "archive"):
+
+= render 'archive', :locals => { :except => podcast }
+

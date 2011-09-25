@@ -69,6 +69,16 @@ h3, h4, h5, h6
   a
     color: #66f
     text-decoration: none
+    &.download_link,
+    &.play_link
+      padding-left: 20px
+      background:
+        repeat: no-repeat
+        position: 2px center
+    &.download_link
+      background-image: url('../images/download.png')
+    &.play_link
+      background-image: url('../images/play.png')
     &:hover
       color: #6ff
 
@@ -138,9 +148,14 @@ h3, h4, h5, h6
     #main
 
       margin-left: $sidebar_width + 25px
-
+      
+      #archive,
+      #credits,
+      #imprint,
       .podcast
         +section
+
+      .podcast
         .player, .download, .shownotes
           margin: 10px 0
           &:last-child
@@ -151,25 +166,6 @@ h3, h4, h5, h6
             font-family: arial, helvetica, sans-serif
             font-size: 14px
 
-      #podcasts
-        a
-          &.download_link,
-          &.play_link
-            padding-left: 20px
-            background:
-              repeat: no-repeat
-              position: 2px center
-          &.download_link
-            background-image: url('../images/download.png')
-          &.play_link
-            background-image: url('../images/play.png')
-
-      #credits
-        +section
-
-      #imprint
-        +section
-
       #footer
         position: relative
         .imprint
@@ -179,3 +175,4 @@ h3, h4, h5, h6
           a, a:hover
             color: #666
           font-size: 13px
+
