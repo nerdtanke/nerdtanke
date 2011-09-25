@@ -1,9 +1,9 @@
 <% Podcast.all(data).each do |podcast| %>
   <item>
-    <title><%= podcast.short_title %></title>
+    <title><%=h podcast.short_title %></title>
     <itunes:author>Die Nerdtanke</itunes:author>
     <itunes:subtitle></itunes:subtitle>
-    <itunes:summary><%= podcast.summary %></itunes:summary>
+    <itunes:summary><%=h podcast.summary %></itunes:summary>
     <itunes:image href="http://nerdtanke.de/images/die-nerdtanke.png" />
     <enclosure url="<%= podcast.url %>" length="<%= podcast.filesize %>" type="audio/mpeg" />
     <guid><%= podcast.url %></guid>

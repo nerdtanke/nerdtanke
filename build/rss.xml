@@ -35,7 +35,7 @@
     <title>#7: Trust Issues</title>
     <itunes:author>Die Nerdtanke</itunes:author>
     <itunes:subtitle></itunes:subtitle>
-    <itunes:summary>Black Hat / Defcon 2011, Epic Fail bei DigiNotar, Kindle Cloud Reader, Saber Rider and the Star Sheriffs - The Game, PVP ohne Handschuhe bei EVE Online, Portal Fan-Videos, Städtereisen mit Google My Maps, Syria: The Other Side, Chalkbot</itunes:summary>
+    <itunes:summary>Black Hat &#x2F; Defcon 2011, Epic Fail bei DigiNotar, Kindle Cloud Reader, Saber Rider and the Star Sheriffs - The Game, PVP ohne Handschuhe bei EVE Online, Portal Fan-Videos, Städtereisen mit Google My Maps, Syria: The Other Side, Chalkbot</itunes:summary>
     <itunes:image href="http://nerdtanke.de/images/die-nerdtanke.png" />
     <enclosure url="http://nerdtanke.de/podcasts/nerdtanke-7.mp3" length="18028576" type="audio/mpeg" />
     <guid>http://nerdtanke.de/podcasts/nerdtanke-7.mp3</guid>
@@ -59,7 +59,7 @@
     <title>#6: Hack and Slay</title>
     <itunes:author>Die Nerdtanke</itunes:author>
     <itunes:subtitle></itunes:subtitle>
-    <itunes:summary>Hörerbriefe, Regenwolke erschiesst Amazon-Cloud, Die "Solarized" Farbpalette, Neuer Texteditor: Sublime Text 2, Pen & Paper Rollenspiele, Live-Rollenspiele (LARPs), Diablo 3: Echtgeld-Auktionshaus und Skillungen gestrichen, Leider nicht im Kino: Deus Ex 3, World of Starcraft: Starcraft Universe, Real-time messaging mit PubNub, WTF der Woche: Our security auditor is an idiot,  Post-It War, shutdown -h</itunes:summary>
+    <itunes:summary>Hörerbriefe, Regenwolke erschiesst Amazon-Cloud, Die &quot;Solarized&quot; Farbpalette, Neuer Texteditor: Sublime Text 2, Pen &amp; Paper Rollenspiele, Live-Rollenspiele (LARPs), Diablo 3: Echtgeld-Auktionshaus und Skillungen gestrichen, Leider nicht im Kino: Deus Ex 3, World of Starcraft: Starcraft Universe, Real-time messaging mit PubNub, WTF der Woche: Our security auditor is an idiot,  Post-It War, shutdown -h</itunes:summary>
     <itunes:image href="http://nerdtanke.de/images/die-nerdtanke.png" />
     <enclosure url="http://www.nerdtanke.de/podcasts/nerdtanke-6.mp3" length="21733352" type="audio/mpeg" />
     <guid>http://www.nerdtanke.de/podcasts/nerdtanke-6.mp3</guid>
@@ -119,7 +119,7 @@
     <title>#1: Die Cloud ist voll</title>
     <itunes:author>Die Nerdtanke</itunes:author>
     <itunes:subtitle></itunes:subtitle>
-    <itunes:summary>Ubuntu 11.04, Portal 2, Naumachia Space Warfare, Amazon EC2 Outage, Jill Bolte Taylor's Powerful Stroke of Insight, Nerd Nite, Battle: Los Angeles, Another Earth, The Mountain</itunes:summary>
+    <itunes:summary>Ubuntu 11.04, Portal 2, Naumachia Space Warfare, Amazon EC2 Outage, Jill Bolte Taylor&#x27;s Powerful Stroke of Insight, Nerd Nite, Battle: Los Angeles, Another Earth, The Mountain</itunes:summary>
     <itunes:image href="http://nerdtanke.de/images/die-nerdtanke.png" />
     <enclosure url="http://www.nerdtanke.de/podcasts/nerdtanke-1.mp3" length="20992690" type="audio/mpeg" />
     <guid>http://www.nerdtanke.de/podcasts/nerdtanke-1.mp3</guid>

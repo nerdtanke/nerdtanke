@@ -13,4 +13,4 @@
   %ul
     - podcasts.each do |podcast|
       %li
-        = link_to podcast.long_title, podcast.page
+        = link_to h(podcast.long_title), podcast.page
