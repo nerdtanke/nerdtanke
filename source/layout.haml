@@ -1,0 +1,55 @@
+!!!
+%html{ :lang => 'de', :'xml:lang' => 'de', :xmlns => 'http://www.w3.org/1999/xhtml' }
+  %head
+    %title Die Nerdtanke
+    %meta{ :content => 'text/html; charset=UTF-8', 'http-equiv' => 'Content-Type' }
+    %meta{ :content => 'de', 'http-equiv' => 'Content-Language' }
+    %link{ :type => 'application/rss+xml', :href => 'http://feeds.feedburner.com/DieNerdtanke', :rel => 'alternate', :title => 'Die Nerdtanke als RSS-Feed' }
+    %link{ :type => 'image/x-icon', :rel => 'icon', :href => 'favicon.ico' }
+    %link{ :type => 'image/x-icon', :rel => 'shortcut icon', :href => 'favicon.ico' }
+    = stylesheet_link_tag 'screen', :media => 'screen'
+    = stylesheet_link_tag 'gameboy', :media => 'screen and (max-width: 990px)'
+    = javascript_include_tag 'jquery-1.6.1.min'
+    :javascript
+      $('.play_link').live('click', function() {
+        var self = $(this);
+        var audioTag = self.attr('data-audio')
+        self.parent('.player').append(audioTag).find('audio').get(0).play();
+        self.removeAttr('data-audio').hide();
+        return false;
+      });
+    :javascript
+      var _gaq = _gaq || [];
+      _gaq.push(['_setAccount', 'UA-441965-5']);
+      _gaq.push(['_trackPageview']);
+
+      (function() {
+        var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+      })();
+  %body
+    #page
+      #header
+        %h1= link_to 'Die Nerdtanke', '/'
+        %h4 Bytes und Bier – Einmal vollmachen
+        = link_to image_tag('die-nerdtanke-75x75.png', :alt => '', :id => 'logo'), '/'
+      #torso
+        #sidebar
+          #about
+            %p
+              Wir sind 3 Nerds und sprechen in Podcasts ueber Themen, die Nerds wie euch interessieren.
+          = partial 'social'
+          #hosts
+            = host 'arne'
+            = host 'henning'
+            = host 'thomas'
+            .clear
+        #main
+          = yield
+          #footer
+            - unless @no_footer
+              Kontakt:
+              = link_to 'tankwart@nerdtanke.de', 'mailto:tankwart@nerdtanke.de'
+              .imprint
+                = link_to 'Impressum', 'imprint.html', :rel => 'nofollow'

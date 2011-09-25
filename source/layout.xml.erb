@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+  <channel>
+    <atom:link href="http://nerdtanke.de/rss.xml" rel="self" type="application/rss+xml" />
+    <title>Die Nerdtanke</title>
+    <link>http://nerdtanke.de</link>
+    <language>de</language>
+    <copyright>Arne Hartherz, Henning Koch, Thomas Eisenbarth</copyright>
+    <itunes:subtitle>Bytes und Bier - Einmal vollmachen</itunes:subtitle>
+    <itunes:author>Die Nerdtanke</itunes:author>
+
+    <itunes:summary>
+      Wir (Henning, Thomas und Arne) sind 3 Nerds und sprechen in Podcasts ueber Themen, die Nerds wie euch interessieren. Dazu gehören Technik, Internet, Spiele, Filme und alles was uns im Alltag sonst noch über den Weg läuft.
+    </itunes:summary>
+
+    <description>
+      In der Nerdtanke geht es unter anderem um Technik (Web, Server, Linux, Cloud, Sonne), Spiele und Filme. Und weil das nicht reicht, sprechen wir auch über alles was uns sonst vor die Flinte gekommen ist.
+    </description>
+
+    <itunes:owner>
+      <itunes:name>Arne Hartherz, Henning Koch, Thomas Eisenbarth</itunes:name>
+      <itunes:email>tankwart@nerdtanke.de</itunes:email>
+    </itunes:owner>
+
+    <itunes:image href="http://nerdtanke.de/images/die-nerdtanke.png" />
+
+    <itunes:category text="Technology">
+      <itunes:category text="Tech News"/>
+    </itunes:category>
+    <itunes:category text="TV &amp; Film"/>
+
+    <itunes:explicit>clean</itunes:explicit>
+
+    <%= yield %>
+  </channel>
+</rss>

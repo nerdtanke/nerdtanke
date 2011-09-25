@@ -1,0 +1,29 @@
+@import constants
+@import mixins
+
+#page
+  width: 750px
+  #torso
+    #sidebar
+      position: static
+      width: auto
+      +section
+      #connect
+        #buttons
+          .button
+            display: inline
+
+      #hosts
+        .host
+          margin-bottom: 0
+          margin-right: 10px
+          border-width: 2px
+          padding: 2px
+          img
+            width: 100px
+          .name
+            font-size: 14px
+            line-height: 12px
+    #main
+      margin: 0
+
