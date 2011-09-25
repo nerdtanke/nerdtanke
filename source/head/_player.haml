@@ -1,0 +1,8 @@
+:javascript
+  $('.play_link').live('click', function() {
+    var self = $(this);
+    var audioTag = self.attr('data-audio')
+    self.parent('.player').append(audioTag).find('audio').get(0).play();
+    self.removeAttr('data-audio').hide();
+    return false;
+  });

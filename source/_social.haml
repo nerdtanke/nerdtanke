@@ -1,0 +1,21 @@
+#connect
+  #buttons
+    .button
+      = mail_to 'tankwart@nerdtanke.de', 'E-Mail', :class => 'email'
+    .button
+      = link_to 'RSS', 'http://feeds.feedburner.com/DieNerdtanke', :class => 'rss'
+    .button
+      = link_to 'iTunes', 'http://itunes.apple.com/de/podcast/die-nerdtanke/id434211329', :target => '_blank', :class => 'itunes'
+    .button
+      = link_to 'Facebook', 'https://www.facebook.com/nerdtanke', :target => '_blank', :class => 'facebook'
+    .button
+      = link_to 'https://plus.google.com/107195162516862227780', :target => '_blank', :class => 'google_plus' do
+        %span.blue    G
+        %span.red>    o
+        %span.yellow> o
+        %span.blue>   g
+        %span.green>  l
+        %span.red>    e
+        %span.plus>   +
+    .button
+      = link_to 'Twitter', 'http://twitter.com/nerdtanke', :target => '_blank', :class => 'twitter'

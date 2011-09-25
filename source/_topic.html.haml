@@ -1,0 +1,13 @@
+Ab #{topic.timestamp}:
+= topic.label
+
+- if topic.url
+  (#{link_to topic.link_label, topic.url, :target => '_blank'})
+
+- if topic.links.any?
+  %ul
+    - topic.links.each do |item|
+      %li
+        = link_to item.label, item.url, :target => '_blank'
+        - if item.help
+          (#{item.help})

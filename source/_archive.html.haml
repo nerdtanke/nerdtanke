@@ -1,0 +1,16 @@
+:ruby
+  current = locals[:except]
+  podcasts = Podcast.all(data).tap do |all|
+    all.delete current if current
+  end
+
+#archive
+  %h2
+    - if current
+      Weitere Folgen
+    - else
+      Alle Folgen
+  %ul
+    - podcasts.each do |podcast|
+      %li
+        = link_to podcast.long_title, podcast.page

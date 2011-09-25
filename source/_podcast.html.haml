@@ -1,0 +1,20 @@
+- podcast ||= @podcast
+.podcast
+  %h2
+    = podcast.long_title
+  
+  = player podcast
+
+  .download
+    = link_to "Download als MP3 (#{podcast.megabytes})", podcast.path, :class => 'download_link'
+
+  .shownotes
+    %h4
+      Themen und Shownotes
+
+    %ul
+      - podcast.topics.each do |topic|
+        %li
+          = partial 'topic', :locals => { :topic => topic }
+
+= partial 'archive', :locals => { :except => podcast }
