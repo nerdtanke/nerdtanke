@@ -1,0 +1,17 @@
+!!!
+%html{ :lang => 'de', :'xml:lang' => 'de', :xmlns => 'http://www.w3.org/1999/xhtml' }
+  %head
+    %meta{ :content => 'text/html; charset=UTF-8', 'http-equiv' => 'Content-Type' }
+    %meta{ :content => 'de', 'http-equiv' => 'Content-Language' }
+    %title Die Nerdtanke: Social overview
+    
+    %link{ :type => 'image/x-icon', :rel => 'icon', :href => 'favicon.ico' }
+    %link{ :type => 'image/x-icon', :rel => 'shortcut icon', :href => 'favicon.ico' }
+    = stylesheet_link_tag 'plain'
+  %body
+    #page
+      #torso
+        #main
+          = link_to 'Zurück', '/'
+          = yield
+          = partial 'footer'

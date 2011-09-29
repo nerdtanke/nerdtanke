@@ -1,0 +1,30 @@
+@import reset
+@import constants
+@import mixins
+
+html, body
+  background-color: #000
+  color: #fff
+
+body
+  padding: 10px
+a
+  color: $cga_light_blue
+  &:hover
+    color: $cga_light_cyan
+
+table,
+table th,
+table td
+  border: 1px inset $cga_dark_gray
+
+table
+  border-spacing: 2px
+  margin: 10px 0
+  th
+    font-weight: bold
+    color: $cga_yellow
+  th,
+  td
+    text-align: left
+    padding: 10px

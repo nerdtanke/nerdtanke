@@ -37,8 +37,9 @@ class Podcast
     episode.is_a?(Numeric)
   end
 
-  def title
-    regular? ? "Episode #{episode}: #{label}" : label
+  def title(options = {})
+    title = options[:quotes] ? %{"#{label}"} : label
+    regular? ? "Episode #{episode}: #{title}" : label
   end
   
   def short_title
@@ -83,6 +84,17 @@ class Podcast
   def german_date
     date.strftime "%d.%m.%Y"
   end
+
+  def social_overview
+    topic_labels = topics[1..-1].map(&:label).join ', '
+    "#{title(:quotes => true)}. Diese Woche mit dabei: #{topic_labels}"
+  end
+
+  def unsynced_lyrics
+    topics.map do |topic|
+      "Ab #{topic.timestamp}: #{topic.label}"
+    end.join "\n"
+  end
 end
 
 # Routes
@@ -92,6 +104,7 @@ Podcast.all(data).each do |podcast|
   end
 end
 page 'rss.xml', :layout => 'layout.xml'
+page 'overview.html', :layout => 'layout.plain'
 
 # Methods defined in the helpers block are available in templates
 helpers do

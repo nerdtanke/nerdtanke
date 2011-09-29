@@ -1,0 +1,11 @@
+#episode_overview
+  %table
+    %tr
+      %th{ :width => '10%' } Folge
+      %th{ :width => '45%' } Social
+      %th{ :width => '45%' } Unsynced lyrics
+    - Podcast.all(data).each do |podcast|
+      %tr
+        %td= podcast.episode
+        %td= podcast.social_overview
+        %td= simple_format podcast.unsynced_lyrics
