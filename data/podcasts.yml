@@ -498,3 +498,53 @@
       label: 'Chalkbot'
       url: 'http://gorlochs.com/'
 
+-
+  episode: 8
+  label: "Opus Magnus"
+  date: 2011-10-02
+  filesize: 0
+  duration: '??:??'
+  topics:
+    -
+      timestamp: '0:00'
+      label: 'Hello World'
+    -
+      timestamp: '??:??'
+      label: 'Hörerbriefe'
+    -
+      timestamp: '??:??'
+      label: 'A/B testing'
+    -
+      timestamp: '??:??'
+      label: 'The Doubleclicks'
+      url: 'http://www.youtube.com/user/thedoubleclicks'
+      links:
+        -
+          label: 'Battlestar Galactica Main Title Cover'
+          url: 'http://www.youtube.com/watch?v=FaJilceOa70'
+        -
+          label: 'This Fantasy World'
+          url: 'http://www.youtube.com/watch?v=dQNUmJgRnBo'
+    -
+      timestamp: '??:??'
+      label: 'SSL and the Future of Authenticity'
+      links:
+        -
+          label: 'Blackhat-Talk auf YouTube'
+          url: 'http://www.youtube.com/watch?v=Z7Wl2FW2TcA'
+        -
+          label: 'Convergence'
+          url: 'http://convergence.io/'
+    -
+      timestamp: '??:??'
+      label: 'Blackwell Deception'
+      url: 'http://www.wadjeteyegames.com/blackwell-deception.html'
+    -
+      timestamp: '??:??'
+      label: 'Dead Island'
+      url: 'http://www.deadislandgame.com/'
+    -
+      timestamp: '??:??'
+      label: 'Betthupferl: GoPro'
+      url: 'http://gopro.com/'
+
