@@ -502,22 +502,22 @@
   episode: 8
   label: "Opus Magnus"
   date: 2011-10-02
-  filesize: 0
-  duration: '??:??'
+  filesize: 25470733
+  duration: '38:28'
   topics:
     -
       timestamp: '0:00'
       label: 'Hello World'
     -
-      timestamp: '??:??'
+      timestamp: '1:20'
       label: 'Hörerbriefe'
     -
-      timestamp: '??:??'
+      timestamp: '4:36'
       label: 'A/B testing'
     -
-      timestamp: '??:??'
-      label: 'The Doubleclicks'
-      url: 'http://www.youtube.com/user/thedoubleclicks'
+      timestamp: '7:36'
+      label: 'Portland sings nerd songs: The Doubleclicks'
+      url: 'http://thedoubleclicks.com'
       links:
         -
           label: 'Battlestar Galactica Main Title Cover'
@@ -526,7 +526,7 @@
           label: 'This Fantasy World'
           url: 'http://www.youtube.com/watch?v=dQNUmJgRnBo'
     -
-      timestamp: '??:??'
+      timestamp: '23:20'
       label: 'SSL and the Future of Authenticity'
       links:
         -
@@ -536,15 +536,15 @@
           label: 'Convergence'
           url: 'http://convergence.io/'
     -
-      timestamp: '??:??'
+      timestamp: '30:44'
       label: 'Blackwell Deception'
       url: 'http://www.wadjeteyegames.com/blackwell-deception.html'
     -
-      timestamp: '??:??'
+      timestamp: '33:49'
       label: 'Dead Island'
       url: 'http://www.deadislandgame.com/'
     -
-      timestamp: '??:??'
+      timestamp: '35:42'
       label: 'Betthupferl: GoPro'
       url: 'http://gopro.com/'
 

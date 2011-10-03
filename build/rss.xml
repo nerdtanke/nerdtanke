@@ -32,6 +32,18 @@
     <itunes:explicit>clean</itunes:explicit>
 
       <item>
+    <title>#8: Opus Magnus</title>
+    <itunes:author>Die Nerdtanke</itunes:author>
+    <itunes:subtitle></itunes:subtitle>
+    <itunes:summary>Hörerbriefe, A&#x2F;B testing, Portland sings nerd songs: The Doubleclicks, SSL and the Future of Authenticity, Blackwell Deception, Dead Island, Betthupferl: GoPro</itunes:summary>
+    <itunes:image href="http://nerdtanke.de/images/die-nerdtanke.png" />
+    <enclosure url="http://nerdtanke.de/podcasts/nerdtanke-8.mp3" length="25470733" type="audio/mpeg" />
+    <guid>http://nerdtanke.de/podcasts/nerdtanke-8.mp3</guid>
+    <pubDate>Sun, 02 Oct 2011 00:00:00 +0200</pubDate>
+    <itunes:duration>38:28</itunes:duration>
+    <itunes:keywords></itunes:keywords>
+  </item>
+  <item>
     <title>#7: Trust Issues</title>
     <itunes:author>Die Nerdtanke</itunes:author>
     <itunes:subtitle></itunes:subtitle>
