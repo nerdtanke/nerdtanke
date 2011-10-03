@@ -501,7 +501,7 @@
 -
   episode: 8
   label: "Opus Magnus"
-  date: 2011-10-02
+  date: 2011-10-03
   filesize: 25470733
   duration: '38:28'
   topics:
@@ -511,9 +511,23 @@
     -
       timestamp: '1:20'
       label: 'Hörerbriefe'
+      links:
+        -
+          label: 'Saber Rider Fan-Wiki'
+          url: 'http://www.yuma-city.de'
+        -
+          label: 'Medtronic ignoriert Insulinpumpem-Hack'
+          url: 'http://www.theregister.co.uk/2011/08/25/medtronic_insulin_pump_hacking/'
+        -
+          label: 'The Gamers'
+          url: 'http://www.youtube.com/watch?v=fiTEHqAeanw'
     -
       timestamp: '4:36'
       label: 'A/B testing'
+      links:
+        -
+          label: '37signals.com homepage evolution'
+          url: 'http://37signals.com/svn/posts/3007-37signalscom-homepage-evolution'
     -
       timestamp: '7:36'
       label: 'Portland sings nerd songs: The Doubleclicks'
