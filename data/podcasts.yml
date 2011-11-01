@@ -562,3 +562,68 @@
       label: 'Betthupferl: GoPro'
       url: 'http://gopro.com/'
 
+-
+  episode: 9
+  label: "Schreikissen"
+  date: 2011-11-01
+  filesize: 0
+  duration: '??:??'
+  topics:
+    -
+      timestamp: '0:00'
+      label: 'Hello World'
+    -
+      timestamp: '??:??'
+      label: 'Hörerbriefe'
+    -
+      timestamp: '??:??'
+      label: 'Musik auf Android'
+      links:
+        -
+          label: 'XiiaLive'
+          url: 'https://market.android.com/details?id=com.android.DroidLiveLite'
+        -
+          label: 'PowerAmp'
+          url: 'https://market.android.com/details?id=com.maxmpz.audioplayer'
+    -
+      timestamp: '??:??'
+      label: 'Open Vim'
+      url: 'http://www.openvim.com/'
+    -
+      timestamp: '??:??'
+      label: 'R-Type Final'
+      url: 'http://en.wikipedia.org/wiki/R-Type_Final'
+    -
+      timestamp: '??:??'
+      label: 'Team Fortress Arcade'
+      url: 'http://geek.pikimal.com/2011/09/29/team-fortress-arcade-releases-today-download-it-free-now/'
+    -
+      timestamp: '??:??'
+      label: 'RAGE'
+      url: 'http://www.rage.com/'
+    -
+      timestamp: '??:??'
+      label: 'tzarchive.qz'
+      url: 'http://www.thedailyparker.com/PermaLink,guid,c5f28bae-4b9c-41ea-b7b7-8891ad63c938.aspx'
+    -
+      timestamp: '??:??'
+      label: 'Staatstrojaner'
+      url: 'http://www.ccc.de/de/updates/2011/staatstrojaner'
+      links:
+        -
+          label: 'Bericht (PDF)'
+          url: 'http://www.ccc.de/system/uploads/76/original/staatstrojaner-report23.pdf'
+    -
+      timestamp: '??:??'
+      label: 'Betthupferl'
+      links:
+        -
+          label: 'Woman hears herself for the first time'
+          url: 'http://www.themarysue.com/woman-hears-herself-for-the-first-time/'
+        -
+          label: 'Luke, I am your father'
+          url: 'http://www.youtube.com/watch?v=ZbV5hn_ET0U'
+        -
+          label: "Apple's Siri vs Portal's GlaDOS"
+          url: 'http://www.youtube.com/watch?v=QFv4J4yQcrI'
+
