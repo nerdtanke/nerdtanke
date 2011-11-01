@@ -566,17 +566,17 @@
   episode: 9
   label: "Schreikissen"
   date: 2011-11-01
-  filesize: 0
-  duration: '??:??'
+  filesize: 23951064
+  duration: '34:44'
   topics:
     -
       timestamp: '0:00'
       label: 'Hello World'
     -
-      timestamp: '??:??'
+      timestamp: '1:14'
       label: 'Hörerbriefe'
     -
-      timestamp: '??:??'
+      timestamp: '1:45'
       label: 'Musik auf Android'
       links:
         -
@@ -586,27 +586,33 @@
           label: 'PowerAmp'
           url: 'https://market.android.com/details?id=com.maxmpz.audioplayer'
     -
-      timestamp: '??:??'
+      timestamp: '6:49'
       label: 'Open Vim'
       url: 'http://www.openvim.com/'
     -
-      timestamp: '??:??'
+      timestamp: '9:35'
       label: 'R-Type Final'
-      url: 'http://en.wikipedia.org/wiki/R-Type_Final'
+      links:
+        -
+          label: 'R-Type Podcast vom Retrozirkel'
+          url: 'http://retrozirkel.de/episodes/REZ004.mp3'
+        -
+          label: 'R-Type Final'
+          url: 'http://rtype.wikia.com/wiki/R-Type_Final'
     -
-      timestamp: '??:??'
+      timestamp: '15:37'
       label: 'Team Fortress Arcade'
       url: 'http://geek.pikimal.com/2011/09/29/team-fortress-arcade-releases-today-download-it-free-now/'
     -
-      timestamp: '??:??'
+      timestamp: '17:08'
       label: 'RAGE'
       url: 'http://www.rage.com/'
     -
-      timestamp: '??:??'
+      timestamp: '19:27'
       label: 'tzarchive.qz'
       url: 'http://www.thedailyparker.com/PermaLink,guid,c5f28bae-4b9c-41ea-b7b7-8891ad63c938.aspx'
     -
-      timestamp: '??:??'
+      timestamp: '23:47'
       label: 'Staatstrojaner'
       url: 'http://www.ccc.de/de/updates/2011/staatstrojaner'
       links:
@@ -614,7 +620,7 @@
           label: 'Bericht (PDF)'
           url: 'http://www.ccc.de/system/uploads/76/original/staatstrojaner-report23.pdf'
     -
-      timestamp: '??:??'
+      timestamp: '27:36'
       label: 'Betthupferl'
       links:
         -
@@ -624,6 +630,5 @@
           label: 'Luke, I am your father'
           url: 'http://www.youtube.com/watch?v=ZbV5hn_ET0U'
         -
-          label: "Apple's Siri vs Portal's GlaDOS"
+          label: "Apple's Siri vs. Portal's GlaDOS"
           url: 'http://www.youtube.com/watch?v=QFv4J4yQcrI'
-

@@ -32,6 +32,18 @@
     <itunes:explicit>clean</itunes:explicit>
 
       <item>
+    <title>#9: Schreikissen</title>
+    <itunes:author>Die Nerdtanke</itunes:author>
+    <itunes:subtitle></itunes:subtitle>
+    <itunes:summary>Hörerbriefe, Musik auf Android, Open Vim, R-Type Final, Team Fortress Arcade, RAGE, tzarchive.qz, Staatstrojaner, Betthupferl</itunes:summary>
+    <itunes:image href="http://nerdtanke.de/images/die-nerdtanke.png" />
+    <enclosure url="http://nerdtanke.de/podcasts/nerdtanke-9.mp3" length="23951064" type="audio/mpeg" />
+    <guid>http://nerdtanke.de/podcasts/nerdtanke-9.mp3</guid>
+    <pubDate>Tue, 01 Nov 2011 00:00:00 +0100</pubDate>
+    <itunes:duration>34:44</itunes:duration>
+    <itunes:keywords></itunes:keywords>
+  </item>
+  <item>
     <title>#8: Opus Magnus</title>
     <itunes:author>Die Nerdtanke</itunes:author>
     <itunes:subtitle></itunes:subtitle>
