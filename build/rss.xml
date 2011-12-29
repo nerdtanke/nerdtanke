@@ -32,6 +32,18 @@
     <itunes:explicit>clean</itunes:explicit>
 
       <item>
+    <title>Sonderheft: Personal Security</title>
+    <itunes:author>Die Nerdtanke</itunes:author>
+    <itunes:subtitle></itunes:subtitle>
+    <itunes:summary>Sichere und unsichere Verbindungen, Fremde Terminals, Passwörter, Festplattenverschlüsselung, Was es bedeutet, wenn man ein Programm startet, Nerdtanke Gewinnspiel</itunes:summary>
+    <itunes:image href="http://nerdtanke.de/images/die-nerdtanke.png" />
+    <enclosure url="http://nerdtanke.de/podcasts/nerdtanke-x2.mp3" length="29721399" type="audio/mpeg" />
+    <guid>http://nerdtanke.de/podcasts/nerdtanke-x2.mp3</guid>
+    <pubDate>Fri, 30 Dec 2011 00:00:00 +0100</pubDate>
+    <itunes:duration>42:48</itunes:duration>
+    <itunes:keywords></itunes:keywords>
+  </item>
+  <item>
     <title>#9: Schreikissen</title>
     <itunes:author>Die Nerdtanke</itunes:author>
     <itunes:subtitle></itunes:subtitle>

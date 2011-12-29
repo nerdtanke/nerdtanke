@@ -632,3 +632,47 @@
         -
           label: "Apple's Siri vs. Portal's GlaDOS"
           url: 'http://www.youtube.com/watch?v=QFv4J4yQcrI'
+
+-
+  episode: x2
+  label: "Sonderheft: Personal Security"
+  date: 2011-12-30
+  filesize: 29721399
+  duration: '42:48'
+  topics:
+    -
+      timestamp: '0:00'
+      label: 'Hello World'
+    -
+      timestamp: '1:21'
+      label: 'Sichere und unsichere Verbindungen'
+    -
+      timestamp: '11:08'
+      label: 'Fremde Terminals'
+    -
+      timestamp: '16:15'
+      label: 'Passwörter'
+      links:
+        -
+          label: 'KeePass Password Safe'
+          url: 'http://keepass.info/'
+        -
+          label: 'XKCD: Password Strength'
+          url: 'http://xkcd.com/936/'
+    -
+      timestamp: '21:42'
+      label: 'Festplattenverschlüsselung'
+      links:
+        -
+          label: 'TrueCrypt'
+          url: 'http://www.truecrypt.org/'
+        -
+          label: 'Ubuntu: How can I encrypt the entire disk?'
+          url: 'http://askubuntu.com/questions/48766/how-can-i-encrypt-the-entire-disk-on-alternate-installation'
+
+    -
+      timestamp: '30:41'
+      label: 'Was es bedeutet, wenn man ein Programm startet'
+    -
+      timestamp: '40:19'
+      label: 'Nerdtanke Gewinnspiel'
