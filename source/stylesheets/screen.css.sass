@@ -1,11 +1,12 @@
 @import reset
 @import silkscreen
+@import ronda_seven
 @import constants
 @import mixins
 
 html, body
   background-color: #000
-  color: #fff
+  color: #eee
   min-height: 100% // Opera 11 (when toggling print preview)
 
 body
@@ -13,9 +14,9 @@ body
   font:
     weight: normal
     style: normal
-    family: 'Silkscreen', monospace
-    size: 25px
-  line-height: 25px // We do not want to round because the download_link icon cannot be positioned properly cross-browser
+    family: 'PF Ronda Seven', monospace
+    size: 16px
+  line-height: 22px // We do not want to round because the download_link icon cannot be positioned properly cross-browser
 
 p,
 ul
@@ -26,18 +27,23 @@ ul
 ul
   li
     padding-left: 20px
-    background: url(../images/bullet.png) no-repeat 5px 8px
+    background: url(../images/bullet.png) no-repeat 4px 8px
+    ul
+      margin-left: -3px
+
+h1, h2, h3, h4, h5, h6
+  font-weight: bold
 
 h1, h2
-  color: #6f6
+  color: #f40
   a
-    color: #6f6 !important
+    color: #f40 !important
 
 h2
   margin-bottom: 5px
 
 h3, h4, h5, h6
-  color: #ff6
+  color: #777
 
 .clear
   height: 0
@@ -53,34 +59,37 @@ h3, h4, h5, h6
     position: relative
     padding-left: 90px
     margin-bottom: 23px
-    padding-bottom: 16px
-    border-bottom: 3px solid #333
+    padding-bottom: 23px
+    height: 75px
+    border-bottom: 3px solid #222
 
     #logo
       position: absolute
       left: 0
       top: 2px
     h1
-      font-size: 50px
+      font-size: 48px
       line-height: 50px
-      margin: 0 -3px
+      margin: 0
       font-weight: bold
+      text-transform: uppercase
+      text-shadow: 3px -3px 0 #ff0
 
   a
-    color: #66f
+    color: #08f
     text-decoration: none
     &.download_link,
     &.play_link
       padding-left: 20px
       background:
         repeat: no-repeat
-        position: 2px center
+        position: 0 6px
     &.download_link
       background-image: url('../images/download.png')
     &.play_link
       background-image: url('../images/play.png')
     &:hover
-      color: #6ff
+      color: #4af
 
   #torso
     position: relative
