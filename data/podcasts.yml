@@ -664,12 +664,14 @@
       label: 'Festplattenverschlüsselung'
       links:
         -
-          label: 'TrueCrypt'
+          label: 'Für Windows: TrueCrypt'
           url: 'http://www.truecrypt.org/'
         -
-          label: 'Ubuntu: How can I encrypt the entire disk?'
+          label: 'Für Ubuntu: dmcrypt'
           url: 'http://askubuntu.com/questions/48766/how-can-i-encrypt-the-entire-disk-on-alternate-installation'
-
+        -
+          label: 'Für MacOS X: FileVault 2'
+          url: 'http://support.apple.com/kb/HT4790'
     -
       timestamp: '30:41'
       label: 'Was es bedeutet, wenn man ein Programm startet'
