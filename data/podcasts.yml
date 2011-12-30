@@ -673,6 +673,10 @@
     -
       timestamp: '30:41'
       label: 'Was es bedeutet, wenn man ein Programm startet'
+      links:
+        -
+          label: 'utorrent.com compromised'
+          url: 'http://blog.bittorrent.com/2011/09/13/security-incident/'
     -
       timestamp: '40:19'
       label: 'Nerdtanke Gewinnspiel'
