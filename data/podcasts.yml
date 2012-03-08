@@ -687,21 +687,21 @@
   episode: 10
   label: "Fnordonanien"
   date: 2012-03-08
-  filesize: 
-  duration: '??:??'
+  filesize: 36938817
+  duration: '53:35'
   topics:
     -
       timestamp: '0:00'
       label: 'Hello World'
     -
-      timestamp: '?:??'
+      timestamp: '1:47'
       label: 'Marias Tankanlage'
       url: 'https://plus.google.com/107195162516862227780/posts/bZWvmwUViVB'
     -
-      timestamp: '?:??'
+      timestamp: '2:44'
       label: 'Hörerbriefe'
     -
-      timestamp: '??:??'
+      timestamp: '10:53'
       label: 'Windows 8'
       links:
         -
@@ -711,19 +711,19 @@
           label: "\"A Few Things We Didn't Get To Show\""
           url: 'http://www.youtube.com/watch?v=1Hq95vtoS28#t=297s'
     -
-      timestamp: '??:??'
+      timestamp: '15:09'
       label: 'Google Maps Indoors'
       url: 'http://www.youtube.com/watch?v=Gy-DI_bWElg'
     -
-      timestamp: '??:??'
+      timestamp: '17:04'
       label: 'Dick werden mit Schokolade'
       url: 'http://www.milka.de/milka2/page?locale=dede1&PagecRef=616&pid=1832&cid=104'
     -
-      timestamp: '??:??'
+      timestamp: '17:24'
       label: 'Mass Effect 3 Demo'
       url: 'http://store.origin.com/store/eade/de_DE/html/originweb/play4free/pbPage.play-free-games-de_DE'
     -
-      timestamp: '??:??'
+      timestamp: '19:44'
       label: 'Bundle Wars'
       links:
         -
@@ -733,11 +733,11 @@
           label: 'Indie Royale'
           url: 'http://www.indieroyale.com/'
     -
-      timestamp: '??:??'
+      timestamp: '22:48'
       label: 'Dear Esther'
       url: 'http://dear-esther.com/'
     -
-      timestamp: '??:??'
+      timestamp: '24:54'
       label: 'NuoDB'
       url: 'http://www.nuodb.com/'
       links:
@@ -745,15 +745,15 @@
           label: 'CAP-Theorem'
           url: 'http://de.wikipedia.org/wiki/CAP-Theorem'
     -
-      timestamp: '??:??'
+      timestamp: '28:50'
       label: "Wir haben's doch gesagt"
       url: 'https://www.eff.org/deeplinks/2011/12/newyears-resolution-full-disk-encryption-every-computer-you-own'
     -
-      timestamp: '??:??'
+      timestamp: '29:55'
       label: 'Death by brinicle'
       url: 'http://www.geekosystem.com/death-by-brinicle/'
     -
-      timestamp: '??:??'
+      timestamp: '31:10'
       label: 'E-Mails'
       links:
         -
@@ -769,11 +769,11 @@
           label: 'Conditions of Sending Email'
           url: 'http://doc.coker.com.au/legal/conditions-email/'
     -
-      timestamp: '??:??'
+      timestamp: '36:32'
       label: 'Lego man on a balloon odyssey 24 kilometres high'
       url: 'http://www.thestar.com/news/article/1120808--toronto-teens-send-lego-man-on-a-balloon-odyssey-24-kilometres-high'
     -
-      timestamp: '??:??'
+      timestamp: '37:54'
       label: 'WTF des Monats: Seltsame Wikis'
       links:
         -
@@ -783,20 +783,20 @@
           label: 'Kamelopedia'
           url: 'http://kamelopedia.mormo.org/'
     -
-      timestamp: '??:??'
+      timestamp: '40:04'
       label: 'Überfail: Chicane Boxed Set'
     -
-      timestamp: '??:??'
+      timestamp: '42:41'
       label: 'Kino'
       links:
         -
           label: 'Iron Sky (Trailer)'
           url: 'http://www.youtube.com/watch?v=Py_IndUbcxc'
         -
-          label: 'Love (IMDB)'
-          url: 'http://www.imdb.com/title/tt1541874/'
+          label: 'Love (Trailer)'
+          url: 'http://www.youtube.com/watch?v=YiYmAixzpMg'
     -
-      timestamp: '??:??'
+      timestamp: '46:15'
       label: 'Betthupferl'
       links:
         -
@@ -812,5 +812,5 @@
           label: 'Diary Code Break'
           url: 'http://diarycodebreak.wordpress.com/'
     -
-      timestamp: '??:??'
+      timestamp: '50:11'
       label: 'Nerdtanke-Gewinnspiel'
