@@ -682,3 +682,135 @@
     -
       timestamp: '40:19'
       label: 'Nerdtanke Gewinnspiel'
+
+-
+  episode: 10
+  label: "Fnordonanien"
+  date: 2012-03-08
+  filesize: 
+  duration: '??:??'
+  topics:
+    -
+      timestamp: '0:00'
+      label: 'Hello World'
+    -
+      timestamp: '?:??'
+      label: 'Marias Tankanlage'
+      url: 'https://plus.google.com/107195162516862227780/posts/bZWvmwUViVB'
+    -
+      timestamp: '?:??'
+      label: 'Hörerbriefe'
+    -
+      timestamp: '??:??'
+      label: 'Windows 8'
+      links:
+        -
+          label: 'Windows 8 Consumer Preview (Beta 1)'
+          url: 'http://windows.microsoft.com/de-DE/windows-8/consumer-preview'
+        -
+          label: "\"A Few Things We Didn't Get To Show\""
+          url: 'http://www.youtube.com/watch?v=1Hq95vtoS28#t=297s'
+    -
+      timestamp: '??:??'
+      label: 'Google Maps Indoors'
+      url: 'http://www.youtube.com/watch?v=Gy-DI_bWElg'
+    -
+      timestamp: '??:??'
+      label: 'Dick werden mit Schokolade'
+      url: 'http://www.milka.de/milka2/page?locale=dede1&PagecRef=616&pid=1832&cid=104'
+    -
+      timestamp: '??:??'
+      label: 'Mass Effect 3 Demo'
+      url: 'http://store.origin.com/store/eade/de_DE/html/originweb/play4free/pbPage.play-free-games-de_DE'
+    -
+      timestamp: '??:??'
+      label: 'Bundle Wars'
+      links:
+        -
+          label: 'Humble Indie Bundle'
+          url: 'http://www.humblebundle.com/'
+        -
+          label: 'Indie Royale'
+          url: 'http://www.indieroyale.com/'
+    -
+      timestamp: '??:??'
+      label: 'Dear Esther'
+      url: 'http://dear-esther.com/'
+    -
+      timestamp: '??:??'
+      label: 'NuoDB'
+      url: 'http://www.nuodb.com/'
+      links:
+        -
+          label: 'CAP-Theorem'
+          url: 'http://de.wikipedia.org/wiki/CAP-Theorem'
+    -
+      timestamp: '??:??'
+      label: "Wir haben's doch gesagt"
+      url: 'https://www.eff.org/deeplinks/2011/12/newyears-resolution-full-disk-encryption-every-computer-you-own'
+    -
+      timestamp: '??:??'
+      label: 'Death by brinicle'
+      url: 'http://www.geekosystem.com/death-by-brinicle/'
+    -
+      timestamp: '??:??'
+      label: 'E-Mails'
+      links:
+        -
+          label: "I'm on vacation, and I've deleted your message -- really"
+          url: 'http://pragdave.blogs.pragprog.com/pragdave/2011/04/so-im-trying-an-email-experiment.html'
+        -
+          label: 'VW: Keine E-Mails nach Feierabend'
+          url: 'http://www.spiegel.de/wirtschaft/service/0,1518,805524,00.html'
+        -
+          label: 'E-Mail Bankruptcy'
+          url: 'http://en.wikipedia.org/wiki/Email_bankruptcy'
+        -
+          label: 'Conditions of Sending Email'
+          url: 'http://doc.coker.com.au/legal/conditions-email/'
+    -
+      timestamp: '??:??'
+      label: 'Lego man on a balloon odyssey 24 kilometres high'
+      url: 'http://www.thestar.com/news/article/1120808--toronto-teens-send-lego-man-on-a-balloon-odyssey-24-kilometres-high'
+    -
+      timestamp: '??:??'
+      label: 'WTF des Monats: Seltsame Wikis'
+      links:
+        -
+          label: 'MNwiki'
+          url: 'http://mnwiki.de/'
+        -
+          label: 'Kamelopedia'
+          url: 'http://kamelopedia.mormo.org/'
+    -
+      timestamp: '??:??'
+      label: 'Überfail: Chicane Boxed Set'
+    -
+      timestamp: '??:??'
+      label: 'Kino'
+      links:
+        -
+          label: 'Iron Sky (Trailer)'
+          url: 'http://www.youtube.com/watch?v=Py_IndUbcxc'
+        -
+          label: 'Love (IMDB)'
+          url: 'http://www.imdb.com/title/tt1541874/'
+    -
+      timestamp: '??:??'
+      label: 'Betthupferl'
+      links:
+        -
+          label: 'Dominik Eulberg - Das Neunauge'
+          url: 'http://player.vimeo.com/video/26155386?autoplay=1'
+        -
+          label: 'Super Mario Player Select Screen Reimagined'
+          url: 'http://www.youtube.com/watch?v=lHahbKFONF8'
+        -
+          label: 'Best birthday present ever'
+          url: 'http://martinkool.com/post/17611582440/game-developer-gives-7yr-old-best-birthday-present-ever'
+        -
+          label: 'Diary Code Break'
+          url: 'http://diarycodebreak.wordpress.com/'
+    -
+      timestamp: '??:??'
+      label: 'Nerdtanke-Gewinnspiel'

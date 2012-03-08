@@ -32,6 +32,18 @@
     <itunes:explicit>clean</itunes:explicit>
 
       <item>
+    <title>#10: Fnordonanien</title>
+    <itunes:author>Die Nerdtanke</itunes:author>
+    <itunes:subtitle></itunes:subtitle>
+    <itunes:summary>Marias Tankanlage, Hörerbriefe, Windows 8, Google Maps Indoors, Dick werden mit Schokolade, Mass Effect 3 Demo, Bundle Wars, Dear Esther, NuoDB, Wir haben&#x27;s doch gesagt, Death by brinicle, E-Mails, Lego man on a balloon odyssey 24 kilometres high, WTF des Monats: Seltsame Wikis, Überfail: Chicane Boxed Set, Kino, Betthupferl, Nerdtanke-Gewinnspiel</itunes:summary>
+    <itunes:image href="http://nerdtanke.de/images/die-nerdtanke.png" />
+    <enclosure url="http://nerdtanke.de/podcasts/nerdtanke-10.mp3" length="" type="audio/mpeg" />
+    <guid>http://nerdtanke.de/podcasts/nerdtanke-10.mp3</guid>
+    <pubDate>Thu, 08 Mar 2012 00:00:00 +0100</pubDate>
+    <itunes:duration>??:??</itunes:duration>
+    <itunes:keywords></itunes:keywords>
+  </item>
+  <item>
     <title>Sonderheft: Personal Security</title>
     <itunes:author>Die Nerdtanke</itunes:author>
     <itunes:subtitle></itunes:subtitle>

@@ -7,8 +7,8 @@
     <link href='http://feeds.feedburner.com/DieNerdtanke' rel='alternate' title='Die Nerdtanke als RSS-Feed' type='application/rss+xml' />
     <link href='favicon.ico' rel='icon' type='image/x-icon' />
     <link href='favicon.ico' rel='shortcut icon' type='image/x-icon' />
-    <link type="text/css" rel="stylesheet" href="stylesheets/screen.css" media="screen" />
-    <link type="text/css" rel="stylesheet" href="stylesheets/gameboy.css" media="screen and (max-width: 990px)" />
+    <link type="text/css" media="screen" href="stylesheets/screen.css" rel="stylesheet" />
+    <link type="text/css" media="screen and (max-width: 990px)" href="stylesheets/gameboy.css" rel="stylesheet" />
     <script type="text/javascript" src="javascripts/jquery-1.6.1.min.js"></script>
     <script type='text/javascript'>
       //<![CDATA[
@@ -40,7 +40,7 @@
       <div id='header'>
         <h1><a href="/">Die Nerdtanke</a></h1>
         <h4>Bytes und Bier – Einmal vollmachen</h4>
-        <a href="/"><img alt="" src="images/die-nerdtanke-75x75.png" id="logo" /></a>
+        <a href="/"><img src="images/die-nerdtanke-75x75.png" alt="" id="logo" /></a>
       </div>
       <div id='torso'>
         <div id='sidebar'>
@@ -58,24 +58,24 @@
                 <a class="rss" href="http://feeds.feedburner.com/DieNerdtanke">RSS</a>
               </div>
               <div class='button'>
-                <a class="itunes" target="_blank" href="http://itunes.apple.com/de/podcast/die-nerdtanke/id434211329">iTunes</a>
+                <a target="_blank" class="itunes" href="http://itunes.apple.com/de/podcast/die-nerdtanke/id434211329">iTunes</a>
               </div>
               <div class='button'>
-                <a class="facebook" target="_blank" href="https://www.facebook.com/nerdtanke">Facebook</a>
+                <a target="_blank" class="facebook" href="https://www.facebook.com/nerdtanke">Facebook</a>
               </div>
               <div class='button'>
-                      <a class="google_plus" target="_blank" href="https://plus.google.com/107195162516862227780"><span class='blue'>G</span><span class='red'>o</span><span class='yellow'>o</span><span class='blue'>g</span><span class='green'>l</span><span class='red'>e</span><span class='plus'>+</span></a>
+                      <a target="_blank" class="google_plus" href="https://plus.google.com/107195162516862227780"><span class='blue'>G</span><span class='red'>o</span><span class='yellow'>o</span><span class='blue'>g</span><span class='green'>l</span><span class='red'>e</span><span class='plus'>+</span></a>
           
           </div>
               <div class='button'>
-                <a class="twitter" target="_blank" href="http://twitter.com/nerdtanke">Twitter</a>
+                <a target="_blank" class="twitter" href="http://twitter.com/nerdtanke">Twitter</a>
               </div>
             </div>
           </div>
           <div id='hosts'>
-            <div class="host"><img alt="Arne" src="images/hosts/x2/arne.png" /><div class="name">Arne</div></div>
-            <div class="host"><img alt="Henning" src="images/hosts/x2/henning.png" /><div class="name">Henning</div></div>
-            <div class="host"><img alt="Thomas" src="images/hosts/x2/thomas.png" /><div class="name">Thomas</div></div>
+            <div class="host"><img src="images/hosts/x2/arne.png" alt="Arne" /><div class="name">Arne</div></div>
+            <div class="host"><img src="images/hosts/x2/henning.png" alt="Henning" /><div class="name">Henning</div></div>
+            <div class="host"><img src="images/hosts/x2/thomas.png" alt="Thomas" /><div class="name">Thomas</div></div>
             <div class='clear'></div>
           </div>
         </div>
@@ -84,7 +84,7 @@
             <h2>
               Episode 6: Hack and Slay (09.08.2011)
             </h2>
-            <div class="player"><a class="play_link" href="#" data-audio="&lt;audio controls=&quot;controls&quot;&gt;&lt;source type=&quot;audio/ogg&quot; src=&quot;podcasts/nerdtanke-6.ogg&quot; /&gt;&lt;source type=&quot;audio/mpeg&quot; src=&quot;podcasts/nerdtanke-6.mp3&quot; /&gt;&lt;/audio&gt;">Abspielen (34:47)</a></div>
+            <div class="player"><a data-audio="&lt;audio controls=&quot;controls&quot;&gt;&lt;source type=&quot;audio/ogg&quot; src=&quot;podcasts/nerdtanke-6.ogg&quot; /&gt;&lt;source type=&quot;audio/mpeg&quot; src=&quot;podcasts/nerdtanke-6.mp3&quot; /&gt;&lt;/audio&gt;" class="play_link" href="#">Abspielen (34:47)</a></div>
             <div class='download'>
               <a class="download_link" href="podcasts/nerdtanke-6.mp3">Download als MP3 (21 MB)</a>
             </div>
@@ -174,6 +174,9 @@
             </h2>
             <ul>
               <li>
+                <a href="10.html">Episode 10: Fnordonanien (08.03.2012)</a>
+              </li>
+              <li>
                 <a href="x2.html">Sonderheft: Personal Security (30.12.2011)</a>
               </li>
               <li>
@@ -209,7 +212,7 @@
             Kontakt:
             <a href="mailto:tankwart@nerdtanke.de">tankwart@nerdtanke.de</a>
             <div class='imprint'>
-              <a rel="nofollow" href="imprint.html">Impressum</a>
+              <a href="imprint.html" rel="nofollow">Impressum</a>
             </div>
           </div>
         </div>
