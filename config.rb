@@ -12,6 +12,16 @@ class Topic
   def link_label
     url.match(%r{[^/]+://([^/]+)})[1].sub(%r{^www\.}, '')
   end
+
+  def full_label
+    parts = [ label ]
+    parts.unshift "Ab #{timestamp}" if timestamp?
+    parts.join(': ')
+  end
+
+  def timestamp?
+    timestamp.present?
+  end
 end
 
 class Podcast
@@ -91,9 +101,7 @@ class Podcast
   end
 
   def unsynced_lyrics
-    topics.map do |topic|
-      "Ab #{topic.timestamp}: #{topic.label}"
-    end.join "\n"
+    topics.map(&:full_label).join "\n"
   end
 end
 

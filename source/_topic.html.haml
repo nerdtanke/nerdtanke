@@ -1,5 +1,4 @@
-Ab #{topic.timestamp}:
-= h(topic.label)
+= h(topic.full_label)
 
 - if topic.url
   (#{link_to h(topic.link_label), topic.url, :target => '_blank'})
