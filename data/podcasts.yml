@@ -814,3 +814,80 @@
     -
       timestamp: '50:11'
       label: 'Nerdtanke-Gewinnspiel'
+
+-
+  episode: 11
+  label: "The Lost Levels"
+  date: 2012-07-22
+  filesize: 0
+  duration: '??:??'
+  topics:
+    -
+      label: 'Hello World'
+    -
+      label: 'HTML5 Color Cycling'
+      url: 'http://www.effectgames.com/demos/canvascycle/'
+    -
+      label: 'Google vs Oracle: Badass Judge'
+      url: 'https://plus.google.com/110412141990454266397/posts/fk5VXPpiQZR'
+    -
+      label: 'Microsoft Surface'
+      url: 'http://www.microsoft.com/surface/'
+    -
+      label: 'TODOs mit Holly'
+      url: 'https://hollyapp.com/'
+    -
+      label: 'Artemis Spaceship Bridge Simulator'
+      url: 'http://www.artemis.eochu.com/'
+    -
+      label: 'Internet Defense League'
+      url: 'http://internetdefenseleague.org/'
+    -
+      label: '.secure TLD'
+      url: 'https://artemis.net/'
+    -
+      label: 'Download-Installer'
+      url: 'http://news.ycombinator.com/item?id=2910554'
+    -
+      label: '@NeedADebitCard'
+      url: 'https://twitter.com/needadebitcard'
+    -
+      label: 'SSL Stripping'
+      url: 'http://www.imperialviolet.org/2012/07/19/hope9talk.html'
+    -
+      label: 'ScreamBody'
+      url: 'http://www.youtube.com/watch?v=Ta7rN5TeKzw'
+    -
+      label: 'NukeTheStars hört auf mit StarCraft-Casten'
+      url: 'http://www.youtube.com/watch?v=K62T8SNxUUA'
+    -
+      label: 'Straßenverkehrsordnung (StVO): Das Hörbuch'
+      url: 'https://www.amazon.de/dp/3839811953/'
+    -
+      label: 'Diablo III'
+      url: 'http://www.diablo3.com'
+    -
+      label: 'Valve portiert Steam und Source-Engine auf Linux'
+      links:
+        -
+          label: "Steam'd Penguins"
+          url: 'http://blogs.valvesoftware.com/linux/steamd-penguins/'
+        -
+          label: 'The zombies cometh...'
+          url: 'http://www.paranormal-entertainment.com/idr/blog/posts/2012-07-19T18:54:37Z-The_zombies_cometh/'
+    -
+      label: 'The Escapist'
+      links:
+        -
+          label: "Miracle of Sound: Joker's Song"
+          url: 'http://www.escapistmagazine.com/videos/view/miracle-of-sound/5286-Jokers-Song-Batman-Arkham-City'
+        -
+          label: 'Zero Punctuation'
+          url: 'http://www.escapistmagazine.com/videos/view/zero-punctuation'
+    -
+      label: 'Project "Blow Job"'
+      url: 'http://www.tadaocern.com/gallery_blowjob.html'
+    -
+      label: 'The Most Astounding Fact'
+      url: 'http://vimeo.com/38101676'
+
