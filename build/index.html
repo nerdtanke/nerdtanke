@@ -7,8 +7,8 @@
     <link href='http://feeds.feedburner.com/DieNerdtanke' rel='alternate' title='Die Nerdtanke als RSS-Feed' type='application/rss+xml' />
     <link href='favicon.ico' rel='icon' type='image/x-icon' />
     <link href='favicon.ico' rel='shortcut icon' type='image/x-icon' />
-    <link type="text/css" media="screen" rel="stylesheet" href="stylesheets/screen.css" />
-    <link type="text/css" media="screen and (max-width: 990px)" rel="stylesheet" href="stylesheets/gameboy.css" />
+    <link type="text/css" rel="stylesheet" href="stylesheets/screen.css" media="screen" />
+    <link type="text/css" rel="stylesheet" href="stylesheets/gameboy.css" media="screen and (max-width: 990px)" />
     <script type="text/javascript" src="javascripts/jquery-1.6.1.min.js"></script>
     <script type='text/javascript'>
       //<![CDATA[
@@ -34,6 +34,19 @@
         })();
       //]]>
     </script>
+    <script type='text/javascript'>
+      //<![CDATA[
+        window._idl = {};
+        _idl.variant = "banner";
+        (function() {
+          var idl = document.createElement('script');
+          idl.type = 'text/javascript';
+          idl.async = true;
+          idl.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'members.internetdefenseleague.org/include/?url=' + (_idl.url || '') + '&campaign=' + (_idl.campaign || '') + '&variant=' + (_idl.variant || 'banner');
+          document.getElementsByTagName('body')[0].appendChild(idl);
+        })();
+      //]]>
+    </script>
   </head>
   <body>
     <div id='page'>
@@ -52,23 +65,23 @@
           <div id='connect'>
             <div id='buttons'>
               <div class='button'>
-                <a class="email" href="mailto:tankwart@nerdtanke.de">E-Mail</a>
+                <a href="mailto:tankwart@nerdtanke.de" class="email">E-Mail</a>
               </div>
               <div class='button'>
-                <a class="rss" href="http://feeds.feedburner.com/DieNerdtanke">RSS</a>
+                <a href="http://feeds.feedburner.com/DieNerdtanke" class="rss">RSS</a>
               </div>
               <div class='button'>
-                <a class="itunes" target="_blank" href="http://itunes.apple.com/de/podcast/die-nerdtanke/id434211329">iTunes</a>
+                <a href="http://itunes.apple.com/de/podcast/die-nerdtanke/id434211329" target="_blank" class="itunes">iTunes</a>
               </div>
               <div class='button'>
-                <a class="facebook" target="_blank" href="https://www.facebook.com/nerdtanke">Facebook</a>
+                <a href="https://www.facebook.com/nerdtanke" target="_blank" class="facebook">Facebook</a>
               </div>
               <div class='button'>
-                      <a class="google_plus" target="_blank" href="https://plus.google.com/107195162516862227780"><span class='blue'>G</span><span class='red'>o</span><span class='yellow'>o</span><span class='blue'>g</span><span class='green'>l</span><span class='red'>e</span><span class='plus'>+</span></a>
+                      <a href="https://plus.google.com/107195162516862227780" target="_blank" class="google_plus"><span class='blue'>G</span><span class='red'>o</span><span class='yellow'>o</span><span class='blue'>g</span><span class='green'>l</span><span class='red'>e</span><span class='plus'>+</span></a>
           
           </div>
               <div class='button'>
-                <a class="twitter" target="_blank" href="http://twitter.com/nerdtanke">Twitter</a>
+                <a href="http://twitter.com/nerdtanke" target="_blank" class="twitter">Twitter</a>
               </div>
             </div>
           </div>
@@ -83,11 +96,11 @@
           <div id='podcasts'>
             <div class='podcast'>
               <h2>
-                Episode 10: Fnordonanien (08.03.2012)
+                Episode 11: The Lost Levels (22.07.2012)
               </h2>
-              <div class="player"><a class="play_link" data-audio="&lt;audio controls=&quot;controls&quot;&gt;&lt;source type=&quot;audio/ogg&quot; src=&quot;podcasts/nerdtanke-10.ogg&quot; /&gt;&lt;source type=&quot;audio/mpeg&quot; src=&quot;podcasts/nerdtanke-10.mp3&quot; /&gt;&lt;/audio&gt;" href="#">Abspielen (53:35)</a></div>
+              <div class="player"><a href="#" class="play_link" data-audio="&lt;audio controls=&quot;controls&quot;&gt;&lt;source type=&quot;audio/ogg&quot; src=&quot;podcasts/nerdtanke-11.ogg&quot; /&gt;&lt;source type=&quot;audio/mpeg&quot; src=&quot;podcasts/nerdtanke-11.mp3&quot; /&gt;&lt;/audio&gt;">Abspielen (1:03:42)</a></div>
               <div class='download'>
-                <a class="download_link" href="podcasts/nerdtanke-10.mp3">Download als MP3 (35 MB)</a>
+                <a href="podcasts/nerdtanke-11.mp3" class="download_link">Download als MP3 (42 MB)</a>
               </div>
               <div class='shownotes'>
                 <h4>
@@ -95,154 +108,93 @@
                 </h4>
                 <ul>
                   <li>
-                    Ab 0:00:
                     Hello World
                   </li>
                   <li>
-                    Ab 1:47:
-                    Marias Tankanlage
-                    (<a target="_blank" href="https://plus.google.com/107195162516862227780/posts/bZWvmwUViVB">plus.google.com</a>)
+                    HTML5 Color Cycling
+                    (<a href="http://www.effectgames.com/demos/canvascycle/" target="_blank">effectgames.com</a>)
                   </li>
                   <li>
-                    Ab 2:44:
-                    Hoererbriefe
+                    Google vs Oracle: Badass Judge
+                    (<a href="https://plus.google.com/110412141990454266397/posts/fk5VXPpiQZR" target="_blank">plus.google.com</a>)
                   </li>
                   <li>
-                    Ab 10:53:
-                    Windows 8
+                    Microsoft Surface
+                    (<a href="http://www.microsoft.com/surface/" target="_blank">microsoft.com</a>)
+                  </li>
+                  <li>
+                    TODOs mit Holly
+                    (<a href="https://hollyapp.com/" target="_blank">hollyapp.com</a>)
+                  </li>
+                  <li>
+                    Artemis Spaceship Bridge Simulator
+                    (<a href="http://www.artemis.eochu.com/" target="_blank">artemis.eochu.com</a>)
+                  </li>
+                  <li>
+                    Internet Defense League
+                    (<a href="http://internetdefenseleague.org/" target="_blank">internetdefenseleague.org</a>)
+                  </li>
+                  <li>
+                    .secure TLD
+                    (<a href="https://artemis.net/" target="_blank">artemis.net</a>)
+                  </li>
+                  <li>
+                    Download-Installer
+                    (<a href="http://news.ycombinator.com/item?id=2910554" target="_blank">news.ycombinator.com</a>)
+                  </li>
+                  <li>
+                    @NeedADebitCard
+                    (<a href="https://twitter.com/needadebitcard" target="_blank">twitter.com</a>)
+                  </li>
+                  <li>
+                    SSL Stripping
+                    (<a href="http://www.imperialviolet.org/2012/07/19/hope9talk.html" target="_blank">imperialviolet.org</a>)
+                  </li>
+                  <li>
+                    ScreamBody
+                    (<a href="http://www.youtube.com/watch?v=Ta7rN5TeKzw" target="_blank">youtube.com</a>)
+                  </li>
+                  <li>
+                    NukeTheStars hoert auf mit StarCraft-Casten
+                    (<a href="http://www.youtube.com/watch?v=K62T8SNxUUA" target="_blank">youtube.com</a>)
+                  </li>
+                  <li>
+                    Strassenverkehrsordnung (StVO): Das Hoerbuch
+                    (<a href="https://www.amazon.de/dp/3839811953/" target="_blank">amazon.de</a>)
+                  </li>
+                  <li>
+                    Diablo III
+                    (<a href="http://www.diablo3.com" target="_blank">diablo3.com</a>)
+                  </li>
+                  <li>
+                    Valve portiert Steam und Source-Engine auf Linux
                     <ul>
                       <li>
-                        <a target="_blank" href="http://windows.microsoft.com/de-DE/windows-8/consumer-preview">Windows 8 Consumer Preview (Beta 1)</a>
+                        <a href="http://blogs.valvesoftware.com/linux/steamd-penguins/" target="_blank">Steam&#x27;d Penguins</a>
                       </li>
                       <li>
-                        <a target="_blank" href="http://www.youtube.com/watch?v=1Hq95vtoS28#t=297s">&quot;A Few Things We Didn&#x27;t Get To Show&quot;</a>
+                        <a href="http://www.paranormal-entertainment.com/idr/blog/posts/2012-07-19T18:54:37Z-The_zombies_cometh/" target="_blank">The zombies cometh...</a>
                       </li>
                     </ul>
                   </li>
                   <li>
-                    Ab 15:09:
-                    Google Maps Indoors
-                    (<a target="_blank" href="http://www.youtube.com/watch?v=Gy-DI_bWElg">youtube.com</a>)
-                  </li>
-                  <li>
-                    Ab 17:04:
-                    Dick werden mit Schokolade
-                    (<a target="_blank" href="http://www.milka.de/milka2/page?locale=dede1&PagecRef=616&pid=1832&cid=104">milka.de</a>)
-                  </li>
-                  <li>
-                    Ab 17:24:
-                    Mass Effect 3 Demo
-                    (<a target="_blank" href="http://store.origin.com/store/eade/de_DE/html/originweb/play4free/pbPage.play-free-games-de_DE">store.origin.com</a>)
-                  </li>
-                  <li>
-                    Ab 19:44:
-                    Bundle Wars
+                    The Escapist
                     <ul>
                       <li>
-                        <a target="_blank" href="http://www.humblebundle.com/">Humble Indie Bundle</a>
+                        <a href="http://www.escapistmagazine.com/videos/view/miracle-of-sound/5286-Jokers-Song-Batman-Arkham-City" target="_blank">Miracle of Sound: Joker&#x27;s Song</a>
                       </li>
                       <li>
-                        <a target="_blank" href="http://www.indieroyale.com/">Indie Royale</a>
+                        <a href="http://www.escapistmagazine.com/videos/view/zero-punctuation" target="_blank">Zero Punctuation</a>
                       </li>
                     </ul>
                   </li>
                   <li>
-                    Ab 22:48:
-                    Dear Esther
-                    (<a target="_blank" href="http://dear-esther.com/">dear-esther.com</a>)
+                    Project &quot;Blow Job&quot;
+                    (<a href="http://www.tadaocern.com/gallery_blowjob.html" target="_blank">tadaocern.com</a>)
                   </li>
                   <li>
-                    Ab 24:54:
-                    NuoDB
-                    (<a target="_blank" href="http://www.nuodb.com/">nuodb.com</a>)
-                    <ul>
-                      <li>
-                        <a target="_blank" href="http://de.wikipedia.org/wiki/CAP-Theorem">CAP-Theorem</a>
-                      </li>
-                    </ul>
-                  </li>
-                  <li>
-                    Ab 28:50:
-                    Wir haben&#x27;s doch gesagt
-                    (<a target="_blank" href="https://www.eff.org/deeplinks/2011/12/newyears-resolution-full-disk-encryption-every-computer-you-own">eff.org</a>)
-                  </li>
-                  <li>
-                    Ab 29:55:
-                    Death by brinicle
-                    (<a target="_blank" href="http://www.geekosystem.com/death-by-brinicle/">geekosystem.com</a>)
-                  </li>
-                  <li>
-                    Ab 31:10:
-                    E-Mails
-                    <ul>
-                      <li>
-                        <a target="_blank" href="http://pragdave.blogs.pragprog.com/pragdave/2011/04/so-im-trying-an-email-experiment.html">I&#x27;m on vacation, and I&#x27;ve deleted your message -- really</a>
-                      </li>
-                      <li>
-                        <a target="_blank" href="http://www.spiegel.de/wirtschaft/service/0,1518,805524,00.html">VW: Keine E-Mails nach Feierabend</a>
-                      </li>
-                      <li>
-                        <a target="_blank" href="http://en.wikipedia.org/wiki/Email_bankruptcy">E-Mail Bankruptcy</a>
-                      </li>
-                      <li>
-                        <a target="_blank" href="http://doc.coker.com.au/legal/conditions-email/">Conditions of Sending Email</a>
-                      </li>
-                    </ul>
-                  </li>
-                  <li>
-                    Ab 36:32:
-                    Lego man on a balloon odyssey 24 kilometres high
-                    (<a target="_blank" href="http://www.thestar.com/news/article/1120808--toronto-teens-send-lego-man-on-a-balloon-odyssey-24-kilometres-high">thestar.com</a>)
-                  </li>
-                  <li>
-                    Ab 37:54:
-                    WTF des Monats: Seltsame Wikis
-                    <ul>
-                      <li>
-                        <a target="_blank" href="http://mnwiki.de/">MNwiki</a>
-                      </li>
-                      <li>
-                        <a target="_blank" href="http://kamelopedia.mormo.org/">Kamelopedia</a>
-                      </li>
-                    </ul>
-                  </li>
-                  <li>
-                    Ab 40:04:
-                    Ueberfail: Chicane Boxed Set
-                  </li>
-                  <li>
-                    Ab 42:41:
-                    Kino
-                    <ul>
-                      <li>
-                        <a target="_blank" href="http://www.youtube.com/watch?v=Py_IndUbcxc">Iron Sky (Trailer)</a>
-                      </li>
-                      <li>
-                        <a target="_blank" href="http://www.youtube.com/watch?v=YiYmAixzpMg">Love (Trailer)</a>
-                      </li>
-                    </ul>
-                  </li>
-                  <li>
-                    Ab 46:15:
-                    Betthupferl
-                    <ul>
-                      <li>
-                        <a target="_blank" href="http://player.vimeo.com/video/26155386?autoplay=1">Dominik Eulberg - Das Neunauge</a>
-                      </li>
-                      <li>
-                        <a target="_blank" href="http://www.youtube.com/watch?v=lHahbKFONF8">Super Mario Player Select Screen Reimagined</a>
-                      </li>
-                      <li>
-                        <a target="_blank" href="http://martinkool.com/post/17611582440/game-developer-gives-7yr-old-best-birthday-present-ever">Best birthday present ever</a>
-                      </li>
-                      <li>
-                        <a target="_blank" href="http://diarycodebreak.wordpress.com/">Diary Code Break</a>
-                      </li>
-                    </ul>
-                  </li>
-                  <li>
-                    Ab 50:11:
-                    Nerdtanke-Gewinnspiel
+                    The Most Astounding Fact
+                    (<a href="http://vimeo.com/38101676" target="_blank">vimeo.com</a>)
                   </li>
                 </ul>
               </div>
@@ -252,6 +204,9 @@
                 Weitere Folgen
               </h2>
               <ul>
+                <li>
+                  <a href="10.html">Episode 10: Fnordonanien (08.03.2012)</a>
+                </li>
                 <li>
                   <a href="x2.html">Sonderheft: Personal Security (30.12.2011)</a>
                 </li>

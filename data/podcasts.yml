@@ -819,8 +819,8 @@
   episode: 11
   label: "The Lost Levels"
   date: 2012-07-22
-  filesize: 0
-  duration: '??:??'
+  filesize: 43760172
+  duration: '1:03:42'
   topics:
     -
       label: 'Hello World'
