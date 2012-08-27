@@ -891,3 +891,96 @@
       label: 'The Most Astounding Fact'
       url: 'http://vimeo.com/38101676'
 
+-
+  episode: 12
+  label: "Dumme Leute"
+  date: 2012-08-28
+  filesize: 0
+  duration: '??:??'
+  topics:
+    -
+      label: 'Hello World'
+    -
+      label: 'Hörerbriefe'
+    -
+      label: 'Leute am Flughafen'
+    -
+      label: 'Zombies, Run!'
+      url: 'https://www.zombiesrungame.com/'
+    -
+      label: 'E-Mail-Account ist der Masterschlüssel'
+      links:
+        -
+          label: 'Google Mail: Application-specific password'
+          url: 'http://support.google.com/mail/bin/answer.py?hl=en&answer=1173270'
+    -
+      label: 'Google Fiber'
+      url: 'http://fiber.google.com/about/'
+    -
+      label: 'Pomodoro Technique'
+      url: 'http://www.pomodorotechnique.com/'
+    -
+      label: 'Pornos gucken im Büro'
+      url: 'http://www.theverge.com/2012/8/2/3214589/pentagon-missile-defense-agency-internet-porn-security'
+    -
+      label: 'Fedora setzt auf Gnome-2-Fork MATE'
+      url: 'http://fedoraproject.org/wiki/Features/MATE-Desktop'
+    -
+      label: "Terms of Service; didn't read"
+      url: 'http://tos-dr.info/'
+    -
+      label: "Ubisoft's Uplay-Rootkit"
+      url: 'http://news.ycombinator.com/item?id=4311264'
+    -
+      label: 'Wing Commander Saga'
+      url: 'http://www.wcsaga.com/'
+    -
+      label: 'Death Rally'
+      url: 'http://store.steampowered.com/app/108700/'
+    -
+      label: 'LVL-UP Augsburg'
+      url: 'http://www.lvlup-augsburg.com/'
+    -
+      label: 'TF2 Coop: Mann vs. Machine'
+      url: 'http://www.teamfortress.com/mvm/'
+    -
+      label: 'Sphere'
+      url: 'http://www.remiboutin.com/projectsphere/en/sphere.html'
+    -
+      label: 'Stripe: Capture the Flag'
+      url: 'https://stripe-ctf.com/'
+    -
+      label: '5 Design Tricks Facebook Uses To Affect Your Privacy Decisions'
+      url: 'http://techcrunch.com/2012/08/25/5-design-tricks-facebook-uses-to-affect-your-privacy-decisions/'
+    -
+      label: 'Unexpected Ass Kicking'
+      url: 'http://joelrunyon.com/two3/an-unexpected-ass-kicking/'
+      links:
+        -
+          label: 'Russel Kirsch'
+          url: 'http://en.wikipedia.org/wiki/Russell_A._Kirsch'
+    -
+      label: 'Neues Microsoft-Logo'
+      links:
+        -
+          label: 'Microsoft Unveils a New Look'
+          url: 'http://blogs.technet.com/b/microsoft_blog/archive/2012/08/23/microsoft-unveils-a-new-look.aspx'
+        -
+          label: 'Minimally Minimal: The Next Microsoft'
+          url: 'http://www.minimallyminimal.com/2012/7/3/the-next-microsoft.html'
+        -
+          label: 'The Wikipedia Redefined'
+          url: 'http://www.wikipediaredefined.com/'
+    -
+      label: 'Raja Ram explains the Mixer'
+      url: 'http://www.youtube.com/watch?v=LQL-fJ8yTLU'
+    -
+      label: 'Afternoon Express'
+      url: 'http://www.youtube.com/watch?v=ZvMo0CHwMs0'
+    -
+      label: 'Neil Armstrong: Rest in Peace, Rocket Man'
+      url: 'http://www.theatlantic.com/technology/archive/2012/08/rest-in-peace-rocket-man/261576/'
+    -
+      label: 'Cloud Atlas'
+      url: 'http://www.youtube.com/watch?v=hWnAqFyaQ5s'
+
