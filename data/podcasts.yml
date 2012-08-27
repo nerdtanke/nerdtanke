@@ -895,8 +895,8 @@
   episode: 12
   label: "Dumme Leute"
   date: 2012-08-28
-  filesize: 0
-  duration: '??:??'
+  filesize: 61622107
+  duration: '1:30:28'
   topics:
     -
       label: 'Hello World'
