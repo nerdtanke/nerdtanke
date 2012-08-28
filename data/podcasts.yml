@@ -960,6 +960,9 @@
           label: 'Russel Kirsch'
           url: 'http://en.wikipedia.org/wiki/Russell_A._Kirsch'
     -
+      label: 'How we screwed (almost) the whole Apple community'
+      url: 'http://day4.se/how-we-screwed-almost-the-whole-apple-community/'
+    -
       label: 'Neues Microsoft-Logo'
       links:
         -
@@ -983,4 +986,7 @@
     -
       label: 'Cloud Atlas'
       url: 'http://www.youtube.com/watch?v=hWnAqFyaQ5s'
+    -
+      label: 'The Fountain'
+      url: 'http://www.youtube.com/watch?v=dAuxryJ6pv8'
 
