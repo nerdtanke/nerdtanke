@@ -989,4 +989,116 @@
     -
       label: 'The Fountain'
       url: 'http://www.youtube.com/watch?v=dAuxryJ6pv8'
+-
+  episode: 13
+  label: "Bier64-Encoded"
+  date: 2012-10-18
+  filesize: 0
+  duration: '??:??'
+  topics:
+    -
+      label: 'Hello World'
+    -
+      label: 'Sophos Update-Fail'
+      url: 'http://www.heise.de/security/meldung/Sophos-Virenschutz-verdaechtigt-sich-selbst-und-andere-1713175.html'
+    -
+      label: 'Zombies, Run! Reloaded'
+      url: 'https://www.zombiesrungame.com/'
+    -
+      label: 'HTTPS session hijacking'
+      url: 'http://arstechnica.com/security/2012/09/crime-hijacks-https-sessions/'
+      links:
+        -
+          label: 'Kryptochef'
+          url: 'http://kryptochef.net/'
+    -
+      label: "Bug in Ubuntu: \"grep -R doesn't automatically search amazon\""
+      url: 'https://bugs.launchpad.net/ubuntu/+source/gnome-terminal/+bug/1055766'
+    -
+      label: 'Opendedup'
+      url: 'http://opendedup.org/'
+      links:
+        -
+          label: 'Microsoft DriveSpace'
+          url: 'http://de.wikipedia.org/wiki/DriveSpace'
+    -
+      label: 'Ready Player One'
+      url: 'http://en.wikipedia.org/wiki/Ready_Player_One'
+    -
+      label: 'Home'
+      url: 'http://www.homehorror.com/'
+    -
+      label: 'Torchlight II'
+      url: 'http://www.torchlight2game.com/'
+    -
+      label: 'Intrusion 2'
+      url: 'http://www.intrusion2.com/'
+    -
+      label: 'Google Street View jetzt auch unter Wasser'
+      url: 'http://googleblog.blogspot.de/2012/09/dive-into-great-barrier-reef-with-first_25.html'
+    -
+      label: 'Qubes'
+      url: 'http://theinvisiblethings.blogspot.de/2012/09/introducing-qubes-10.html'
+      links:
+        -
+          label: 'How is Qubes OS different from...'
+          url: 'http://theinvisiblethings.blogspot.de/2012/09/how-is-qubes-os-different-from.html'
+    -
+      label: 'Why I Hired A Girl On Craigslist to Slap Me In The Face'
+      url: 'http://hackthesystem.com/blog/why-i-hired-a-girl-on-craigslist-to-slap-me-in-the-face-and-why-it-quadrupled-my-productivity/'
+    -
+      label: 'QI'
+      url: 'http://www.youtube.com/user/quite1nteresting'
+    -
+      label: 'Looper'
+      url: 'http://www.youtube.com/watch?v=2iQuhsmtfHw'
+    -
+      label: 'Star Citizen'
+      url: 'http://www.gamestar.de/spiele/star-citizen-/artikel/star_citizen,48820,3005666.html'
+      links:
+        -
+          label: 'Trailer + Sneak'
+          url: 'http://player.vimeo.com/video/51135962'
+        -
+          label: 'Webseite'
+          url: 'http://www.robertsspaceindustries.com/star-citizen/'
+    -
+      label: 'Starcraft: Orcs in Space Go Down in Flames'
+      url: 'http://www.codeofhonor.com/blog/starcraft-orcs-in-space-go-down-in-flames'
+    -
+      label: 'Clean IT'
+      url: 'http://www.edri.org/files/cleanIT_sept2012.pdf'
+    -
+      label: 'Is it OK to hold credit card numbers in cookies? Santander?'
+      url: 'http://seclists.org/fulldisclosure/2012/Oct/101'
+    -
+      label: 'Desktop 3D Printer'
+      url: 'http://formlabs.com/'
+    -
+      label: 'Did Microsoft just kill Flash?'
+      url: 'http://blog.rabidgremlin.com/2012/10/11/did-microsoft-just-kill-flash-ie10-wont-run-flash-unless-your-site-is-on-a-microsoft-whitelist/'
+    -
+      label: 'Deep Blue vs. Kasparov'
+      url: 'http://www.washingtonpost.com/blogs/ezra-klein/wp/2012/09/26/nate-silvers-the-signal-and-the-noise/'
+    -
+      label: 'Samsung vs. Apple'
+      links:
+        -
+          label: 'The Next Big Thing is Already Here'
+          url: 'http://www.youtube.com/watch?v=nf5-Prx19ZM'
+        -
+          label: 'The Next Big Thing, San Francisco'
+          url: 'http://www.youtube.com/watch?v=2c-LZ_hraQo'
+        -
+          label: 'The Next Big Thing, NYC'
+          url: 'http://www.youtube.com/watch?v=ZKh68YfQYkE'
+    -
+      label: 'Watch XCOM: Enemy Unknown developer failing to sell his game early'
+      url: 'http://www.eurogamer.net/articles/2012-10-03-watch-xcom-enemy-unknown-developer-failing-to-sell-his-game-early'
+    -
+      label: 'Dubstep Dispute'
+      url: 'http://vimeo.com/44878206'
+    -
+      label: 'Hierfür wurde das Internet erfunden'
+      url: 'http://www.youtube.com/watch?v=wTniWCh0nwo'
 
