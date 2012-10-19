@@ -32,6 +32,18 @@
     <itunes:explicit>clean</itunes:explicit>
 
       <item>
+    <title>#13: Bier64-Encoded</title>
+    <itunes:author>Die Nerdtanke</itunes:author>
+    <itunes:subtitle></itunes:subtitle>
+    <itunes:summary>Sophos Update-Fail, Zombies, Run! Reloaded, HTTPS session hijacking, Bug in Ubuntu: &quot;grep -R doesn&#x27;t automatically search amazon&quot;, Opendedup, Ready Player One, Home, Torchlight II, Intrusion 2, Google Street View jetzt auch unter Wasser, Qubes, Why I Hired A Girl On Craigslist to Slap Me In The Face, QI, Looper, Star Citizen, Starcraft: Orcs in Space Go Down in Flames, Clean IT, Is it OK to hold credit card numbers in cookies? Santander?, Desktop 3D Printer, Did Microsoft just kill Flash?, Deep Blue vs. Kasparov, Samsung vs. Apple, Watch XCOM: Enemy Unknown developer failing to sell his game early, Dubstep Dispute, Hierfür wurde das Internet erfunden</itunes:summary>
+    <itunes:image href="http://nerdtanke.de/images/die-nerdtanke.png" />
+    <enclosure url="http://nerdtanke.de/podcasts/nerdtanke-13.mp3" length="75171632" type="audio/mpeg" />
+    <guid>http://nerdtanke.de/podcasts/nerdtanke-13.mp3</guid>
+    <pubDate>Thu, 18 Oct 2012 00:00:00 +0200</pubDate>
+    <itunes:duration>1:49:40</itunes:duration>
+    <itunes:keywords></itunes:keywords>
+  </item>
+  <item>
     <title>#12: Dumme Leute</title>
     <itunes:author>Die Nerdtanke</itunes:author>
     <itunes:subtitle></itunes:subtitle>
