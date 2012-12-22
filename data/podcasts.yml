@@ -1102,3 +1102,169 @@
       label: 'Hierfür wurde das Internet erfunden'
       url: 'http://www.youtube.com/watch?v=wTniWCh0nwo'
 
+-
+  episode: 14
+  label: ""
+  date: 2012-12-22
+  filesize: 0
+  duration: '?:??:??'
+  topics:
+    -
+      label: 'Hello World'
+    -
+      label: 'VimGolf'
+      url: 'http://vimgolf.com/'
+    -
+      label: 'Minute Physics'
+      url: 'http://www.youtube.com/minutephysics'
+      links:
+        -
+          label: 'Is it Better to Walk or Run in the Rain?'
+          url: 'http://www.youtube.com/watch?v=3MqYE2UuN24'
+        -
+          label: 'What is a Neutrino?'
+          url: 'http://www.youtube.com/watch?v=lAAmAbJvvJg'
+    -
+      label: 'Google Datacenter'
+      url: 'https://maps.google.com/maps?hl=en&ll=35.898176,-81.548166&spn=0.007622,0.013486&sll=35.900197,-81.547024&layer=c&cid=7373938251588581469&panoid=qlcZPzXMS12y_CrDh64Qvw&cbp=13,339.35,,0,4.29&gl=US&t=m&cbll=35.898186,-81.548184&z=17'
+    -
+      label: 'Rowan Atkinson zu "Reform Section 5"'
+      url: 'http://www.youtube.com/watch?v=gciegyiLYtY'
+    -
+      label: 'Verfassungsschutz vs Polizei Köln'
+      url: 'http://www.welt.de/politik/deutschland/article110060207/Fahndung-nach-100-Rechtsextremisten-im-Untergrund.html'
+    -
+      label: 'Wiki Weapon Project'
+      url: 'http://defensedistributed.com/'
+      links:
+        -
+          label: 'Group Attempting to 3D Print a Gun Somehow Surprised When Their Printer is Confiscated'
+          url: 'http://www.geekosystem.com/3d-gun-confiscated/'
+    -
+      label: 'Firefall'
+      url: 'http://www.firefallthegame.com/'
+    -
+      label: 'Strike Suit Zero'
+      url: 'http://www.kickstarter.com/projects/43153532/strike-suit-zero'
+    -
+      label: 'Hawken'
+      url: 'http://www.playhawken.com/'
+    -
+      label: '12 Most Popular Passwords of 2012'
+      url: 'http://gizmodo.com/5954372/the-25-most-popular-passwords-of-2012'
+    -
+      label: 'FBI hacked'
+      url: 'http://pastebin.com/BjZMZV63'
+    -
+      label: 'Ghostery'
+      url: 'http://www.ghostery.com/'
+    -
+      label: 'When in Git'
+      url: 'http://wheningit.tumblr.com/'
+    -
+      label: 'norinori2222/boyfriend_require'
+      url: 'https://github.com/norinori2222/boyfriend_require/blob/master/README-en.md'
+    -
+      label: 'Planetary Annihilation'
+      url: 'http://planetaryannihilation.com/'
+    -
+      label: 'XCOM: Enemy Unknown'
+      url: 'http://www.xcom.com/enemyunknown/'
+    -
+      label: 'Bioshock Infinite'
+      url: 'http://www.youtube.com/watch?v=bLHW78X1XeE'
+      links:
+        -
+          label: 'First five minutes of BioShock Infinite'
+          url: 'http://www.eurogamer.net/articles/2012-12-19-first-five-minutes-of-bioshock-infinite-revealed-in-new-video'
+    -
+      label: 'Primordia'
+      url: 'http://www.wadjeteyegames.com/primordia.html'
+      links:
+        -
+          label: 'Gemini Rue'
+          url: 'http://www.wadjeteyegames.com/gemini-rue.html'
+    -
+      label: 'Google-Internet ist da'
+      url: 'http://arstechnica.com/business/2012/11/google-fiber-is-live-in-kansas-city-real-world-speeds-at-700-mbps/'
+      links:
+        -
+          label: 'ISPs und Speedtests'
+          url: 'http://blog.fefe.de/?ts=b1032e75'
+    -
+      label: 'Groom brings virtual girlfriend to wedding, bride smashes game with hammer'
+      url: 'http://japandailypress.com/groom-brings-virtual-girlfriend-to-wedding-bride-smashes-game-with-hammer-2718951'
+    -
+      label: 'Windows 8 — Disappointing Usability for Both Novice and Power Users'
+      url: 'http://www.nngroup.com/articles/windows-8-disappointing-usability/'
+    -
+      label: 'Windows 8 betrunken'
+      url: 'http://bgr.com/2012/11/08/drunk-windows-8-user-experience-mostly-negative/'
+    -
+      label: 'Touchdevelop'
+      url: 'https://www.touchdevelop.com/'
+    -
+      label: 'Why Coke Cost A Nickel For 70 Years'
+      url: 'http://www.weku.fm/post/why-coke-cost-nickel-70-years'
+    -
+      label: "CIA's guide on how to completely sabotage your communication (p. 28)"
+      url: 'https://www.cia.gov/news-information/featured-story-archive/2012-featured-story-archive/CleanedUOSSSimpleSabotage_sm.pdf'
+    -
+      label: 'DHH rantet'
+      links:
+        -
+          label: 'Twitter'
+          url: 'https://twitter.com/dhh/status/281409750325940224'
+        -
+          label: 'Put chubby models on a diet with concerns'
+          url: 'http://37signals.com/svn/posts/3372-put-chubby-models-on-a-diet-with-concerns'
+        -
+          label: 'Getting hyper about hypermedia APIs'
+          url: 'http://37signals.com/svn/posts/3373-getting-hyper-about-hypermedia-apis'
+    -
+      label: 'Henning hat nen Roomba'
+      url: 'http://www.irobot.com/Roomba'
+    -
+      label: 'Pacific Rim'
+      url: 'http://www.youtube.com/watch?v=2vKz7WnU83E'
+    -
+      label: 'World War Z'
+      url: 'http://www.pcgames.de/Film-und-Blu-ray-Film-256540/News/World-War-Z-Neuer-Trailer-zum-Zombie-Film-mit-Brad-Pitt-1035100/'
+    -
+      label: 'Oblivion'
+      url: 'http://www.youtube.com/watch?v=EdzpNH0DNZ4'
+    -
+      label: 'After Earth'
+      url: 'http://www.youtube.com/watch?v=7YgCXcMmu4I'
+    -
+      label: 'Star Wars: Episode 7'
+      url: 'http://www.geekosystem.com/disney-acquires-lucasfilm/'
+      links:
+        -
+          label: 'So wird es wenn Disney Star Wars macht'
+          url: 'http://www.youtube.com/watch?v=W0ex_WIAeTY'
+    -
+      label: 'Star Wars 1313'
+      url: 'http://www.lucasarts.com/games/1313/index.html'
+    -
+      label: 'Hansel and Gretel: Witch Hunters'
+      url: 'http://www.youtube.com/watch?v=tn-ykHdl6PY'
+    -
+      label: 'An Unexpected Briefing #airnzhobbit'
+      url: 'http://www.youtube.com/watch?v=cBlRbrB_Gnc'
+    -
+      label: 'Elevator to Hell'
+      url: 'http://www.youtube.com/watch?v=dbyFBDHSI7Y'
+      links:
+        -
+          label: 'Mirror Prank'
+          url: 'http://www.youtube.com/watch?v=qGRsa-zVou8'
+    -
+      label: 'House Of The Rising Sun mit Retro-Instrumenten'
+      url: 'http://www.youtube.com/watch?v=w68qZ8JvBds'
+    -
+      label: 'Komischer Typ mit roten Bällen'
+      url: 'http://www.youtube.com/watch?v=FUv-Q6EgEFI'
+    -
+      label: 'Lost 1987 - The Game'
+      url: 'http://www.penneydesign.com/folio_IM_lostgame.html'
