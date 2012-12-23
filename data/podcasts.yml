@@ -1124,6 +1124,9 @@
         -
           label: 'What is a Neutrino?'
           url: 'http://www.youtube.com/watch?v=lAAmAbJvvJg'
+        -
+          label: 'xkcd: What if?'
+          url: 'http://what-if.xkcd.com/'
     -
       label: 'Google Datacenter'
       url: 'https://maps.google.com/maps?hl=en&ll=35.898176,-81.548166&spn=0.007622,0.013486&sll=35.900197,-81.547024&layer=c&cid=7373938251588581469&panoid=qlcZPzXMS12y_CrDh64Qvw&cbp=13,339.35,,0,4.29&gl=US&t=m&cbll=35.898186,-81.548184&z=17'
@@ -1131,14 +1134,14 @@
       label: 'Rowan Atkinson zu "Reform Section 5"'
       url: 'http://www.youtube.com/watch?v=gciegyiLYtY'
     -
-      label: 'Verfassungsschutz vs Polizei Köln'
+      label: 'Verfassungsschutz vs Polizei'
       url: 'http://www.welt.de/politik/deutschland/article110060207/Fahndung-nach-100-Rechtsextremisten-im-Untergrund.html'
     -
       label: 'Wiki Weapon Project'
       url: 'http://defensedistributed.com/'
       links:
         -
-          label: 'Group Attempting to 3D Print a Gun Somehow Surprised When Their Printer is Confiscated'
+          label: 'Group Attempting to 3D Print a Gun'
           url: 'http://www.geekosystem.com/3d-gun-confiscated/'
     -
       label: 'Firefall'
@@ -1149,6 +1152,9 @@
     -
       label: 'Hawken'
       url: 'http://www.playhawken.com/'
+    -
+      label: 'Ingress'
+      url: 'http://www.ingress.com/'
     -
       label: '12 Most Popular Passwords of 2012'
       url: 'http://gizmodo.com/5954372/the-25-most-popular-passwords-of-2012'
@@ -1192,10 +1198,10 @@
           label: 'ISPs und Speedtests'
           url: 'http://blog.fefe.de/?ts=b1032e75'
     -
-      label: 'Groom brings virtual girlfriend to wedding, bride smashes game with hammer'
+      label: 'Groom brings virtual girlfriend to wedding'
       url: 'http://japandailypress.com/groom-brings-virtual-girlfriend-to-wedding-bride-smashes-game-with-hammer-2718951'
     -
-      label: 'Windows 8 — Disappointing Usability for Both Novice and Power Users'
+      label: 'Windows 8 Usability'
       url: 'http://www.nngroup.com/articles/windows-8-disappointing-usability/'
     -
       label: 'Windows 8 betrunken'
@@ -1203,6 +1209,10 @@
     -
       label: 'Touchdevelop'
       url: 'https://www.touchdevelop.com/'
+      links:
+      -
+        label: 'Dart'
+        url: 'http://www.dartlang.org/'
     -
       label: 'Why Coke Cost A Nickel For 70 Years'
       url: 'http://www.weku.fm/post/why-coke-cost-nickel-70-years'
@@ -1210,7 +1220,7 @@
       label: "CIA's guide on how to completely sabotage your communication (p. 28)"
       url: 'https://www.cia.gov/news-information/featured-story-archive/2012-featured-story-archive/CleanedUOSSSimpleSabotage_sm.pdf'
     -
-      label: 'DHH rantet'
+      label: 'David Heinemeier Hansson schimpft'
       links:
         -
           label: 'Twitter'
@@ -1225,23 +1235,28 @@
       label: 'Henning hat nen Roomba'
       url: 'http://www.irobot.com/Roomba'
     -
-      label: 'Pacific Rim'
-      url: 'http://www.youtube.com/watch?v=2vKz7WnU83E'
-    -
-      label: 'World War Z'
-      url: 'http://www.pcgames.de/Film-und-Blu-ray-Film-256540/News/World-War-Z-Neuer-Trailer-zum-Zombie-Film-mit-Brad-Pitt-1035100/'
-    -
-      label: 'Oblivion'
-      url: 'http://www.youtube.com/watch?v=EdzpNH0DNZ4'
-    -
-      label: 'After Earth'
-      url: 'http://www.youtube.com/watch?v=7YgCXcMmu4I'
-    -
-      label: 'Star Wars: Episode 7'
-      url: 'http://www.geekosystem.com/disney-acquires-lucasfilm/'
+      label: 'Filme'
       links:
         -
-          label: 'So wird es wenn Disney Star Wars macht'
+          label: 'Pacific Rim'
+          url: 'http://www.youtube.com/watch?v=2vKz7WnU83E'
+        -
+          label: 'World War Z'
+          url: 'http://www.pcgames.de/Film-und-Blu-ray-Film-256540/News/World-War-Z-Neuer-Trailer-zum-Zombie-Film-mit-Brad-Pitt-1035100/'
+        -
+          label: 'Oblivion'
+          url: 'http://www.youtube.com/watch?v=EdzpNH0DNZ4'
+        -
+          label: 'After Earth'
+          url: 'http://www.youtube.com/watch?v=7YgCXcMmu4I'
+        -
+          label: 'Filmtipp: Cloud Atlas'
+          url: 'http://www.youtube.com/watch?v=hWnAqFyaQ5s'
+        -
+          label: 'Star Wars: Episode 7'
+          url: 'http://www.geekosystem.com/disney-acquires-lucasfilm/'
+        -
+          label: 'So wird Episode 7 wenn Disney Star Wars macht'
           url: 'http://www.youtube.com/watch?v=W0ex_WIAeTY'
     -
       label: 'Star Wars 1313'
@@ -1250,7 +1265,7 @@
       label: 'Hansel and Gretel: Witch Hunters'
       url: 'http://www.youtube.com/watch?v=tn-ykHdl6PY'
     -
-      label: 'An Unexpected Briefing #airnzhobbit'
+      label: 'An Unexpected Briefing'
       url: 'http://www.youtube.com/watch?v=cBlRbrB_Gnc'
     -
       label: 'Elevator to Hell'
@@ -1263,7 +1278,7 @@
       label: 'House Of The Rising Sun mit Retro-Instrumenten'
       url: 'http://www.youtube.com/watch?v=w68qZ8JvBds'
     -
-      label: 'Komischer Typ mit roten Bällen'
+      label: 'Typ mit roten Bällen'
       url: 'http://www.youtube.com/watch?v=FUv-Q6EgEFI'
     -
       label: 'Lost 1987 - The Game'
