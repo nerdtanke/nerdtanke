@@ -1283,3 +1283,172 @@
     -
       label: 'Lost 1987 - The Game'
       url: 'http://www.penneydesign.com/folio_IM_lostgame.html'
+
+-
+  episode: 15
+  label: "Rauchbier und Groupies"
+  date: 2013-04-08
+  filesize: 0
+  duration: '?:??:??'
+  topics:
+    -
+      label: 'Hello World'
+    -
+      label: 'Biertest Teil 2'
+      links:
+        -
+          label: 'Ulrichsbier'
+          url: 'http://www.bergbier.de/ulrichsbier.html'
+        -
+          label: 'Altenmünster urig würzig'
+          url: 'http://www.allgaeuer-brauhaus.de/'
+        -
+          label: 'Tegernseer Hell'
+          url: 'http://www.braustuberl.de/'
+        -
+          label: 'Freiherr von Zech Hefe-Weizen'
+          url: 'http://www.freiherrvonzech.de/produkte_hefe.html'
+        -
+          label: 'Aecht Schlenkerla Rauchbier'
+          url: 'http://www.schlenkerla.de/rauchbier/beschreibung.html'
+    -
+      label: 'Ubuntu in 2013'
+      url: 'http://www.markshuttleworth.com/archives/1221'
+    -
+      label: 'Linux Apps'
+      url: 'http://www.heise.de/open/meldung/Gnome-Entwickler-planen-Linux-Apps-1797503.html'
+    -
+      label: 'Bots veröffentlichen Pull Requests auf GitHub'
+      url: 'http://www.wired.com/wiredenterprise/2012/12/github-bots/'
+    -
+      label: 'Eine Sekunde Video jeden Tag'
+      url: 'http://www.bbc.co.uk/news/magazine-20937759'
+    -
+      label: 'Leap Motion'
+      url: 'http://blog.liangzan.net/blog/2013/02/06/first-impressions-of-leap-motion/'
+    -
+      label: 'Telekom will DSL drosseln'
+      url: 'http://www.heise.de/newsticker/meldung/Deutsche-Telekom-erwaegt-Volumendrosselung-bei-DSL-1828179.html'
+    -
+      label: 'Kickstarter-Fail: Code Hero'
+      url: 'http://www.kickstarter.com/projects/primerist/code-hero-a-game-that-teaches-you-to-make-games-he/comments'
+    -
+      label: 'How I Stopped Eating Food'
+      url: 'http://robrhinehart.com/?p=298'
+      links:
+        -
+          label: 'Two Months of Soylent'
+          url: 'http://robrhinehart.com/?p=474'
+    -
+      label: 'Typ verkauft $1-Aktien von sich'
+      url: 'http://www.wired.com/business/2013/03/ipo-man/'
+    -
+      label: "Qualcomm's CES 2013 keynote trainwreck"
+      url: 'http://www.theverge.com/2013/1/8/3850056/qualcomms-insane-ces-2013-keynote-pictures-tweets'
+      links:
+        -
+          label: 'Qualcomm CES Supercut'
+          url: 'http://www.theverge.com/2013/1/8/3852408/the-best-and-worst-of-the-qualcomms-ces-keynote'
+    -
+      label: 'Bioshock Infinite'
+      url: 'http://www.bioshockinfinite.com/'
+      links:
+        -
+          label: 'Launch Trailer'
+          url: 'http://www.youtube.com/watch?v=8f3XJePYPpo'
+    -
+      label: 'Strike Suit Zero'
+      url: 'http://www.strikesuitzero.com/'
+    -
+      label: 'Super Hexagon'
+      url: 'http://www.superhexagon.com/'
+      links:
+        -
+          label: 'VVVVVV'
+          url: 'http://thelettervsixtim.es/'
+    -
+      label: 'The Mother of All Skill Trees (Path of Exile)'
+      url: 'http://www.pathofexile.com/passive-skill-tree'
+    -
+      label: 'Destiny'
+      url: 'http://www.destinythegame.com/'
+      links:
+        -
+          label: 'Eurogamer-Artikel'
+          url: 'http://www.eurogamer.net/articles/2013-02-17-destiny-bungie-unveils-its-shared-world-shooter'
+        -
+          label: 'Trailer'
+          url: 'http://www.youtube.com/watch?v=EwOUi4JDC4o'
+    -
+      label: 'The Super Supercapacitor'
+      url: 'http://io9.com/5987086/meet-the-scientific-accident-that-could-change-the-world'
+    -
+      label: 'Warum Handy-Hersteller kein eigenes Android frickeln sollten'
+      links:
+        -
+          label: 'Samsung'
+          url: 'http://shkspr.mobi/blog/2013/03/new-bypass-samsung-lockscreen-total-control/'
+        -
+          label: 'Sony'
+          url: 'http://www.heise.de/security/meldung/Loechriger-Sperrbildschirm-beim-Sony-Xperia-Z-1830478.html'
+        -
+          label: 'Apple hat auch Mist gebaut'
+          url: 'http://www.heise.de/mac-and-i/meldung/iPhone-Luecke-erlaubt-Zugriff-ohne-Passcode-1803813.html'
+    -
+      label: 'Browser-Rendering-Engines 2013'
+      links:
+        -
+          label: 'Google und Opera machen "Blink"'
+          url: 'http://thenextweb.com/insider/2013/04/04/opera-confirms-it-will-follow-google-and-ditch-webkit-for-blink-as-part-of-its-commitment-to-chromium/'
+        -
+          label: 'Mozilla und Samsung machen "Servo"'
+          url: 'http://blog.mozilla.org/blog/2013/04/03/mozilla-and-samsung-collaborate-on-next-generation-web-browser-engine/'
+    -
+      label: 'Crypto in JavaScript ist doof'
+      url: 'http://matasano.com/articles/javascript-cryptography/'
+    -
+      label: 'Google Reader macht zu'
+      url: 'http://lifehacker.com/5990456/google-reader-is-getting-shut-down-here-are-the-best-alternatives'
+    -
+      label: 'Bomberman-MMO in HTML5'
+      url: 'http://bombermine.com/'
+    -
+      label: 'R.I.P. LucasArts'
+      url: 'http://kotaku.com/disney-shuts-down-lucasarts-468473749'
+    -
+      label: 'The Cave'
+      url: 'http://thecavegame.com/'
+    -
+      label: 'Double Fine Adventure: Broken Age'
+      url: 'http://www.eurogamer.net/articles/2013-03-28-double-fines-adventure-game-broken-age-teased-in-first-trailer'
+    -
+      label: 'StarCraft II'
+      url: 'http://eu.blizzard.com/en-gb/games/hots/'
+      links:
+        -
+          label: 'Launch Trailer'
+          url: 'http://www.youtube.com/watch?v=MVbeoSPqRs4'
+    -
+      label: 'Deep Space Nine: In the Pale Moonlight'
+      url: 'http://en.wikipedia.org/wiki/In_the_Pale_Moonlight'
+    -
+      label: 'Sehr coole 3D-Panoramen'
+      links:
+        -
+          label: 'Day view of Manhattan, New York, USA'
+          url: 'http://www.airpano.ru/files/Manhattan-Day-New-York-USA/2-2'
+        -
+          label: 'Ta Prohm temple, Angkor, Cambodia'
+          url: 'http://www.airpano.ru/files/Ta-Prohm-Cambodia/2-2'
+    -
+      label: 'Abgetautes Kühlhaus'
+      url: 'http://www.geekosystem.com/defrosting-cold-storage-warehouse/'
+    -
+      label: 'FizzBuzzEnterpriseEdition'
+      url: 'https://github.com/Mikkeren/FizzBuzzEnterpriseEdition'
+    -
+      label: 'ClippyJS: Office-Assistenten für Deine Webseite'
+      url: 'https://www.smore.com/clippy-js'
+    -
+      label: 'All Alone in the Night - Time-lapse footage of the Earth as seen from the ISS'
+      url: 'http://apod.nasa.gov/apod/ap130331.html'
