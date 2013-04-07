@@ -1,3 +1,4 @@
+# encoding: UTF-8
 class Topic
   ATTRIBUTES = %w[ timestamp label url links ]
   attr_accessor *ATTRIBUTES
