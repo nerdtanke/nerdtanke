@@ -1286,10 +1286,10 @@
 
 -
   episode: 15
-  label: "Rauchbier und Groupies"
-  date: 2013-04-08
-  filesize: 0
-  duration: '?:??:??'
+  label: "Rauchbier auf dem Dampfmaschinenraumschiff"
+  date: 2013-04-11
+  filesize: 94915819
+  duration: '2:21:50'
   topics:
     -
       label: 'Hello World'

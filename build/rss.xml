@@ -32,6 +32,18 @@
     <itunes:explicit>clean</itunes:explicit>
 
       <item>
+    <title>#15: Rauchbier auf dem Dampfmaschinenraumschiff</title>
+    <itunes:author>Die Nerdtanke</itunes:author>
+    <itunes:subtitle></itunes:subtitle>
+    <itunes:summary>Biertest Teil 2, Ubuntu in 2013, Linux Apps, Bots veröffentlichen Pull Requests auf GitHub, Eine Sekunde Video jeden Tag, Leap Motion, Telekom will DSL drosseln, Kickstarter-Fail: Code Hero, How I Stopped Eating Food, Typ verkauft $1-Aktien von sich, Qualcomm&#x27;s CES 2013 keynote trainwreck, Bioshock Infinite, Strike Suit Zero, Super Hexagon, The Mother of All Skill Trees (Path of Exile), Destiny, The Super Supercapacitor, Warum Handy-Hersteller kein eigenes Android frickeln sollten, Browser-Rendering-Engines 2013, Crypto in JavaScript ist doof, Google Reader macht zu, Bomberman-MMO in HTML5, R.I.P. LucasArts, The Cave, Double Fine Adventure: Broken Age, StarCraft II, Deep Space Nine: In the Pale Moonlight, Sehr coole 3D-Panoramen, Abgetautes Kühlhaus, FizzBuzzEnterpriseEdition, ClippyJS: Office-Assistenten für Deine Webseite, All Alone in the Night - Time-lapse footage of the Earth as seen from the ISS</itunes:summary>
+    <itunes:image href="http://nerdtanke.de/images/die-nerdtanke.png" />
+    <enclosure url="http://nerdtanke.de/podcasts/nerdtanke-15.mp3" length="94915819" type="audio/mpeg" />
+    <guid>http://nerdtanke.de/podcasts/nerdtanke-15.mp3</guid>
+    <pubDate>Thu, 11 Apr 2013 00:00:00 +0200</pubDate>
+    <itunes:duration>2:21:50</itunes:duration>
+    <itunes:keywords></itunes:keywords>
+  </item>
+  <item>
     <title>#14: Mr. Bean und der staubsaugende Roboter</title>
     <itunes:author>Die Nerdtanke</itunes:author>
     <itunes:subtitle></itunes:subtitle>
