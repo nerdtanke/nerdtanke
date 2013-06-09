@@ -1452,3 +1452,77 @@
     -
       label: 'All Alone in the Night - Time-lapse footage of the Earth as seen from the ISS'
       url: 'http://apod.nasa.gov/apod/ap130331.html'
+
+-
+  episode: 16
+  label: ""
+  date: 2013-06-08
+  filesize: 0
+  duration: '?:??:??'
+  topics:
+    -
+      label: 'Hello World'
+    -
+      label: 'Biertest Teil 3'
+      links:
+        -
+          label: 'Plankstettener Dinkel'
+          url: 'http://www.riedenburger.de/startseite/biere/plankstettener-biere/plankstettener-dinkel.html'
+        -
+          label: 'Plankstettener Spezial'
+          url: 'http://www.riedenburger.de/startseite/biere/plankstettener-biere/plankstettener-spezial.html'
+        -
+          label: '2x Bier von Thomas'
+          url: 'http://www.gruentlich.de/'
+        -
+          label: 'Altenmünster Maibock'
+          url: 'http://www.allgaeuer-brauhaus.de/'
+    -
+      label: 'Thomas b(r)aut'
+      url: 'http://www.gruentlich.de/'
+    -
+      label: 'Gabe Newell: Reflections of a Video Game Maker'
+      url: 'http://www.youtube.com/watch?v=t8QEOBgLBQU'
+    -
+      label: 'Microsoft/Skype liest mit und ist doof dabei'
+      url: 'http://www.heise.de/security/meldung/Vorsicht-beim-Skypen-Microsoft-liest-mit-1857620.html'
+      links:
+        -
+          label: 'Google Hangouts'
+          url: 'http://www.google.com/+/learnmore/hangouts/'
+    -
+      label: 'Web-Suchmaschine für Server: Shodan'
+      url: 'http://money.cnn.com/2013/04/08/technology/security/shodan/'
+    -
+      label: 'Telekom: Deutschlands Internetvorräte sind ohne Drosselung bis 2016 erschöpft'
+      url: 'http://www.der-postillon.com/2013/04/telekom-deutschlands-internetvorrate.html'
+    -
+      label: "Patton Oswalt's Star Wars Filibuster"
+      url: 'http://www.youtube.com/watch?v=qOsKISBkIlQ'
+    -
+      label: 'Besuchte Webseiten herausfinden mal anders'
+      url: 'http://lcamtuf.blogspot.de/2013/05/some-harmless-old-fashioned-fun-with-css.html'
+    -
+      label: 'Soylent wird jetzt verkauft'
+      url: 'https://campaign.soylent.me/soylent-free-your-body'
+    -
+      label: 'A Brief, Incomplete, and Mostly Wrong History of Programming Languages'
+      url: 'http://james-iry.blogspot.co.at/2009/05/brief-incomplete-and-mostly-wrong.html'
+    -
+      label: 'Cooles Spiel im Retro-Look: Gunpoint'
+      url: 'http://www.gunpointgame.com/'
+    -
+      label: 'Retro-RPG im Browser: Heroine Dusk'
+      url: 'http://heroinedusk.com/'
+    -
+      label: 'Witziger Kopierschutz bei "Game Dev Tycoon"'
+      url: 'http://www.greenheartgames.com/2013/04/29/what-happens-when-pirates-play-a-game-development-simulator-and-then-go-bankrupt-because-of-piracy/'
+    -
+      label: 'Elysium'
+      url: 'http://www.fuenf-filmfreunde.de/2013/04/10/elysium-trailer/'
+    -
+      label: 'Hintergründe aus Prügelspielen als animierte GIFs'
+      url: 'http://imgur.com/a/GPlx4'
+    -
+      label: 'Here is today'
+      url: 'http://hereistoday.com/'
