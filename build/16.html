@@ -1,0 +1,266 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html lang='de' xml:lang='de' xmlns='http://www.w3.org/1999/xhtml'>
+  <head>
+    <meta content='text/html; charset=UTF-8' http-equiv='Content-Type' />
+    <meta content='de' http-equiv='Content-Language' />
+    <title>Die Nerdtanke – Episode 16: Programmable Hypertext Pasta</title>
+    <link href='http://feeds.feedburner.com/DieNerdtanke' rel='alternate' title='Die Nerdtanke als RSS-Feed' type='application/rss+xml' />
+    <link href='favicon.ico' rel='icon' type='image/x-icon' />
+    <link href='favicon.ico' rel='shortcut icon' type='image/x-icon' />
+    <link type="text/css" href="stylesheets/screen.css" rel="stylesheet" media="screen" />
+    <link type="text/css" href="stylesheets/gameboy.css" rel="stylesheet" media="screen and (max-width: 990px)" />
+    <script type="text/javascript" src="javascripts/jquery-1.6.1.min.js"></script>
+    <script type='text/javascript'>
+      //<![CDATA[
+        $('.play_link').live('click', function() {
+          var self = $(this);
+          var audioTag = self.attr('data-audio')
+          self.parent('.player').append(audioTag).find('audio').get(0).play();
+          self.removeAttr('data-audio').hide();
+          return false;
+        });
+      //]]>
+    </script>
+    <script type='text/javascript'>
+      //<![CDATA[
+        var _gaq = _gaq || [];
+        _gaq.push(['_setAccount', 'UA-441965-5']);
+        _gaq.push(['_trackPageview']);
+        
+        (function() {
+          var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+          ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+          var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+        })();
+      //]]>
+    </script>
+    <script type='text/javascript'>
+      //<![CDATA[
+        window._idl = {};
+        _idl.variant = "banner";
+        (function() {
+          var idl = document.createElement('script');
+          idl.type = 'text/javascript';
+          idl.async = true;
+          idl.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'members.internetdefenseleague.org/include/?url=' + (_idl.url || '') + '&campaign=' + (_idl.campaign || '') + '&variant=' + (_idl.variant || 'banner');
+          document.getElementsByTagName('body')[0].appendChild(idl);
+        })();
+      //]]>
+    </script>
+  </head>
+  <body>
+    <div id='page'>
+      <div id='header'>
+        <h1><a href="/">Die Nerdtanke</a></h1>
+        <h4>Bytes und Bier – Einmal vollmachen</h4>
+        <a href="/"><img src="images/die-nerdtanke-75x75.png" alt="" id="logo" /></a>
+      </div>
+      <div id='torso'>
+        <div id='sidebar'>
+          <div id='about'>
+            <p>
+              Wir sind 3 Nerds und sprechen in Podcasts ueber Themen, die Nerds wie euch interessieren.
+            </p>
+          </div>
+          <div id='connect'>
+            <div id='buttons'>
+              <div class='button'>
+                <a class="email" href="mailto:tankwart@nerdtanke.de">E-Mail</a>
+              </div>
+              <div class='button'>
+                <a class="rss" href="http://feeds.feedburner.com/DieNerdtanke">RSS</a>
+              </div>
+              <div class='button'>
+                <a class="itunes" target="_blank" href="http://itunes.apple.com/de/podcast/die-nerdtanke/id434211329">iTunes</a>
+              </div>
+              <div class='button'>
+                <a class="facebook" target="_blank" href="https://www.facebook.com/nerdtanke">Facebook</a>
+              </div>
+              <div class='button'>
+                      <a class="google_plus" target="_blank" href="https://plus.google.com/107195162516862227780"><span class='blue'>G</span><span class='red'>o</span><span class='yellow'>o</span><span class='blue'>g</span><span class='green'>l</span><span class='red'>e</span><span class='plus'>+</span></a>
+          
+          </div>
+              <div class='button'>
+                <a class="twitter" target="_blank" href="http://twitter.com/nerdtanke">Twitter</a>
+              </div>
+            </div>
+          </div>
+          <div id='hosts'>
+            <div class="host"><img src="images/hosts/x2/arne.png" alt="Arne" /><div class="name">Arne</div></div>
+            <div class="host"><img src="images/hosts/x2/henning.png" alt="Henning" /><div class="name">Henning</div></div>
+            <div class="host"><img src="images/hosts/x2/thomas.png" alt="Thomas" /><div class="name">Thomas</div></div>
+            <div class='clear'></div>
+          </div>
+        </div>
+        <div id='main'>
+          <div class='podcast'>
+            <h2>
+              Episode 16: Programmable Hypertext Pasta (08.06.2013)
+            </h2>
+            <div class="player"><a data-audio="&lt;audio controls=&quot;controls&quot;&gt;&lt;source type=&quot;audio/ogg&quot; src=&quot;podcasts/nerdtanke-16.ogg&quot; /&gt;&lt;source type=&quot;audio/mpeg&quot; src=&quot;podcasts/nerdtanke-16.mp3&quot; /&gt;&lt;/audio&gt;" class="play_link" href="#">Abspielen (1:24:36)</a></div>
+            <div class='download'>
+              <a class="download_link" href="podcasts/nerdtanke-16.mp3">Download als MP3 (55 MB)</a>
+            </div>
+            <div class='shownotes'>
+              <h4>
+                Themen und Shownotes
+              </h4>
+              <ul>
+                <li>
+                  Hello World
+                </li>
+                <li>
+                  Biertest Teil 3
+                  <ul>
+                    <li>
+                      <a target="_blank" href="http://www.riedenburger.de/startseite/biere/plankstettener-biere/plankstettener-dinkel.html">Plankstettener Dinkel</a>
+                    </li>
+                    <li>
+                      <a target="_blank" href="http://www.riedenburger.de/startseite/biere/plankstettener-biere/plankstettener-spezial.html">Plankstettener Spezial</a>
+                    </li>
+                    <li>
+                      <a target="_blank" href="http://www.gruentlich.de/">2x Bier von Thomas</a>
+                    </li>
+                    <li>
+                      <a target="_blank" href="http://www.allgaeuer-brauhaus.de/">Altenmuenster Maibock</a>
+                    </li>
+                  </ul>
+                </li>
+                <li>
+                  Thomas b(r)aut
+                  (<a target="_blank" href="http://www.gruentlich.de/">gruentlich.de</a>)
+                </li>
+                <li>
+                  Gabe Newell: Reflections of a Video Game Maker
+                  (<a target="_blank" href="http://www.youtube.com/watch?v=t8QEOBgLBQU">youtube.com</a>)
+                </li>
+                <li>
+                  Microsoft&#x2F;Skype liest mit und ist doof dabei
+                  (<a target="_blank" href="http://www.heise.de/security/meldung/Vorsicht-beim-Skypen-Microsoft-liest-mit-1857620.html">heise.de</a>)
+                  <ul>
+                    <li>
+                      <a target="_blank" href="http://www.google.com/+/learnmore/hangouts/">Google Hangouts</a>
+                    </li>
+                  </ul>
+                </li>
+                <li>
+                  Web-Suchmaschine fuer Server: Shodan
+                  (<a target="_blank" href="http://money.cnn.com/2013/04/08/technology/security/shodan/">money.cnn.com</a>)
+                </li>
+                <li>
+                  Telekom: Deutschlands Internetvorraete sind ohne Drosselung bis 2016 erschoepft
+                  (<a target="_blank" href="http://www.der-postillon.com/2013/04/telekom-deutschlands-internetvorrate.html">der-postillon.com</a>)
+                </li>
+                <li>
+                  Patton Oswalt&#x27;s Star Wars Filibuster
+                  (<a target="_blank" href="http://www.youtube.com/watch?v=qOsKISBkIlQ">youtube.com</a>)
+                </li>
+                <li>
+                  Besuchte Webseiten herausfinden mal anders
+                  (<a target="_blank" href="http://lcamtuf.blogspot.de/2013/05/some-harmless-old-fashioned-fun-with-css.html">lcamtuf.blogspot.de</a>)
+                </li>
+                <li>
+                  Soylent wird jetzt verkauft
+                  (<a target="_blank" href="https://campaign.soylent.me/soylent-free-your-body">campaign.soylent.me</a>)
+                </li>
+                <li>
+                  A Brief, Incomplete, and Mostly Wrong History of Programming Languages
+                  (<a target="_blank" href="http://james-iry.blogspot.co.at/2009/05/brief-incomplete-and-mostly-wrong.html">james-iry.blogspot.co.at</a>)
+                </li>
+                <li>
+                  Cooles Spiel im Retro-Look: Gunpoint
+                  (<a target="_blank" href="http://www.gunpointgame.com/">gunpointgame.com</a>)
+                </li>
+                <li>
+                  Retro-RPG im Browser: Heroine Dusk
+                  (<a target="_blank" href="http://heroinedusk.com/">heroinedusk.com</a>)
+                </li>
+                <li>
+                  Witziger Kopierschutz bei &quot;Game Dev Tycoon&quot;
+                  (<a target="_blank" href="http://www.greenheartgames.com/2013/04/29/what-happens-when-pirates-play-a-game-development-simulator-and-then-go-bankrupt-because-of-piracy/">greenheartgames.com</a>)
+                </li>
+                <li>
+                  Elysium
+                  (<a target="_blank" href="http://www.fuenf-filmfreunde.de/2013/04/10/elysium-trailer/">fuenf-filmfreunde.de</a>)
+                </li>
+                <li>
+                  Hintergruende aus Pruegelspielen als animierte GIFs
+                  (<a target="_blank" href="http://imgur.com/a/GPlx4">imgur.com</a>)
+                </li>
+                <li>
+                  Here is today
+                  (<a target="_blank" href="http://hereistoday.com/">hereistoday.com</a>)
+                </li>
+              </ul>
+            </div>
+          </div>
+          <div id='archive'>
+            <h2>
+              Weitere Folgen
+            </h2>
+            <ul>
+              <li>
+                <a href="15.html">Episode 15: Rauchbier auf dem Dampfmaschinenraumschiff (11.04.2013)</a>
+              </li>
+              <li>
+                <a href="14.html">Episode 14: Mr. Bean und der staubsaugende Roboter (22.12.2012)</a>
+              </li>
+              <li>
+                <a href="13.html">Episode 13: Bier64-Encoded (18.10.2012)</a>
+              </li>
+              <li>
+                <a href="12.html">Episode 12: Dumme Leute (28.08.2012)</a>
+              </li>
+              <li>
+                <a href="11.html">Episode 11: The Lost Levels (22.07.2012)</a>
+              </li>
+              <li>
+                <a href="10.html">Episode 10: Fnordonanien (08.03.2012)</a>
+              </li>
+              <li>
+                <a href="x2.html">Sonderheft: Personal Security (30.12.2011)</a>
+              </li>
+              <li>
+                <a href="9.html">Episode 9: Schreikissen (01.11.2011)</a>
+              </li>
+              <li>
+                <a href="8.html">Episode 8: Opus Magnus (03.10.2011)</a>
+              </li>
+              <li>
+                <a href="7.html">Episode 7: Trust Issues (13.09.2011)</a>
+              </li>
+              <li>
+                <a href="x1.html">Sonderheft: Gamescom 2011 (20.08.2011)</a>
+              </li>
+              <li>
+                <a href="6.html">Episode 6: Hack and Slay (09.08.2011)</a>
+              </li>
+              <li>
+                <a href="5.html">Episode 5: Pi Milliarden Dollar (22.07.2011)</a>
+              </li>
+              <li>
+                <a href="4.html">Episode 4: Ausgenerdet (23.06.2011)</a>
+              </li>
+              <li>
+                <a href="3.html">Episode 3: Harrison F*ing Ford (02.06.2011)</a>
+              </li>
+              <li>
+                <a href="2.html">Episode 2: Die Zukunft (06.05.2011)</a>
+              </li>
+              <li>
+                <a href="1.html">Episode 1: Die Cloud ist voll (24.04.2011)</a>
+              </li>
+            </ul>
+          </div>
+          <div id='footer'>
+            Kontakt:
+            <a href="mailto:tankwart@nerdtanke.de">tankwart@nerdtanke.de</a>
+            <div class='imprint'>
+              <a href="imprint.html" rel="nofollow">Impressum</a>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </body>
+</html>

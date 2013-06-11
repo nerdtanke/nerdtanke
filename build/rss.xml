@@ -32,6 +32,18 @@
     <itunes:explicit>clean</itunes:explicit>
 
       <item>
+    <title>#16: Programmable Hypertext Pasta</title>
+    <itunes:author>Die Nerdtanke</itunes:author>
+    <itunes:subtitle></itunes:subtitle>
+    <itunes:summary>Biertest Teil 3, Thomas b(r)aut, Gabe Newell: Reflections of a Video Game Maker, Microsoft&#x2F;Skype liest mit und ist doof dabei, Web-Suchmaschine für Server: Shodan, Telekom: Deutschlands Internetvorräte sind ohne Drosselung bis 2016 erschöpft, Patton Oswalt&#x27;s Star Wars Filibuster, Besuchte Webseiten herausfinden mal anders, Soylent wird jetzt verkauft, A Brief, Incomplete, and Mostly Wrong History of Programming Languages, Cooles Spiel im Retro-Look: Gunpoint, Retro-RPG im Browser: Heroine Dusk, Witziger Kopierschutz bei &quot;Game Dev Tycoon&quot;, Elysium, Hintergründe aus Prügelspielen als animierte GIFs, Here is today</itunes:summary>
+    <itunes:image href="http://nerdtanke.de/images/die-nerdtanke.png" />
+    <enclosure url="http://nerdtanke.de/podcasts/nerdtanke-16.mp3" length="57210872" type="audio/mpeg" />
+    <guid>http://nerdtanke.de/podcasts/nerdtanke-16.mp3</guid>
+    <pubDate>Sat, 08 Jun 2013 00:00:00 +0200</pubDate>
+    <itunes:duration>1:24:36</itunes:duration>
+    <itunes:keywords></itunes:keywords>
+  </item>
+  <item>
     <title>#15: Rauchbier auf dem Dampfmaschinenraumschiff</title>
     <itunes:author>Die Nerdtanke</itunes:author>
     <itunes:subtitle></itunes:subtitle>
