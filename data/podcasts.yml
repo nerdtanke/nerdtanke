@@ -1529,10 +1529,10 @@
 
 -
   episode: 17
-  label: ""
+  label: "Kryptokatze"
   date: 2013-09-21
   filesize: 0
-  duration: '?:??:??'
+  duration: '1:27:43'
   topics:
     -
       label: 'Hello World'
