@@ -1526,3 +1526,120 @@
     -
       label: 'Here is today'
       url: 'http://hereistoday.com/'
+
+-
+  episode: 17
+  label: ""
+  date: 2013-09-21
+  filesize: 0
+  duration: '?:??:??'
+  topics:
+    -
+      label: 'Hello World'
+    -
+      label: 'Biertest Teil 4'
+      links:
+        -
+          label: 'Riegele Augsburger Herrenpils'
+          url: 'http://www.riegele.de/biere/riegele-bierspezialitaeten/augsburger-herrenpils'
+        -
+          label: 'Duckstein Braumeister Edition No. 3'
+          url: 'http://www.duckstein.de/duckstein-bier/'
+        -
+          label: 'Schlappeseppel Kellerbier'
+          url: 'http://www.schlappeseppel.de/de/bier/kellerbier.php'
+        -
+          label: 'Pfungstädter Export'
+          url: 'http://www.pfungstaedter.de/unsere_biere/export/'
+        -
+          label: 'Schlappeseppel Dunkel'
+          url: 'http://www.schlappeseppel.de/de/bier/dunkel.php'
+        -
+          label: 'Schlappeseppel Specialität'
+          url: 'http://www.schlappeseppel.de/de/bier/specialitaet.php'
+    -
+      label: 'E-Mail ist jetzt sicher'
+      links:
+        -
+          label: 'E-Mail made in Germany'
+          url: 'https://www.e-mail-made-in-germany.de/'
+        -
+          label: 'CCC: Das Sommermärchen von der sicheren E-Mail'
+          url: 'http://ccc.de/de/updates/2013/sommermaerchen'
+    -
+      label: 'Affiliate-Scam'
+      url: 'http://www.blueacorn.com/blog/coupon-sites-stealing-affiliate-commissions/'
+    -
+      label: "Visualising Cryptocat's buggy PRNG"
+      url: 'http://nakedsecurity.sophos.com/2013/07/09/anatomy-of-a-pseudorandom-number-generator-visualising-cryptocats-buggy-prng/'
+    -
+      label: 'Quake-3-Bots nach 4 Jahren'
+      url: 'http://i.imgur.com/dx7sVXj.jpg'
+      links:
+        -
+          label: 'Wahrscheinlich Hoax, aber trotzdem nett :)'
+          url: 'http://alwaysavoidalliteration.blogspot.de/2013/07/did-bots-in-quake-3-learn-pacifism.html'
+    -
+      label: 'Evoland'
+      url: 'http://evoland.shirogames.com/'
+      links:
+        -
+          label: 'FTL: Faster Than Light'
+          url: 'http://www.ftlgame.com/'
+    -
+      label: 'The Robots, AI and Unemployment Anti-FAQ'
+      url: 'http://lesswrong.com/lw/hh4/the_robots_ai_and_unemployment_antifaq/'
+    -
+      label: 'Man of Tai Chi'
+      url: 'http://iwatchstuff.com/2013/06/man-of-tai-chi-trailer-oh-keanu-reeves-m.php'
+    -
+      label: 'Produktivität'
+      links:
+        -
+          label: 'Lift: Build better habits. Change your life.'
+          url: 'https://lift.do/'
+        -
+          label: 'Lumosity'
+          url: 'http://www.lumosity.com/'
+    -
+      label: 'USB Condoms'
+      url: 'http://usbcondoms.com/'
+    -
+      label: "Google's 20% Time is as good as dead"
+      url: 'http://qz.com/115831/googles-20-time-which-brought-you-gmail-and-adsense-is-now-as-good-as-dead/'
+    -
+      label: 'Android 4.4: KitKat'
+      links:
+        -
+          label: 'android.com'
+          url: 'http://www.android.com/kitkat/'
+        -
+          label: 'kitkat.com'
+          url: 'http://www.kitkat.com/'
+    -
+      label: 'Hackery, Math & Design'
+      url: 'http://acko.net/'
+    -
+      label: 'Stephen King: 11/22/63'
+      url: 'http://en.wikipedia.org/wiki/11/22/63'
+    -
+      label: 'Skype tech erklärt, warum Skype nicht mehr P2P ist'
+      url: 'http://markmail.org/message/exc3srjkx3uu66bz'
+    -
+      label: 'The Walk'
+      url: 'http://www.polygon.com/2013/7/24/4538838/zombies-run-studio-will-get-you-to-walk-to-scotland-in-neo-noir'
+    -
+      label: 'Xerox-Kopierer verändert Zahlen in sonst perfekt kopierten Seiten'
+      url: 'http://fontfeed.com/archives/xerox-scanners%E2%80%8A%E2%80%8Aphotocopiers-randomly-alter-numbers/'
+    -
+      label: 'Palettentricks beim Super Game Boy'
+      url: 'http://loveconquersallgam.es/post/2350461718/fuck-the-super-game-boy-introduction'
+    -
+      label: 'TED Talk von Reggie Watts'
+      url: 'http://www.youtube.com/watch?v=BdHK_r9RXTc'
+    -
+      label: 'QWOP Cosplay'
+      url: 'http://geekologie.com/2013/06/video-of-guy-cosplaying-as-the-spazzy-qw.php'
+    -
+      label: "Samir...You're breaking the car!"
+      url: 'http://www.liveleak.com/view?i=50f_1376084898'
