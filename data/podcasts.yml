@@ -1554,9 +1554,6 @@
         -
           label: 'Schlappeseppel Dunkel'
           url: 'http://www.schlappeseppel.de/de/bier/dunkel.php'
-        -
-          label: 'Schlappeseppel Specialität'
-          url: 'http://www.schlappeseppel.de/de/bier/specialitaet.php'
     -
       label: 'E-Mail ist jetzt sicher'
       links:
