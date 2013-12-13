@@ -1640,3 +1640,137 @@
     -
       label: "Samir...You're breaking the car!"
       url: 'http://www.liveleak.com/view?i=50f_1376084898'
+
+-
+  episode: 18
+  label: "Imperiale CO2-Bilanz"
+  date: 2013-12-05
+  filesize: 0
+  duration: '?:??:??'
+  topics:
+    -
+      label: 'Hello World'
+    -
+      label: 'Bier'
+      links:
+        -
+          label: 'Holladiebierfee'
+          url: 'http://holladiebierfee.de/'
+        -
+          label: 'Irseer Kloster-Urtrunk'
+          url: 'http://irsee.com/'
+        -
+          label: 'Anno 1516'
+          url: 'http://volksmusicals.eu/shop.html'
+        -
+          label: 'Imperial'
+          url: 'http://www.imperial.cr/'
+        -
+          label: 'Kuchlbauer Turmweiße'
+          url: 'http://www.weissbierbrauer-kuchlbauer.de/Turm-Weisse.51.0.html'
+    -
+      label: 'Man Throws Away 7,500 Bitcoins'
+      url: 'http://washington.cbslocal.com/2013/11/29/man-throws-away-7500-bitcoins-now-worth-7-5-million/'
+    -
+      label: 'Spek'
+      url: 'http://spamandphishingemailkiller.wordpress.com/'
+    -
+      label: 'Nie wieder rausgehen: Dinge liefern lassen'
+      links:
+        -
+          label: 'Bringmeister'
+          url: 'http://www.bringmeister.de/'
+        -
+          label: 'Amazon liefert Sonntags'
+          url: 'http://online.wsj.com/news/article_email/SB10001424052702304868404579190091121691258-lMyQjAxMTAzMDEwMDExNDAyWj'
+        -
+          label: 'Amazon Prime Air'
+          url: 'http://www.amazon.com/b?node=8037720011'
+        -
+          label: 'Amazon Fresh'
+          url: 'http://fresh.amazon.com/'
+    -
+      label: 'Telekom schlägt nationales E-Mail-Netz vor'
+      url: 'http://heise.de/-1977653'
+    -
+      label: 'Löcher in Routern als Feature'
+      url: 'http://heise.de/-1977835'
+    -
+      label: 'TrueCrypt-Audit'
+      url: 'http://heise.de/-1982154'
+    -
+      label: 'Ransomware inkl. Crypto'
+      url: 'http://arstechnica.com/security/2013/10/youre-infected-if-you-want-to-see-your-data-again-pay-us-300-in-bitcoins/'
+    -
+      label: 'Bücher'
+      links:
+        -
+          label: 'Mira Grant - Parasite'
+          url: 'http://miragrant.com/parasite.php'
+        -
+          label: 'Legend of ZERO'
+          url: 'http://www.goodreads.com/series/103017-the-legend-of-zero'
+        -
+          label: 'Hyperion'
+          url: 'http://www.goodreads.com/book/show/77566.Hyperion'
+    -
+      label: 'zombo.com'
+      url: 'http://zombo.com'
+    -
+      label: 'Mighty Tactical Shooter'
+      url: 'http://steamcommunity.com/sharedfiles/filedetails/?id=182536318'
+    -
+      label: 'The Stanley Parable'
+      url: 'http://www.stanleyparable.com/'
+    -
+      label: 'Renegade X'
+      url: 'http://www.eurogamer.net/articles/2013-11-27-command-and-conquer-renegade-done-right'
+    -
+      label: 'Heroes of the Storm'
+      url: 'http://www.youtube.com/watch?v=0ecv0bT9DEo'
+    -
+      label: 'HelloRun'
+      url: 'http://hellorun.helloenjoy.com/'
+    -
+      label: "Abobo's Big Adventure"
+      url: 'http://abobosbigadventure.com/fullgame.php'
+    -
+      label: 'Serie "Revolution"'
+      url: 'http://www.imdb.com/title/tt2070791/'
+    -
+      label: "Stalin's Rope Roads"
+      url: 'http://www.theatlantic.com/infocus/2013/08/stalins-rope-roads/100577/'
+    -
+      label: 'Darian Gap'
+      url: 'http://www.darkroastedblend.com/2008/09/darien-gap-most-dangerous-absence-of.html'
+    -
+      label: 'Atomraketen und unsichere Launch Codes'
+      url: 'http://www.todayifoundout.com/index.php/2013/11/nearly-two-decades-nuclear-launch-code-minuteman-silos-united-states-00000000/'
+    -
+      label: 'SoundCloud-Kommandozeile'
+      url: 'http://cmd.fm/'
+    -
+      label: 'Doofe Leute aussperren'
+      url: 'https://drupal.org/project/misery'
+    -
+      label: 'WTFs der Woche'
+      links:
+        -
+          label: 'Japanische Windows-7-Werbung'
+          url: 'http://www.youtube.com/watch?v=nngGGBkjMpU'
+        -
+          label: 'Internet-Explorer-Anime'
+          url: 'http://www.youtube.com/watch?v=BHTUlF7NA2o'
+    -
+      label: 'Betthupferl'
+      links:
+        -
+          label: 'Empty London'
+          url: 'http://www.roberttimothy.com/empty-london'
+        -
+          label: 'GTA5-Timelapse'
+          url: 'http://petapixel.com/2013/10/02/time-lapse-captured-entirely-inside-video-game-world-gta-v/'
+        -
+          label: 'Bob Dylan "Like A Rolling Stone" - Official Interactive Video!'
+          url: 'http://video.bobdylan.com/'
+
