@@ -1643,10 +1643,10 @@
 
 -
   episode: 18
-  label: "Imperiale CO2-Bilanz"
+  label: "Der Oberchecker von Eternia"
   date: 2013-12-05
-  filesize: 0
-  duration: '?:??:??'
+  filesize: 44503348
+  duration: '1:05:45'
   topics:
     -
       label: 'Hello World'
