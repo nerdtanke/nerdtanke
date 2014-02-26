@@ -1875,6 +1875,10 @@
     -
       label: 'St4k'
       url: 'http://danlec.com/blog/stackoverflow-in-4096-bytes'
+      links:
+        -
+          label: 'fr-08: .the .product'
+          url: 'http://www.pouet.net/prod.php?which=1221'
     -
       label: 'Eye of the Nadeldrucker'
       url: 'http://vimeo.com/58200103'
