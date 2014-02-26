@@ -1780,3 +1780,120 @@
           label: 'Bob Dylan "Like A Rolling Stone" - Official Interactive Video!'
           url: 'http://video.bobdylan.com/'
 
+-
+  episode: 19
+  label: ""
+  date: 2014-02-26
+  filesize: 0
+  duration: '?:??:??'
+  topics:
+    -
+      label: 'Hello World'
+    -
+      label: 'Bier'
+      links:
+        -
+          label: 'Hasenbräu Urhell'
+          url: 'http://www.hasen-braeu.de/'
+        -
+          label: 'Andechs Spezial Hell'
+          url: 'http://www.andechs.de/die-klosterbrauerei/genuss-fuer-leib-seele-brandechser-bierspezialitaeten/andechser-spezial-hell.html'
+        -
+          label: 'Heineken'
+          url: 'http://www.heineken.com/'
+        -
+          label: 'Paulaner Salvator'
+          url: 'http://www.paulaner-brauerei.de/53.0.html'
+        -
+          label: 'Chiemseer Braustoff'
+          url: 'http://www.chiemseer.de/page000109.aspx'
+    -
+      label: 'Security is hard'
+      url: 'http://www.cs.tau.ac.il/~tromer/acoustic/'
+    -
+      label: 'Bitcrypt-Fail'
+      url: 'http://blog.cassidiancybersecurity.com/post/2014/02/Bitcrypt-broken'
+    -
+      label: 'Coingen'
+      url: 'http://coingen.io/'
+    -
+      label: 'Bachelor "IT-Sicherheit"'
+      url: 'http://heise.de/-2061800'
+    -
+      label: 'Bullshit made in Germany'
+      url: 'http://www.youtube.com/watch?v=p56aVppK2W4'
+    -
+      label: 'Eve Online: The bloodbath of B-R5RB'
+      url: 'http://www.eurogamer.net/articles/2014-01-28-its-a-good-day-to-be-an-eve-player'
+      links:
+        -
+          label: 'Graphen und mehr'
+          url: 'http://community.eveonline.com/news/dev-blogs/the-bloodbath-of-b-r5rb/'
+        -
+          label: 'Noch mehr Bilder'
+          url: 'http://imgur.com/a/10lG2'
+    -
+      label: 'Strike Vector'
+      url: 'http://www.strikevector.net/'
+    -
+      label: 'Risk of Rain'
+      url: 'http://riskofraingame.com/'
+    -
+      label: 'Saber Rider: Die Fortsetzung'
+      url: 'http://stevinho.justnetwork.eu/2013/12/07/saber-rider-die-fortsetzung/'
+    -
+      label: 'Edge of Tomorrow'
+      url: 'http://www.youtube.com/watch?v=vw61gCe2oqI'
+    -
+      label: 'Gritty Illustrations Of Childhood Characters'
+      url: 'http://geekologie.com/2014/01/gritty-illustrations-of-childhood-charac.php'
+      links:
+        - 
+          label: 'deviantART-Galerie'
+          url: 'http://tohad.deviantart.com/gallery/'
+    -
+      label: '1. April schon heute: Amazon verschickt im Voraus'
+      url: 'http://www.golem.de/news/vorausschauender-versand-amazon-will-pakete-ohne-bestellung-verschicken-1401-104006.html'
+    -
+      label: 'Punisher - tweeting alarm'
+      url: 'https://play.google.com/store/apps/details?id=com.foxdogstudios.punisher'
+    -
+      label: 'The Economics of Star Trek'
+      url: 'https://medium.com/editors-picks/29bab88d50'
+    -
+      label: 'HTC: Anatomy of an Android'
+      url: 'http://www.htc.com/assets-desktop/images/softwareupdates/HTC-Anatomy-of-an-Android.jpg'
+    -
+      label: 'Magenta und anderer Spaß beim Farbensehen'
+      url: 'http://nowiknow.com/the-case-of-the-missing-magenta/'
+    -
+      label: 'SoundFocus'
+      url: 'http://blogs.wsj.com/venturecapital/2014/02/21/hardware-startup-soundfocus-raises-1-7m-to-protect-hearing-in-post-ipod-xbox-era/'
+    -
+      label: 'jOOQ'
+      url: 'http://www.jooq.org/'
+    -
+      label: 'St4k'
+      url: 'http://danlec.com/blog/stackoverflow-in-4096-bytes'
+    -
+      label: 'Eye of the Nadeldrucker'
+      url: 'http://vimeo.com/58200103'
+    -
+      label: 'Städte von oben'
+      url: 'http://www.buzzfeed.com/lyapalater/27-incredible-views-youd-only-see-if-you-were-a-bird'
+    -
+      label: 'Celebrities read mean Tweets'
+      links:
+        -
+          label: 'Teil 1'
+          url: 'http://www.youtube.com/watch?v=Zu5Oo23G67w'
+        -
+          label: 'Teil 2'
+          url: 'http://www.youtube.com/watch?v=Hcmz74AaXHs'
+        -
+          label: 'Teil 3'
+          url: 'http://www.youtube.com/watch?v=gTix7FDHZcA'
+    -
+      label: 'Weißwürscht'
+      url: 'http://www.youtube.com/watch?v=FbIAlcjbUKQ'
+
