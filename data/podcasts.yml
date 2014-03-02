@@ -1782,10 +1782,10 @@
 
 -
   episode: 19
-  label: ""
-  date: 2014-02-26
-  filesize: 0
-  duration: '?:??:??'
+  label: "NT4K"
+  date: 2014-03-02
+  filesize: 64011352
+  duration: '1:30:03'
   topics:
     -
       label: 'Hello World'
