@@ -1901,3 +1901,99 @@
       label: 'Weißwürscht'
       url: 'http://www.youtube.com/watch?v=FbIAlcjbUKQ'
 
+-
+  episode: 20
+  label: "Die Apple-freie Folge"
+  date: 2014-06-07
+  filesize: 0
+  duration: '?:??:??'
+  topics:
+    -
+      label: 'Hello World'
+    -
+      label: 'Bier'
+      links:
+        -
+          label: 'Berliner Weiße Himbeere + Waldmeister'
+          url: 'http://www.berliner-kindl.de/'
+        -
+          label: 'Oettinger Hell'
+          url: 'http://www.oettinger-bier.de/archives/17'
+        -
+          label: 'Duff (von Duff GmbH; kein Link)'
+        -
+          label: 'Hofbräu Maibock'
+          url: 'http://www.hofbraeu-muenchen.de/unser-bier/biersorten/hofbraeu-maibock/'
+    -
+      label: 'Microsoft gibt Source von MS-DOS 2.0 raus'
+      url: 'http://www.computerhistory.org/atchm/microsoft-ms-dos-2-0-source-code/'
+    -
+      label: 'Windows-XP-Updates bis 2019'
+      url: 'http://www.theregister.co.uk/2014/05/26/german_tinkerer_gets_around_xpocalypse/'
+    -
+      label: '24-Leute-Firma arbeitet und lebt zusammen in einem Haus in der Pampa'
+      url: 'http://techcrunch.com/2014/03/19/tc-cribs-meta-the-sprawling-rural-ranch-where-augmented-reality-magic-is-made/'
+    -
+      label: 'Schneller Lesen'
+      links:
+        -
+          label: 'Spritz'
+          url: 'http://www.spritzinc.com/'
+        -
+          label: 'Squirt'
+          url: 'http://squirt.io/'
+    -
+      label: 'Street Fighter: The Movie - What Went Wrong'
+      url: 'http://www.polygon.com/features/2014/3/10/5451014/street-fighter-the-movie-what-went-wrong'
+    -
+      label: '"What If?"-Buch'
+      url: 'http://blog.xkcd.com/2014/03/12/what-if-i-wrote-a-book/'
+    -
+      label: 'San Pedro prison'
+      url: 'http://en.wikipedia.org/wiki/San_Pedro_prison'
+    -
+      label: 'Sercomm baut gerne Backdoors ein'
+      url: 'http://www.synacktiv.com/ressources/TCP32764_backdoor_again.pdf'
+    -
+      label: 'TrueCrypt-Entwickler haben keinen Bock mehr'
+      url: 'https://www.grc.com/misc/truecrypt/truecrypt.htm'
+    -
+      label: "No Man's Sky"
+      url: 'https://www.youtube.com/watch?v=RRpDn5qPp3s'
+    -
+      label: 'Super Time Force'
+      url: 'http://www.joystiq.com/2014/05/13/super-time-force-review-chronological-disorder/'
+    -
+      label: 'Civ: Beyond Earth'
+      url: 'https://www.youtube.com/watch?v=qtYWqE55s24'
+    -
+      label: 'Alle NES- und SNES-Titelbildschirme als Video'
+      url: 'http://geekologie.com/2014/04/every-nintendo-and-super-nintendo-game-t.php'
+    -
+      label: 'Steam In-Home Streaming'
+      url: 'http://store.steampowered.com/streaming/'
+    -
+      label: 'Evolve: Asymmetrischer Shooter 4 vs. 1'
+      url: 'http://www.eurogamer.net/articles/2014-05-22-evolve-entertains-as-long-as-you-play-it-properly'
+    -
+      label: 'The Expert: 7 red lines'
+      url: 'https://www.youtube.com/watch?v=BKorP55Aqvg'
+    -
+      label: 'Depixelizing Pixel Art'
+      url: 'http://research.microsoft.com/en-us/um/people/kopf/pixelart/supplementary/multi_comparison.html'
+    -
+      label: 'Sixth Sense'
+      url: 'http://www.ted.com/talks/pattie_maes_demos_the_sixth_sense'
+    -
+      label: 'Vergleich absurder Übernahme-Deals wie Whatsapp/Facebook'
+      url: 'https://public.brightside.io/v1/chart/ece4947eb29375535376ca212578cf78'
+    -
+      label: 'Superman mit GoPro'
+      url: 'https://www.youtube.com/watch?v=H0Ib9SwC7EI'
+    -
+      label: 'Living with Lag'
+      url: 'http://geekologie.com/2014/04/living-with-lag-if-internet-lag-existed.php'
+    -
+      label: 'Kids react to old computers'
+      url: 'https://www.youtube.com/watch?v=PF7EpEnglgk'
+
