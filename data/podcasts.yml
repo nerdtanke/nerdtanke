@@ -1905,8 +1905,8 @@
   episode: 20
   label: "Die Apple-freie Folge"
   date: 2014-06-07
-  filesize: 0
-  duration: '?:??:??'
+  filesize: 66036360
+  duration: '1:37:12'
   topics:
     -
       label: 'Hello World'

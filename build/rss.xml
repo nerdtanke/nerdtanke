@@ -32,6 +32,18 @@
     <itunes:explicit>clean</itunes:explicit>
 
       <item>
+    <title>#20: Die Apple-freie Folge</title>
+    <itunes:author>Die Nerdtanke</itunes:author>
+    <itunes:subtitle></itunes:subtitle>
+    <itunes:summary>Bier, Microsoft gibt Source von MS-DOS 2.0 raus, Windows-XP-Updates bis 2019, 24-Leute-Firma arbeitet und lebt zusammen in einem Haus in der Pampa, Schneller Lesen, Street Fighter: The Movie - What Went Wrong, &quot;What If?&quot;-Buch, San Pedro prison, Sercomm baut gerne Backdoors ein, TrueCrypt-Entwickler haben keinen Bock mehr, No Man&#x27;s Sky, Super Time Force, Civ: Beyond Earth, Alle NES- und SNES-Titelbildschirme als Video, Steam In-Home Streaming, Evolve: Asymmetrischer Shooter 4 vs. 1, The Expert: 7 red lines, Depixelizing Pixel Art, Sixth Sense, Vergleich absurder Übernahme-Deals wie Whatsapp&#x2F;Facebook, Superman mit GoPro, Living with Lag, Kids react to old computers</itunes:summary>
+    <itunes:image href="http://nerdtanke.de/images/die-nerdtanke.png" />
+    <enclosure url="http://nerdtanke.de/podcasts/nerdtanke-20.mp3" length="66036360" type="audio/mpeg" />
+    <guid>http://nerdtanke.de/podcasts/nerdtanke-20.mp3</guid>
+    <pubDate>Sat, 07 Jun 2014 00:00:00 +0200</pubDate>
+    <itunes:duration>1:37:12</itunes:duration>
+    <itunes:keywords></itunes:keywords>
+  </item>
+  <item>
     <title>#19: NT4K</title>
     <itunes:author>Die Nerdtanke</itunes:author>
     <itunes:subtitle></itunes:subtitle>
