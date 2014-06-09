@@ -7,6 +7,8 @@ set :scm, :git
 set :deploy_via, :remote_cache
 set :branch, "master"
 
+set :keep_releases, 2
+
 server "nerdtanke.de", :app, :web, :db, :primary => true
 
 namespace :deploy do
