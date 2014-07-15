@@ -1997,3 +1997,82 @@
       label: 'Kids react to old computers'
       url: 'https://www.youtube.com/watch?v=PF7EpEnglgk'
 
+-
+  episode: 21
+  label: "10101"
+  date: 2014-07-16
+  filesize: 0
+  duration: '??:??'
+  topics:
+    -
+      label: 'Hello World'
+    -
+      label: 'Bier von Axel'
+    -
+      label: 'Dockwise Vanguard'
+      url: 'http://www.wired.com/2014/07/dockwise-vanguard-shipping/'
+    -
+      label: 'Kartoffelsalat'
+      url: 'https://www.kickstarter.com/projects/324283889/potato-salad/'
+    -
+      label: 'Coolest-Kühlbox'
+      url: 'https://www.kickstarter.com/projects/ryangrepper/coolest-cooler-21st-century-cooler-thats-actually'
+    -
+      label: 'Grüner See Tragöss'
+      url: 'https://www.youtube.com/watch?v=CPyzxfgKQoA'
+      links:
+        -
+          label: '@EpicEarthPorn'
+          url: 'https://twitter.com/EpicEarthPorn'
+        -
+          label: '@globe_pics'
+          url: 'https://twitter.com/globe_pics'
+    -
+      label: 'Dresden wird De-Mail-City'
+      url: 'http://heise.de/-2243420'
+    -
+      label: 'Arcade Story'
+      url: 'http://stevenf.com/2014/05/21/arcade-story/'
+    -
+      label: 'World of Warcraft: Level 90 mal anders'
+      url: 'http://www.eurogamer.net/articles/2014-06-24-wow-player-reaches-level-90-as-neither-horde-or-alliance'
+    -
+      label: 'Broforce'
+      url: 'http://www.broforcegame.com/'
+    -
+      label: 'Valiant Hearts'
+      url: 'http://valianthearts.ubi.com/'
+    -
+      label: 'DOS on DOPE'
+      url: 'http://dod.codeplex.com/'
+    -
+      label: 'Warum auch verschlüsseln?'
+      url: 'http://www.ndr.de/fernsehen/sendungen/zapp/Nutzen-Journalisten-Verschluesselungsprogramme-,zappumfrage100.html'
+    -
+      label: "Mark Hammill As The Joker Telling Mark Hammil As Luke Skywalker That He's His Father"
+      url: 'http://geekologie.com/2014/06/mark-hammill-as-the-joker-telling-mark-h.php'
+    -
+      label: 'Windows 3.1 im Web'
+      url: 'http://www.michaelv.org/'
+    -
+      label: 'Vorstandsmitglied Algorithmus'
+      url: 'http://www.gulli.com/news/23861-investment-firma-waehlt-algorithmus-in-den-vorstand-2014-05-16'
+    -
+      label: 'R.I.P. freshmeat.net'
+      url: 'http://freecode.com/about'
+    -
+      label: 'Simpsons in CSS'
+      url: 'http://pattle.github.io/simpsons-in-css/'
+    -
+      label: 'Hose anziehen: Look ma, no hands!'
+      url: 'http://geekologie.com/2014/06/wtf-was-that-guy-puts-on-pants-without-u.php'
+    -
+      label: "Sigourney Weaver hat's drauf"
+      url: 'https://www.youtube.com/watch?v=FF44YvDVP8Y'
+    -
+      label: 'Techno-Gitarre 2.0'
+      url: 'https://www.youtube.com/watch?v=Hr3RCdfyPoU'
+    -
+      label: 'Feuerwerk mittendrin'
+      url: 'https://www.youtube.com/watch?v=a9KZ3jgbbmI'
+
