@@ -1999,10 +1999,10 @@
 
 -
   episode: 21
-  label: "10101"
-  date: 2014-07-16
-  filesize: 0
-  duration: '??:??'
+  label: "Rechnerischer Anwenderradius"
+  date: 2014-07-19
+  filesize: 34002892
+  duration: '50:07'
   topics:
     -
       label: 'Hello World'
