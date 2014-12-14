@@ -2076,3 +2076,129 @@
       label: 'Feuerwerk mittendrin'
       url: 'https://www.youtube.com/watch?v=a9KZ3jgbbmI'
 
+
+-
+  episode: 22
+  label: "Smudo und das .EXE-Attachment"
+  date: 2014-12-15
+  filesize: 690386112
+  duration: '1:42:52'
+  topics:
+    -
+      label: 'Hello World'
+    -
+      label: 'Bier heute: Slowenien vs Belgien'
+      links:
+        -
+          label: 'Leffe Vieille Cuvée'
+        -
+          label: 'Leffe Blond'
+          url: 'http://www.leffe.com/en/beers/leffe-blond'
+        -
+          label: 'Union (Pivovarna Union)'
+          url: 'http://www.pivo-union.si/en/products/union'
+        -
+          label: 'Hoegaarden'
+          url: 'http://hoegaarden.com/nl-be/beer/blanche/'
+        -
+          label: 'Lasko (Pivovarna Lasko)'
+          url: 'http://www.pivo-lasko.si/nc/trade-marks/lasko/'
+        -
+          label: 'Stella Artois'
+          url: 'http://www.stellaartois.com/'
+    -
+      label: 'Hörerbrief: Update bzgl. Qubes OS'
+      url: 'https://qubes-os.org/'
+    -
+      label: 'Express-Bierkühlung'
+      url: 'http://www.welt.de/wissenschaft/article130897580/Mit-einem-Trick-wird-Bier-in-wenigen-Minuten-eiskalt.html'
+    -
+      label: 'Stille SMS'
+      url: 'http://www.lto.de/recht/hintergruende/h/stille-sms-ermaechtigungsgrundlage/'
+    -
+      label: 'Best Trial Expiry'
+      url: 'https://twitter.com/Dexwell_/status/495973072998895616'
+    -
+      label: 'Batman-Briefmarken'
+      url: 'https://store.usps.com/store/browse/productDetailSingleSku.jsp?productId=S_588404'
+    -
+      label: "Roko's Basilisk"
+      url: "http://rationalwiki.org/wiki/Roko's_basilisk"
+    -
+      label: 'Naumachia'
+      url: 'http://en.wikipedia.org/wiki/Naumachia'
+    -
+      label: 'Sway'
+      url: 'https://www.youtube.com/watch?v=Jw-g6IuBVJE'
+    -
+      label: 'The Grid'
+      url: 'https://thegrid.io'
+    -
+      label: 'Keyboard-Ghosting erklärt'
+      url: 'http://www.microsoft.com/appliedsciences/antighostingexplained.mspx'
+    -
+      label: 'Immediate-mode UI'
+      links:
+        -
+          label: 'GitHub: ImGui'
+          url: 'https://github.com/ocornut/imgui'
+        -
+          label: 'StackExchange: Immediate GUI - yae or nay?'
+          url: 'http://gamedev.stackexchange.com/questions/24103/immediate-gui-yae-or-nay'
+    -
+      label: 'Hearthstone-Simulator Hearthbreaker'
+      url: 'https://github.com/danielyule/hearthbreaker'
+    -
+      label: 'Emulator-backed Remakes'
+      url: 'http://www.gabrielgambetta.com/remakes.html'
+    -
+      label: 'Contraption Maker'
+      url: 'http://contraptionmaker.com/'
+    -
+      label: 'Electronic Super Joy'
+      url: 'http://www.electronicsuperjoy.com/'
+    -
+      label: 'Nuclear Throne'
+      url: 'http://nuclearthrone.com/'
+    -
+      label: 'Rebel Galaxy'
+      url: 'https://www.youtube.com/watch?v=rtg56RGq0OY'
+    -
+      label: 'Eve Online: Red vs Blue'
+      url: 'http://community.eveonline.com/news/dev-blogs/community-spotlight-red-vs-blue/'
+    -
+      label: 'Lost Ark'
+      url: 'https://www.youtube.com/watch?v=lV0wWzDAwJU'
+    -
+      label: "How Does No Man's Sky Actually Work?"
+      url: 'https://www.youtube.com/watch?v=ZVl1Hmth3HE'
+    -
+      label: 'Mad Max: Fury Road'
+      url: 'https://www.youtube.com/watch?v=akX3Is3qBpw'
+    -
+      label: 'Tomorrowland'
+      url: 'https://www.youtube.com/watch?v=1k59gXTWf-A'
+    -
+      label: 'US-Remake von "IT Crowd" ist freaky'
+      url: 'http://iwatchstuff.com/2014/10/nbc-remaking-it-crowd-again.php'
+    -
+      label: 'Buchserie "Magic 2.0"'
+      url: 'http://www.goodreads.com/series/131379-magic-2-0'
+    -
+      label: 'Billigbierratingagentur'
+      url: 'https://billigbier.wordpress.com/'
+    -
+      label: 'Postcards from Pripyat, Chernobyl'
+      url: 'http://vimeo.com/112681885'
+    -
+      label: 'Rob Whitworth Video Portfolio'
+      url: 'http://www.robwhitworth.co.uk/Portfolio.html'
+    -
+      label: 'GoPro: The Adventure of Life in 4K'
+      url: 'https://www.youtube.com/watch?v=wTcNtgA6gHs'
+    -
+      label: 'Jeff Goldblum macht Werbung für neue Glühbirnen'
+      url: 'https://www.youtube.com/watch?v=egIY7ushchU'
+    -
+      label: 'True Facts About The Mantis Shrimp'
+      url: 'https://www.youtube.com/watch?v=F5FEj9U-CJM'
