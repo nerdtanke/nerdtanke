@@ -61,8 +61,11 @@ class Podcast
     "#{title} (#{german_date})"
   end
   
-  def summary
-    topics[1..-1].map(&:label).join ', ' if topics.size > 1
+  def summary(options = {})
+    summary = ''
+    summary << 'Heute mit: ' if options[:intro]
+    summary << (topics[1..-1].map(&:label).join ', ') if topics.size > 1
+    summary
   end
   
   def page
@@ -97,9 +100,9 @@ class Podcast
   end
 
   def social_overview
-    topic_labels = topics[1..-1].map(&:label).join ', '
-    "#{title(:quotes => true)}. Diese Woche mit dabei: #{topic_labels}"
+    "#{title(:quotes => true)}. #{summary(:intro => true)}"
   end
+
 
   def unsynced_lyrics
     topics.map(&:full_label).join "\n"

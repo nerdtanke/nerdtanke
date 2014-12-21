@@ -3,7 +3,8 @@
     <title><%=h podcast.short_title %></title>
     <itunes:author>Die Nerdtanke</itunes:author>
     <itunes:subtitle></itunes:subtitle>
-    <itunes:summary><%=h podcast.summary %></itunes:summary>
+    <description><%=h podcast.summary(:intro => true) %></description>
+    <itunes:summary><%=h podcast.summary(:intro => true) %></itunes:summary>
     <itunes:image href="http://nerdtanke.de/images/die-nerdtanke.png" />
     <enclosure url="<%= podcast.url %>" length="<%= podcast.filesize %>" type="audio/mpeg" />
     <guid><%= podcast.url %></guid>
