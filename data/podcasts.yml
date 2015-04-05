@@ -2202,3 +2202,78 @@
     -
       label: 'True Facts About The Mantis Shrimp'
       url: 'https://www.youtube.com/watch?v=F5FEj9U-CJM'
+      
+      
+-
+  episode: 23
+  label: "If she can manage Sendmail, she can run a country"
+  date: 2015-04-05
+  filesize: 61853340
+  duration: '1:31:56'
+  topics:
+    -
+      label: 'Hello World'
+    -
+      label: 'Bier heute'
+      links:
+        -
+          label: 'Bierlieferung von Thomas'
+          url: 'http://www.gruentlich.de/'
+        -
+          label: 'Störtebeker Brauspezialitäten'
+          url: 'http://www.stoertebeker.com/'
+    -
+      label: 'Using Lasers to Create Super-hydrophobic Materials'
+      url: 'https://www.youtube.com/watch?v=FLegmQ8_dHg'      
+    -
+      label: 'Hamburg walls use hydrophobic paint to pee back'
+      url: 'http://www.gizmag.com/st-pauli-pee-back-super-hydrophobic-walls/36424/'      
+    -
+      label: 'BPG Image format'
+      url: 'http://bellard.org/bpg/'
+    -
+      label: 'Introducing Spot'
+      url: 'https://www.youtube.com/watch?v=M8YjvHYbZ9w'
+    -
+      label: 'CipherShed'
+      url: 'https://ciphershed.org/'
+    -
+      label: "Operation Socialist: The inside story of how British spies hacked Belgium's largest telco"
+      url: 'https://firstlook.org/theintercept/2014/12/13/belgacom-hack-gchq-inside-story/'
+    -
+      label: 'New Sonos logo design pulses like a speaker when scrolled'
+      url: 'http://www.theverge.com/2015/1/23/7876777/sonos-sound-wave-logo'
+    -
+      label: 'RFC 20 has been elevated to Internet Standard'
+      url: 'http://www.ietf.org/mail-archive/web/ietf-announce/current/msg13718.html'
+    -
+      label: 'Super Mario World Credits Warp'
+      links:
+        - 
+         label: 'Video'
+         url: 'https://www.youtube.com/watch?v=14wqBA5Q1yc'
+        - 
+         label: 'Technical background'
+         url: 'http://deanyd.net/smw/index.php?title=Credits_Warp_Run#Sprite_Slots'
+    -
+      label: 'Technobabylon'
+      url: 'http://www.wadjeteyegames.com/games/technobabylon/'
+    -
+      label: 'Day of the Tentacle Special Edition announced'
+      url: 'http://www.pcgamer.com/day-of-the-tentacle-special-edition-announced-plus-grim-fandango-date/'
+    -
+      label: 'Heroes of the Storm'
+      url: 'http://eu.battle.net/heroes/'
+    -
+      label: 'Cixin Liu: The Three-Body Problem'
+      url: 'http://www.amazon.de/The-Three-Body-Problem-Cixin-Liu/dp/0765377063'
+    -
+      label: 'WhatSim / ChatSim'
+      url: 'http://www.chatsim.com/en'
+    -
+      label: 'Paperspace'
+      url: 'https://paperspace.io/'
+    -
+      label: 'Donatello, Michelangelo, Leonardo, Raphael VS Leonardo, Michelangelo, Donatello, Raphael'
+      url: 'https://www.youtube.com/watch?v=6HZ5V9rT96M'
+
