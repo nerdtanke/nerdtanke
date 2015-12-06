@@ -2277,3 +2277,165 @@
       label: 'Donatello, Michelangelo, Leonardo, Raphael VS Leonardo, Michelangelo, Donatello, Raphael'
       url: 'https://www.youtube.com/watch?v=6HZ5V9rT96M'
 
+-
+  episode: 24
+  label: 'Auf dieses Bier haben Sie lange gewartet'
+  date: 2015-06-06
+  filesize: 0
+  duration: '?:??:??'
+  topics:
+    -
+      label: 'Hello World'
+    -
+      label: 'Bier heute'
+      links:
+        -
+          label: "Beck's Pale Ale"
+          url: 'https://becks.de/tastetheworld/paleale/'
+        -
+          label: 'Erdinger Urweiße'
+          url: 'http://www.erdinger-urweisse.de/'
+        -
+          label: 'Nerdtanke Oktoberfest-Märzen'
+        -
+          label: 'Turbinenbräu Goldsprint'
+          url: 'http://www.turbinenbraeu.ch/index.php?nav=3&content=unserebiere.html'
+    -
+      label: 'Spielkarten-Prototyping mit Squib'
+      url: 'http://andymeneely.github.io/squib/'
+    -
+      label: 'tcpdump in der Fritz!Box'
+      url: 'http://avm.de/service/fritzbox/fritzbox-7490/wissensdatenbank/publication/show/1387_Paketmitschnitt-und-Support-Daten-erstellen/'
+      links:
+        -
+          label: 'Geht auch ohne Menüeintrag'
+          url: 'http://fritz.box/html/capture.html'
+    -
+      label: 'Farben bei Farbenblindheit: EnChroma'
+      url: 'http://www.enchroma.com/'
+    -
+      label: 'Kamera-Drohne Lily'
+      url: 'https://www.lily.camera/'
+    -
+      label: 'Schreibmaschine over USB'
+      url: 'http://www.usbtypewriter.com/collections/typewriters'
+    -
+      label: 'CGA mit 1000 Farben'
+      url: 'http://boingboing.net/2015/04/10/amazing-demo-gets-1000-colors.html'
+      links:
+        -
+          label: 'Erklärung 1'
+          url: 'http://8088mph.blogspot.de/2015/04/cga-in-1024-colors-new-mode-illustrated.html'
+        -
+          label: 'Erklärung 2'
+          url: 'http://www.reenigne.org/blog/1k-colours-on-cga-how-its-done/'
+    -
+      label: 'Schlösserknacken mit Arduino und 3D-Drucker'
+      url: 'https://www.youtube.com/watch?v=YcpSvHpbHQ4'
+    -
+      label: 'Confession: I was a teenage computer virus writer'
+      url: 'http://www.theregister.co.uk/2015/09/14/i_was_a_teenage_virus_author/'
+    -
+      label: 'Hearthstone: 40 Stunden für 1 Zug'
+      url: 'http://www.eurogamer.net/articles/2015-03-23-watch-hearthstones-longest-turn-ever-clock-in-at-over-40-hours'
+    -
+      label: 'Rebel Galaxy'
+      url: 'http://rebel-galaxy.com/'
+    -
+      label: 'Dreadnought'
+      url: 'https://www.youtube.com/watch?v=a2BWfI5hzPY'
+    -
+      label: 'New Doom'
+      url: 'https://www.youtube.com/watch?v=u7g6BfvU6A8'
+    -
+      label: 'Cyberpunk 2077'
+      url: 'http://cyberpunk.net/'
+    -
+      label: 'Rocket League'
+      url: 'http://rocketleague.psyonix.com/'
+    -
+      label: 'Agar.io'
+      url: 'http://agar.io/'
+    -
+      label: 'Pico-8'
+      url: 'http://www.lexaloffle.com/pico-8.php'
+    -
+      label: 'Batman v Superman'
+      url: 'https://www.youtube.com/watch?v=IwfUnkBfdZ4'
+      links:
+        -
+          label: 'Comic-Con-Trailer'
+          url: 'https://www.youtube.com/watch?v=0WWzgGyAH6Y'
+    -
+      label: 'EVE Online Fanfest 2015 Trailer'
+      url: 'https://www.youtube.com/watch?v=s3060a8NkOk'
+    -
+      label: '"Evolve" als Film: The Leviathan'
+      url: 'https://vimeo.com/122368314'
+    -
+      label: 'Mal wieder ein Trailer für Star Wars 7'
+      url: 'https://www.youtube.com/watch?v=sGbxmsDFVnE'
+      links:
+        -
+          label: 'Japanischer Trailer'
+          url: 'https://www.youtube.com/watch?v=7XNit858b6I'
+    -
+      label: 'Star Wars: Knights of the Fallen Empire'
+      url: 'https://www.youtube.com/watch?v=bkgzXpKbVGE'
+    -
+      label: 'THX Deep Note'
+      url: 'http://createdigitalmusic.com/2015/04/thx-deep-note-creator-remade-iconic-sound/'
+    -
+      label: 'Lecker Äpfel aus Tschernobyl'
+      url: 'http://www.atlasobscura.com/articles/the-woman-who-ate-chernobyl-s-apples'
+    -
+      label: 'Powercreep: Crystal Knows'
+      url: 'https://www.crystalknows.com/home'
+      links:
+        -
+          label: 'Buchtipp: Avogadro Corp'
+          url: 'http://avogadrocorp.com/'
+    -
+      label: 'Kein Funk in der Quiet Zone'
+      url: 'http://www.bbc.com/news/magazine-32758042'
+    -
+      label: 'Web Design, the first 100 years '
+      url: 'http://idlewords.com/talks/web_design_first_100_years.htm'
+      links:
+        -
+          label: 'Tonspur (mit etwas weniger Content)'
+          url: 'https://www.youtube.com/watch?v=nwhZ3KEqUlw'
+    -
+      label: 'Chat Roulette RL FPS'
+      url: 'https://www.youtube.com/watch?v=p747PrxmZJ4'
+      links:
+        -
+          label: 'Level 2'
+          url: 'https://www.youtube.com/watch?v=TlXUSw_y1cg'
+    -
+      label: 'Stems für mehr Remixes'
+      url: 'http://www.stems-music.com/'
+    -
+      label: 'Software-Steadycam SteadXP'
+      url: 'https://www.kickstarter.com/projects/1091165875/steadxp-the-future-of-video-stabilization/description'
+    -
+      label: "Real World Thor's Hammer"
+      url: 'http://interestingengineering.com/someone-just-made-thors-hammer-and-hes-the-only-one-who-can-lift-it/'
+    -
+      label: "You're More Successful Than You Realize"
+      url: 'https://www.youtube.com/watch?v=SPt5XnCUOvg'
+    -
+      label: 'Papp-PC: Cardboard Dream Setup Entry #34UC87C '
+      url: 'https://www.youtube.com/watch?v=LoxeiZlwZeA'
+    -
+      label: 'Hey Pass Me A Beer'
+      url: 'https://www.youtube.com/watch?v=HVsU-vwUpdM'
+    -
+      label: 'Kind macht klasse Zaubertricks mit Münze'
+      url: 'https://www.youtube.com/watch?v=qBQ-ygcWkiw'
+    -
+      label: 'Klettern mit Katzen'
+      url: 'http://www.mnn.com/family/pets/stories/shelter-cat-makes-perfect-rock-climbing-partner'
+    -
+      label: 'Edge of Stability'
+      url: 'https://vimeo.com/133202655'
