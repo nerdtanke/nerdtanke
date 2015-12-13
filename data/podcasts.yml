@@ -2279,10 +2279,10 @@
 
 -
   episode: 24
-  label: 'Auf dieses Bier haben Sie lange gewartet'
-  date: 2015-06-06
-  filesize: 0
-  duration: '?:??:??'
+  label: 'Auf Achse im Weltall'
+  date: 2015-12-13
+  filesize: 72939178
+  duration: '1:48:35'
   topics:
     -
       label: 'Hello World'

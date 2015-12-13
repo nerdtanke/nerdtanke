@@ -32,6 +32,19 @@
     <itunes:explicit>clean</itunes:explicit>
 
       <item>
+    <title>#24: Auf Achse im Weltall</title>
+    <itunes:author>Die Nerdtanke</itunes:author>
+    <itunes:subtitle></itunes:subtitle>
+    <description>Heute mit: Bier heute, Spielkarten-Prototyping mit Squib, tcpdump in der Fritz!Box, Farben bei Farbenblindheit: EnChroma, Kamera-Drohne Lily, Schreibmaschine over USB, CGA mit 1000 Farben, Schlösserknacken mit Arduino und 3D-Drucker, Confession: I was a teenage computer virus writer, Hearthstone: 40 Stunden für 1 Zug, Rebel Galaxy, Dreadnought, New Doom, Cyberpunk 2077, Rocket League, Agar.io, Pico-8, Batman v Superman, EVE Online Fanfest 2015 Trailer, &quot;Evolve&quot; als Film: The Leviathan, Mal wieder ein Trailer für Star Wars 7, Star Wars: Knights of the Fallen Empire, THX Deep Note, Lecker Äpfel aus Tschernobyl, Powercreep: Crystal Knows, Kein Funk in der Quiet Zone, Web Design, the first 100 years , Chat Roulette RL FPS, Stems für mehr Remixes, Software-Steadycam SteadXP, Real World Thor&#x27;s Hammer, You&#x27;re More Successful Than You Realize, Papp-PC: Cardboard Dream Setup Entry #34UC87C , Hey Pass Me A Beer, Kind macht klasse Zaubertricks mit Münze, Klettern mit Katzen, Edge of Stability</description>
+    <itunes:summary>Heute mit: Bier heute, Spielkarten-Prototyping mit Squib, tcpdump in der Fritz!Box, Farben bei Farbenblindheit: EnChroma, Kamera-Drohne Lily, Schreibmaschine over USB, CGA mit 1000 Farben, Schlösserknacken mit Arduino und 3D-Drucker, Confession: I was a teenage computer virus writer, Hearthstone: 40 Stunden für 1 Zug, Rebel Galaxy, Dreadnought, New Doom, Cyberpunk 2077, Rocket League, Agar.io, Pico-8, Batman v Superman, EVE Online Fanfest 2015 Trailer, &quot;Evolve&quot; als Film: The Leviathan, Mal wieder ein Trailer für Star Wars 7, Star Wars: Knights of the Fallen Empire, THX Deep Note, Lecker Äpfel aus Tschernobyl, Powercreep: Crystal Knows, Kein Funk in der Quiet Zone, Web Design, the first 100 years , Chat Roulette RL FPS, Stems für mehr Remixes, Software-Steadycam SteadXP, Real World Thor&#x27;s Hammer, You&#x27;re More Successful Than You Realize, Papp-PC: Cardboard Dream Setup Entry #34UC87C , Hey Pass Me A Beer, Kind macht klasse Zaubertricks mit Münze, Klettern mit Katzen, Edge of Stability</itunes:summary>
+    <itunes:image href="http://nerdtanke.de/images/die-nerdtanke.png" />
+    <enclosure url="http://nerdtanke.de/podcasts/nerdtanke-24.mp3" length="72939178" type="audio/mpeg" />
+    <guid>http://nerdtanke.de/podcasts/nerdtanke-24.mp3</guid>
+    <pubDate>Sun, 13 Dec 2015 00:00:00 +0100</pubDate>
+    <itunes:duration>1:48:35</itunes:duration>
+    <itunes:keywords></itunes:keywords>
+  </item>
+  <item>
     <title>#23: If she can manage Sendmail, she can run a country</title>
     <itunes:author>Die Nerdtanke</itunes:author>
     <itunes:subtitle></itunes:subtitle>
