@@ -1,0 +1,155 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html lang='de' xml:lang='de' xmlns='http://www.w3.org/1999/xhtml'>
+  <head>
+    <meta content='text/html; charset=UTF-8' http-equiv='Content-Type' />
+    <meta content='de' http-equiv='Content-Language' />
+    <title>Die Nerdtanke</title>
+    <link href='http://nerdtanke.de/rss.xml' rel='alternate' title='Die Nerdtanke als RSS-Feed' type='application/rss+xml' />
+    <link href='favicon.ico' rel='icon' type='image/x-icon' />
+    <link href='favicon.ico' rel='shortcut icon' type='image/x-icon' />
+    <link href="stylesheets/screen.css" media="screen" rel="stylesheet" type="text/css" />
+    <link href="stylesheets/gameboy.css" media="screen and (max-width: 990px)" rel="stylesheet" type="text/css" />
+    <script src="javascripts/jquery-1.6.1.min.js" type="text/javascript"></script>
+    <script type='text/javascript'>
+      //<![CDATA[
+        $('.play_link').live('click', function() {
+          var self = $(this);
+          var audioTag = self.attr('data-audio')
+          self.parent('.player').append(audioTag).find('audio').get(0).play();
+          self.removeAttr('data-audio').hide();
+          return false;
+        });
+      //]]>
+    </script>
+  </head>
+  <body>
+    <div id='page'>
+      <div id='header'>
+        <h1><a href="/">Die Nerdtanke</a></h1>
+        <h4>Bytes und Bier – Einmal vollmachen</h4>
+        <a href="/"><img alt="" id="logo" src="images/die-nerdtanke-75x75.png" /></a>
+      </div>
+      <div id='torso'>
+        <div id='sidebar'>
+          <div id='about'>
+            <p>
+              Wir sind 3 Nerds und sprechen in Podcasts ueber Themen, die Nerds wie euch interessieren.
+            </p>
+          </div>
+          <div id='connect'>
+            <div id='buttons'>
+              <div class='button'>
+                <a class="email" href="mailto:tankwart@nerdtanke.de">E-Mail</a>
+              </div>
+              <div class='button'>
+                <a class="rss" href="http://nerdtanke.de/rss.xml">RSS</a>
+              </div>
+              <div class='button'>
+                <a target="_blank" class="itunes" href="http://itunes.apple.com/de/podcast/die-nerdtanke/id434211329">iTunes</a>
+              </div>
+              <div class='button'>
+                <a target="_blank" class="facebook" href="https://www.facebook.com/nerdtanke">Facebook</a>
+              </div>
+              <div class='button'>
+                      <a target="_blank" class="google_plus" href="https://plus.google.com/+DieNerdtanke"><span class='blue'>G</span><span class='red'>o</span><span class='yellow'>o</span><span class='blue'>g</span><span class='green'>l</span><span class='red'>e</span><span class='plus'>+</span></a>
+          
+          </div>
+              <div class='button'>
+                <a target="_blank" class="twitter" href="http://twitter.com/nerdtanke">Twitter</a>
+              </div>
+            </div>
+          </div>
+          <div id='hosts'>
+            <div class="host"><img alt="Arne" src="images/hosts/x2/arne.png" /><div class="name">Arne</div></div>
+            <div class="host"><img alt="Henning" src="images/hosts/x2/henning.png" /><div class="name">Henning</div></div>
+            <div class="host"><img alt="Thomas" src="images/hosts/x2/thomas.png" /><div class="name">Thomas</div></div>
+            <div class='clear'></div>
+          </div>
+        </div>
+        <div id='main'>
+          <div id="privacy">
+            <h1>Datenschutzerklaerung</h1>
+          
+            <h2>Speicherung personenbezogener Daten</h2>
+          
+            <p>
+              Diese Webseite (<a href="http://nerdtanke.de">nerdtanke.de</a>)
+              speichert keine personenbezogenen Daten, verwendet keine Cookies und bindet keine Scripts Dritter ein.
+            </p>
+          
+          
+            <h2>Verantwortliche Stelle</h2>
+          
+            <p>Verantwortliche Stelle im Sinne der Datenschutzgesetze, insbesondere der EU-Datenschutzgrundverordnung (DSGVO),
+              ist:</p>
+            <p>Henning Koch
+              <br>Reeseallee 33 1/9
+              <br>86156 Augsburg</p>
+          
+          
+            <h2>Ihre Betroffenenrechte</h2>
+            <p>Unter den oben angegebenen Kontaktdaten der fuer den Datenschutz verantwortlichen Stelle koennen Sie jederzeit folgende Rechte ausueben:</p>
+            <ul>
+              <li>Auskunft ueber Ihre bei uns gespeicherten Daten und deren Verarbeitung,</li>
+              <li>Berichtigung unrichtiger personenbezogener Daten,</li>
+              <li>Loeschung Ihrer bei uns gespeicherten Daten,</li>
+              <li>Einschraenkung der Datenverarbeitung, sofern wir Ihre Daten aufgrund gesetzlicher Pflichten noch nicht loeschen
+                duerfen,
+              </li>
+              <li>Widerspruch gegen die Verarbeitung Ihrer Daten bei uns und</li>
+              <li>Datenuebertragbarkeit, sofern Sie in die Datenverarbeitung eingewilligt haben oder einen Vertrag mit uns
+                abgeschlossen haben.
+              </li>
+            </ul>
+            <p>Sofern Sie uns eine Einwilligung erteilt haben, koennen Sie diese jederzeit mit Wirkung fuer die Zukunft
+              widerrufen.</p>
+            <p>Sie koennen sich jederzeit mit einer Beschwerde an die fuer Sie zustaendige Aufsichtsbehoerde wenden. Ihre zustaendige
+              Aufsichtsbehoerde richtet sich nach dem Bundesland Ihres Wohnsitzes, Ihrer Arbeit oder der mutmasslichen Verletzung.
+              Eine Liste der Aufsichtsbehoerden (fuer den nichtoeffentlichen Bereich) mit Anschrift finden Sie unter:
+              <a href="https://www.bfdi.bund.de/DE/Infothek/Anschriften_Links/anschriften_links-node.html" target="_blank" rel="noopener">www.bfdi.bund.de</a>.
+            </p>
+          
+            <h2>Zwecke der Datenverarbeitung durch die verantwortliche Stelle und Dritte</h2>
+            <p>Wir verarbeiten Ihre personenbezogenen Daten nur zu den in dieser Datenschutzerklaerung genannten Zwecken. Eine
+              Uebermittlung Ihrer persoenlichen Daten an Dritte zu anderen als den genannten Zwecken findet nicht statt. Wir geben
+              Ihre persoenlichen Daten nur an Dritte weiter, wenn:</p>
+            <ul>
+              <li>Sie Ihre ausdrueckliche Einwilligung dazu erteilt haben,</li>
+              <li>die Verarbeitung zur Abwicklung eines Vertrags mit Ihnen erforderlich ist,</li>
+              <li>die Verarbeitung zur Erfuellung einer rechtlichen Verpflichtung erforderlich ist,</li>
+            </ul>
+            <p>die Verarbeitung zur Wahrung berechtigter Interessen erforderlich ist und kein Grund zur Annahme besteht, dass Sie
+              ein ueberwiegendes schutzwuerdiges Interesse an der Nichtweitergabe Ihrer Daten haben.</p>
+            <h2>Loeschung bzw. Sperrung der Daten</h2>
+            <p>Wir halten uns an die Grundsaetze der Datenvermeidung und Datensparsamkeit. Wir speichern Ihre personenbezogenen Daten
+              daher nur so lange, wie dies zur Erreichung der hier genannten Zwecke erforderlich ist oder wie es die vom Gesetzgeber
+              vorgesehenen vielfaeltigen Speicherfristen vorsehen. Nach Fortfall des jeweiligen Zweckes bzw. Ablauf dieser Fristen
+              werden die entsprechenden Daten routinemaessig und entsprechend den gesetzlichen Vorschriften gesperrt oder
+              geloescht.</p>
+          
+            <h2><strong>Aenderung unserer Datenschutzbestimmungen</strong></h2>
+            <p>Wir behalten uns vor, diese Datenschutzerklaerung anzupassen, damit sie stets den aktuellen rechtlichen Anforderungen
+              entspricht oder um Aenderungen unserer Leistungen in der Datenschutzerklaerung umzusetzen, z.B. bei der Einfuehrung neuer
+              Services. Fuer Ihren erneuten Besuch gilt dann die neue Datenschutzerklaerung.</p>
+          
+            <h2><strong>Fragen zum Datenschutz</strong></h2>
+            <p>Wenn Sie Fragen zum Datenschutz haben, schreiben Sie uns bitte eine <a href="mailto:tankwart@nerdtanke.de">E-Mail</a>
+              oder wenden Sie sich direkt an die fuer den
+              Datenschutz verantwortliche Stelle (s.o.).
+          </div>
+          
+          <div id="credits">
+            <p></p><em>Die Datenschutzerklaerung wurde mit
+              dem </em><a href="https://www.activemind.de/datenschutz/datenschutzhinweis-generator/" target="_blank" rel="noopener"><em>Datenschutzerklaerungs-Generator
+              der activeMind AG erstellt</em></a><em>.</em></p>
+          </div>
+          <div id='footer'>
+            <a href="mailto:tankwart@nerdtanke.de">tankwart@nerdtanke.de</a>
+            <a rel="nofollow" href="imprint.html">Impressum</a>
+            <a rel="nofollow" href="privacy.html">Datenschutzerklärung</a>
+          </div>
+        </div>
+      </div>
+    </div>
+  </body>
+</html>

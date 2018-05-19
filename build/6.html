@@ -4,12 +4,12 @@
     <meta content='text/html; charset=UTF-8' http-equiv='Content-Type' />
     <meta content='de' http-equiv='Content-Language' />
     <title>Die Nerdtanke – Episode 6: Hack and Slay</title>
-    <link href='http://feeds.feedburner.com/DieNerdtanke' rel='alternate' title='Die Nerdtanke als RSS-Feed' type='application/rss+xml' />
+    <link href='http://nerdtanke.de/rss.xml' rel='alternate' title='Die Nerdtanke als RSS-Feed' type='application/rss+xml' />
     <link href='favicon.ico' rel='icon' type='image/x-icon' />
     <link href='favicon.ico' rel='shortcut icon' type='image/x-icon' />
-    <link type="text/css" rel="stylesheet" href="stylesheets/screen.css" media="screen" />
-    <link type="text/css" rel="stylesheet" href="stylesheets/gameboy.css" media="screen and (max-width: 990px)" />
-    <script type="text/javascript" src="javascripts/jquery-1.6.1.min.js"></script>
+    <link href="stylesheets/screen.css" media="screen" rel="stylesheet" type="text/css" />
+    <link href="stylesheets/gameboy.css" media="screen and (max-width: 990px)" rel="stylesheet" type="text/css" />
+    <script src="javascripts/jquery-1.6.1.min.js" type="text/javascript"></script>
     <script type='text/javascript'>
       //<![CDATA[
         $('.play_link').live('click', function() {
@@ -21,39 +21,13 @@
         });
       //]]>
     </script>
-    <script type='text/javascript'>
-      //<![CDATA[
-        var _gaq = _gaq || [];
-        _gaq.push(['_setAccount', 'UA-441965-5']);
-        _gaq.push(['_trackPageview']);
-        
-        (function() {
-          var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-          ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-          var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-        })();
-      //]]>
-    </script>
-    <script type='text/javascript'>
-      //<![CDATA[
-        window._idl = {};
-        _idl.variant = "banner";
-        (function() {
-          var idl = document.createElement('script');
-          idl.type = 'text/javascript';
-          idl.async = true;
-          idl.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'members.internetdefenseleague.org/include/?url=' + (_idl.url || '') + '&campaign=' + (_idl.campaign || '') + '&variant=' + (_idl.variant || 'banner');
-          document.getElementsByTagName('body')[0].appendChild(idl);
-        })();
-      //]]>
-    </script>
   </head>
   <body>
     <div id='page'>
       <div id='header'>
         <h1><a href="/">Die Nerdtanke</a></h1>
         <h4>Bytes und Bier – Einmal vollmachen</h4>
-        <a href="/"><img src="images/die-nerdtanke-75x75.png" id="logo" alt="" /></a>
+        <a href="/"><img alt="" id="logo" src="images/die-nerdtanke-75x75.png" /></a>
       </div>
       <div id='torso'>
         <div id='sidebar'>
@@ -68,27 +42,27 @@
                 <a class="email" href="mailto:tankwart@nerdtanke.de">E-Mail</a>
               </div>
               <div class='button'>
-                <a class="rss" href="http://feeds.feedburner.com/DieNerdtanke">RSS</a>
+                <a class="rss" href="http://nerdtanke.de/rss.xml">RSS</a>
               </div>
               <div class='button'>
-                <a class="itunes" href="http://itunes.apple.com/de/podcast/die-nerdtanke/id434211329" target="_blank">iTunes</a>
+                <a target="_blank" class="itunes" href="http://itunes.apple.com/de/podcast/die-nerdtanke/id434211329">iTunes</a>
               </div>
               <div class='button'>
-                <a class="facebook" href="https://www.facebook.com/nerdtanke" target="_blank">Facebook</a>
+                <a target="_blank" class="facebook" href="https://www.facebook.com/nerdtanke">Facebook</a>
               </div>
               <div class='button'>
-                      <a class="google_plus" href="https://plus.google.com/+DieNerdtanke" target="_blank"><span class='blue'>G</span><span class='red'>o</span><span class='yellow'>o</span><span class='blue'>g</span><span class='green'>l</span><span class='red'>e</span><span class='plus'>+</span></a>
+                      <a target="_blank" class="google_plus" href="https://plus.google.com/+DieNerdtanke"><span class='blue'>G</span><span class='red'>o</span><span class='yellow'>o</span><span class='blue'>g</span><span class='green'>l</span><span class='red'>e</span><span class='plus'>+</span></a>
           
           </div>
               <div class='button'>
-                <a class="twitter" href="http://twitter.com/nerdtanke" target="_blank">Twitter</a>
+                <a target="_blank" class="twitter" href="http://twitter.com/nerdtanke">Twitter</a>
               </div>
             </div>
           </div>
           <div id='hosts'>
-            <div class="host"><img src="images/hosts/x2/arne.png" alt="Arne" /><div class="name">Arne</div></div>
-            <div class="host"><img src="images/hosts/x2/henning.png" alt="Henning" /><div class="name">Henning</div></div>
-            <div class="host"><img src="images/hosts/x2/thomas.png" alt="Thomas" /><div class="name">Thomas</div></div>
+            <div class="host"><img alt="Arne" src="images/hosts/x2/arne.png" /><div class="name">Arne</div></div>
+            <div class="host"><img alt="Henning" src="images/hosts/x2/henning.png" /><div class="name">Henning</div></div>
+            <div class="host"><img alt="Thomas" src="images/hosts/x2/thomas.png" /><div class="name">Thomas</div></div>
             <div class='clear'></div>
           </div>
         </div>
@@ -97,7 +71,7 @@
             <h2>
               Episode 6: Hack and Slay (09.08.2011)
             </h2>
-            <div class="player"><a class="play_link" href="#" data-audio="&lt;audio controls=&quot;controls&quot;&gt;&lt;source type=&quot;audio/ogg&quot; src=&quot;podcasts/nerdtanke-6.ogg&quot; /&gt;&lt;source type=&quot;audio/mpeg&quot; src=&quot;podcasts/nerdtanke-6.mp3&quot; /&gt;&lt;/audio&gt;">Abspielen (34:47)</a></div>
+            <div class="player"><a class="play_link" data-audio="&lt;audio controls=&quot;controls&quot;&gt;&lt;source src=&quot;podcasts/nerdtanke-6.mp3&quot; type=&quot;audio/mpeg&quot; /&gt;&lt;/audio&gt;" href="#">Abspielen (34:47)</a></div>
             <div class='download'>
               <a class="download_link" href="podcasts/nerdtanke-6.mp3">Download als MP3 (21 MB)</a>
             </div>
@@ -114,15 +88,15 @@
                 </li>
                 <li>
                   Ab 3:08: Regenwolke erschiesst Amazon-Cloud
-                  (<a href="http://www.zdnet.co.uk/news/cloud/2011/08/08/lightning-strikes-amazons-european-cloud-40093641/" target="_blank">zdnet.co.uk</a>)
+                  (<a target="_blank" href="http://www.zdnet.co.uk/news/cloud/2011/08/08/lightning-strikes-amazons-european-cloud-40093641/">zdnet.co.uk</a>)
                 </li>
                 <li>
                   Ab 4:31: Die &quot;Solarized&quot; Farbpalette
-                  (<a href="http://ethanschoonover.com/solarized" target="_blank">ethanschoonover.com</a>)
+                  (<a target="_blank" href="http://ethanschoonover.com/solarized">ethanschoonover.com</a>)
                 </li>
                 <li>
                   Ab 6:24: Neuer Texteditor: Sublime Text 2
-                  (<a href="http://www.sublimetext.com/blog/articles/sublime-text-2-beta" target="_blank">sublimetext.com</a>)
+                  (<a target="_blank" href="http://www.sublimetext.com/blog/articles/sublime-text-2-beta">sublimetext.com</a>)
                 </li>
                 <li>
                   Ab 10:41: Pen &amp; Paper Rollenspiele
@@ -131,10 +105,10 @@
                   Ab 13:57: Live-Rollenspiele (LARPs)
                   <ul>
                     <li>
-                      <a href="http://www.live-adventure.de/ConQuest/trailer.php" target="_blank">Trailer fuer Massen-Con (Conquest of Mythodea)</a>
+                      <a target="_blank" href="http://www.live-adventure.de/ConQuest/trailer.php">Trailer fuer Massen-Con (Conquest of Mythodea)</a>
                     </li>
                     <li>
-                      <a href="http://www.larpkalender.de/" target="_blank">LARP Kalender</a>
+                      <a target="_blank" href="http://www.larpkalender.de/">LARP Kalender</a>
                     </li>
                   </ul>
                 </li>
@@ -143,23 +117,23 @@
                 </li>
                 <li>
                   Ab 23:07: Leider nicht im Kino: Deus Ex 3
-                  (<a href="http://www.youtube.com/watch?v=aRtdAOYKvmI" target="_blank">youtube.com</a>)
+                  (<a target="_blank" href="http://www.youtube.com/watch?v=aRtdAOYKvmI">youtube.com</a>)
                 </li>
                 <li>
                   Ab 24:52: World of Starcraft: Starcraft Universe
-                  (<a href="http://www.eurogamer.net/videos/starcraft-universe-alpha-gameplay" target="_blank">eurogamer.net</a>)
+                  (<a target="_blank" href="http://www.eurogamer.net/videos/starcraft-universe-alpha-gameplay">eurogamer.net</a>)
                 </li>
                 <li>
                   Ab 26:07: Real-time messaging mit PubNub
-                  (<a href="http://www.pubnub.com/" target="_blank">pubnub.com</a>)
+                  (<a target="_blank" href="http://www.pubnub.com/">pubnub.com</a>)
                 </li>
                 <li>
                   Ab 29:39: WTF der Woche: Our security auditor is an idiot
-                  (<a href="http://serverfault.com/questions/293217/our-security-auditor-is-an-idiot-how-do-i-give-him-the-information-he-wants" target="_blank">serverfault.com</a>)
+                  (<a target="_blank" href="http://serverfault.com/questions/293217/our-security-auditor-is-an-idiot-how-do-i-give-him-the-information-he-wants">serverfault.com</a>)
                 </li>
                 <li>
                   Ab 31:45:  Post-It War
-                  (<a href="http://www.obviouswinner.com/obvwin/2011/8/4/post-it-war-lands-in-france-as-a-giant-8bit-video-game-build.html" target="_blank">obviouswinner.com</a>)
+                  (<a target="_blank" href="http://www.obviouswinner.com/obvwin/2011/8/4/post-it-war-lands-in-france-as-a-giant-8bit-video-game-build.html">obviouswinner.com</a>)
                 </li>
                 <li>
                   Ab 32:38: shutdown -h
@@ -172,6 +146,9 @@
               Weitere Folgen
             </h2>
             <ul>
+              <li>
+                <a href="dsgvo-feed.html">DSGVO-konformer Feed verfuegbar (19.05.2018)</a>
+              </li>
               <li>
                 <a href="24.html">Episode 24: Auf Achse im Weltall (13.12.2015)</a>
               </li>
@@ -250,11 +227,9 @@
             </ul>
           </div>
           <div id='footer'>
-            Kontakt:
             <a href="mailto:tankwart@nerdtanke.de">tankwart@nerdtanke.de</a>
-            <div class='imprint'>
-              <a rel="nofollow" href="imprint.html">Impressum</a>
-            </div>
+            <a rel="nofollow" href="imprint.html">Impressum</a>
+            <a rel="nofollow" href="privacy.html">Datenschutzerklärung</a>
           </div>
         </div>
       </div>

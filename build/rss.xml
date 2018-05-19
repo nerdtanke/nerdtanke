@@ -32,6 +32,19 @@
     <itunes:explicit>clean</itunes:explicit>
 
       <item>
+    <title>DSGVO-konformer Feed verfügbar</title>
+    <itunes:author>Die Nerdtanke</itunes:author>
+    <itunes:subtitle></itunes:subtitle>
+    <description>Heute mit: </description>
+    <itunes:summary>Heute mit: </itunes:summary>
+    <itunes:image href="http://nerdtanke.de/images/die-nerdtanke.png" />
+    <enclosure url="http://nerdtanke.de/podcasts/nerdtanke-dsgvo-feed.mp3" length="1164807" type="audio/mpeg" />
+    <guid>http://nerdtanke.de/podcasts/nerdtanke-dsgvo-feed.mp3</guid>
+    <pubDate>Sat, 19 May 2018 00:00:00 +0200</pubDate>
+    <itunes:duration>1:37</itunes:duration>
+    <itunes:keywords></itunes:keywords>
+  </item>
+  <item>
     <title>#24: Auf Achse im Weltall</title>
     <itunes:author>Die Nerdtanke</itunes:author>
     <itunes:subtitle></itunes:subtitle>

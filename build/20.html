@@ -4,12 +4,12 @@
     <meta content='text/html; charset=UTF-8' http-equiv='Content-Type' />
     <meta content='de' http-equiv='Content-Language' />
     <title>Die Nerdtanke – Episode 20: Die Apple-freie Folge</title>
-    <link href='http://feeds.feedburner.com/DieNerdtanke' rel='alternate' title='Die Nerdtanke als RSS-Feed' type='application/rss+xml' />
+    <link href='http://nerdtanke.de/rss.xml' rel='alternate' title='Die Nerdtanke als RSS-Feed' type='application/rss+xml' />
     <link href='favicon.ico' rel='icon' type='image/x-icon' />
     <link href='favicon.ico' rel='shortcut icon' type='image/x-icon' />
-    <link type="text/css" rel="stylesheet" href="stylesheets/screen.css" media="screen" />
-    <link type="text/css" rel="stylesheet" href="stylesheets/gameboy.css" media="screen and (max-width: 990px)" />
-    <script type="text/javascript" src="javascripts/jquery-1.6.1.min.js"></script>
+    <link href="stylesheets/screen.css" media="screen" rel="stylesheet" type="text/css" />
+    <link href="stylesheets/gameboy.css" media="screen and (max-width: 990px)" rel="stylesheet" type="text/css" />
+    <script src="javascripts/jquery-1.6.1.min.js" type="text/javascript"></script>
     <script type='text/javascript'>
       //<![CDATA[
         $('.play_link').live('click', function() {
@@ -21,39 +21,13 @@
         });
       //]]>
     </script>
-    <script type='text/javascript'>
-      //<![CDATA[
-        var _gaq = _gaq || [];
-        _gaq.push(['_setAccount', 'UA-441965-5']);
-        _gaq.push(['_trackPageview']);
-        
-        (function() {
-          var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-          ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-          var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-        })();
-      //]]>
-    </script>
-    <script type='text/javascript'>
-      //<![CDATA[
-        window._idl = {};
-        _idl.variant = "banner";
-        (function() {
-          var idl = document.createElement('script');
-          idl.type = 'text/javascript';
-          idl.async = true;
-          idl.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'members.internetdefenseleague.org/include/?url=' + (_idl.url || '') + '&campaign=' + (_idl.campaign || '') + '&variant=' + (_idl.variant || 'banner');
-          document.getElementsByTagName('body')[0].appendChild(idl);
-        })();
-      //]]>
-    </script>
   </head>
   <body>
     <div id='page'>
       <div id='header'>
         <h1><a href="/">Die Nerdtanke</a></h1>
         <h4>Bytes und Bier – Einmal vollmachen</h4>
-        <a href="/"><img src="images/die-nerdtanke-75x75.png" id="logo" alt="" /></a>
+        <a href="/"><img alt="" id="logo" src="images/die-nerdtanke-75x75.png" /></a>
       </div>
       <div id='torso'>
         <div id='sidebar'>
@@ -68,27 +42,27 @@
                 <a class="email" href="mailto:tankwart@nerdtanke.de">E-Mail</a>
               </div>
               <div class='button'>
-                <a class="rss" href="http://feeds.feedburner.com/DieNerdtanke">RSS</a>
+                <a class="rss" href="http://nerdtanke.de/rss.xml">RSS</a>
               </div>
               <div class='button'>
-                <a class="itunes" href="http://itunes.apple.com/de/podcast/die-nerdtanke/id434211329" target="_blank">iTunes</a>
+                <a target="_blank" class="itunes" href="http://itunes.apple.com/de/podcast/die-nerdtanke/id434211329">iTunes</a>
               </div>
               <div class='button'>
-                <a class="facebook" href="https://www.facebook.com/nerdtanke" target="_blank">Facebook</a>
+                <a target="_blank" class="facebook" href="https://www.facebook.com/nerdtanke">Facebook</a>
               </div>
               <div class='button'>
-                      <a class="google_plus" href="https://plus.google.com/+DieNerdtanke" target="_blank"><span class='blue'>G</span><span class='red'>o</span><span class='yellow'>o</span><span class='blue'>g</span><span class='green'>l</span><span class='red'>e</span><span class='plus'>+</span></a>
+                      <a target="_blank" class="google_plus" href="https://plus.google.com/+DieNerdtanke"><span class='blue'>G</span><span class='red'>o</span><span class='yellow'>o</span><span class='blue'>g</span><span class='green'>l</span><span class='red'>e</span><span class='plus'>+</span></a>
           
           </div>
               <div class='button'>
-                <a class="twitter" href="http://twitter.com/nerdtanke" target="_blank">Twitter</a>
+                <a target="_blank" class="twitter" href="http://twitter.com/nerdtanke">Twitter</a>
               </div>
             </div>
           </div>
           <div id='hosts'>
-            <div class="host"><img src="images/hosts/x2/arne.png" alt="Arne" /><div class="name">Arne</div></div>
-            <div class="host"><img src="images/hosts/x2/henning.png" alt="Henning" /><div class="name">Henning</div></div>
-            <div class="host"><img src="images/hosts/x2/thomas.png" alt="Thomas" /><div class="name">Thomas</div></div>
+            <div class="host"><img alt="Arne" src="images/hosts/x2/arne.png" /><div class="name">Arne</div></div>
+            <div class="host"><img alt="Henning" src="images/hosts/x2/henning.png" /><div class="name">Henning</div></div>
+            <div class="host"><img alt="Thomas" src="images/hosts/x2/thomas.png" /><div class="name">Thomas</div></div>
             <div class='clear'></div>
           </div>
         </div>
@@ -97,7 +71,7 @@
             <h2>
               Episode 20: Die Apple-freie Folge (09.06.2014)
             </h2>
-            <div class="player"><a class="play_link" href="#" data-audio="&lt;audio controls=&quot;controls&quot;&gt;&lt;source type=&quot;audio/ogg&quot; src=&quot;podcasts/nerdtanke-20.ogg&quot; /&gt;&lt;source type=&quot;audio/mpeg&quot; src=&quot;podcasts/nerdtanke-20.mp3&quot; /&gt;&lt;/audio&gt;">Abspielen (1:37:12)</a></div>
+            <div class="player"><a class="play_link" data-audio="&lt;audio controls=&quot;controls&quot;&gt;&lt;source src=&quot;podcasts/nerdtanke-20.mp3&quot; type=&quot;audio/mpeg&quot; /&gt;&lt;/audio&gt;" href="#">Abspielen (1:37:12)</a></div>
             <div class='download'>
               <a class="download_link" href="podcasts/nerdtanke-20.mp3">Download als MP3 (63 MB)</a>
             </div>
@@ -113,113 +87,113 @@
                   Bier
                   <ul>
                     <li>
-                      <a href="http://www.berliner-kindl.de/" target="_blank">Berliner Weisse Himbeere + Waldmeister</a>
+                      <a target="_blank" href="http://www.berliner-kindl.de/">Berliner Weisse Himbeere + Waldmeister</a>
                     </li>
                     <li>
-                      <a href="http://www.oettinger-bier.de/archives/17" target="_blank">Oettinger Hell</a>
+                      <a target="_blank" href="http://www.oettinger-bier.de/archives/17">Oettinger Hell</a>
                     </li>
                     <li>
-                      <a href="javascript:void(0);" target="_blank">Duff (von Duff GmbH; kein Link)</a>
+                      <a target="_blank" href="javascript:void(0);">Duff (von Duff GmbH; kein Link)</a>
                     </li>
                     <li>
-                      <a href="http://www.hofbraeu-muenchen.de/unser-bier/biersorten/hofbraeu-maibock/" target="_blank">Hofbraeu Maibock</a>
+                      <a target="_blank" href="http://www.hofbraeu-muenchen.de/unser-bier/biersorten/hofbraeu-maibock/">Hofbraeu Maibock</a>
                     </li>
                   </ul>
                 </li>
                 <li>
                   Microsoft gibt Source von MS-DOS 2.0 raus
-                  (<a href="http://www.computerhistory.org/atchm/microsoft-ms-dos-2-0-source-code/" target="_blank">computerhistory.org</a>)
+                  (<a target="_blank" href="http://www.computerhistory.org/atchm/microsoft-ms-dos-2-0-source-code/">computerhistory.org</a>)
                 </li>
                 <li>
                   Windows-XP-Updates bis 2019
-                  (<a href="http://www.theregister.co.uk/2014/05/26/german_tinkerer_gets_around_xpocalypse/" target="_blank">theregister.co.uk</a>)
+                  (<a target="_blank" href="http://www.theregister.co.uk/2014/05/26/german_tinkerer_gets_around_xpocalypse/">theregister.co.uk</a>)
                 </li>
                 <li>
                   24-Leute-Firma arbeitet und lebt zusammen in einem Haus in der Pampa
-                  (<a href="http://techcrunch.com/2014/03/19/tc-cribs-meta-the-sprawling-rural-ranch-where-augmented-reality-magic-is-made/" target="_blank">techcrunch.com</a>)
+                  (<a target="_blank" href="http://techcrunch.com/2014/03/19/tc-cribs-meta-the-sprawling-rural-ranch-where-augmented-reality-magic-is-made/">techcrunch.com</a>)
                 </li>
                 <li>
                   Schneller Lesen
                   <ul>
                     <li>
-                      <a href="http://www.spritzinc.com/" target="_blank">Spritz</a>
+                      <a target="_blank" href="http://www.spritzinc.com/">Spritz</a>
                     </li>
                     <li>
-                      <a href="http://squirt.io/" target="_blank">Squirt</a>
+                      <a target="_blank" href="http://squirt.io/">Squirt</a>
                     </li>
                   </ul>
                 </li>
                 <li>
                   Street Fighter: The Movie - What Went Wrong
-                  (<a href="http://www.polygon.com/features/2014/3/10/5451014/street-fighter-the-movie-what-went-wrong" target="_blank">polygon.com</a>)
+                  (<a target="_blank" href="http://www.polygon.com/features/2014/3/10/5451014/street-fighter-the-movie-what-went-wrong">polygon.com</a>)
                 </li>
                 <li>
                   &quot;What If?&quot;-Buch
-                  (<a href="http://blog.xkcd.com/2014/03/12/what-if-i-wrote-a-book/" target="_blank">blog.xkcd.com</a>)
+                  (<a target="_blank" href="http://blog.xkcd.com/2014/03/12/what-if-i-wrote-a-book/">blog.xkcd.com</a>)
                 </li>
                 <li>
                   San Pedro prison
-                  (<a href="http://en.wikipedia.org/wiki/San_Pedro_prison" target="_blank">en.wikipedia.org</a>)
+                  (<a target="_blank" href="http://en.wikipedia.org/wiki/San_Pedro_prison">en.wikipedia.org</a>)
                 </li>
                 <li>
                   Sercomm baut gerne Backdoors ein
-                  (<a href="http://www.synacktiv.com/ressources/TCP32764_backdoor_again.pdf" target="_blank">synacktiv.com</a>)
+                  (<a target="_blank" href="http://www.synacktiv.com/ressources/TCP32764_backdoor_again.pdf">synacktiv.com</a>)
                 </li>
                 <li>
                   TrueCrypt-Entwickler haben keinen Bock mehr
-                  (<a href="https://www.grc.com/misc/truecrypt/truecrypt.htm" target="_blank">grc.com</a>)
+                  (<a target="_blank" href="https://www.grc.com/misc/truecrypt/truecrypt.htm">grc.com</a>)
                 </li>
                 <li>
                   No Man&#x27;s Sky
-                  (<a href="https://www.youtube.com/watch?v=RRpDn5qPp3s" target="_blank">youtube.com</a>)
+                  (<a target="_blank" href="https://www.youtube.com/watch?v=RRpDn5qPp3s">youtube.com</a>)
                 </li>
                 <li>
                   Super Time Force
-                  (<a href="http://www.joystiq.com/2014/05/13/super-time-force-review-chronological-disorder/" target="_blank">joystiq.com</a>)
+                  (<a target="_blank" href="http://www.joystiq.com/2014/05/13/super-time-force-review-chronological-disorder/">joystiq.com</a>)
                 </li>
                 <li>
                   Civ: Beyond Earth
-                  (<a href="https://www.youtube.com/watch?v=qtYWqE55s24" target="_blank">youtube.com</a>)
+                  (<a target="_blank" href="https://www.youtube.com/watch?v=qtYWqE55s24">youtube.com</a>)
                 </li>
                 <li>
                   Alle NES- und SNES-Titelbildschirme als Video
-                  (<a href="http://geekologie.com/2014/04/every-nintendo-and-super-nintendo-game-t.php" target="_blank">geekologie.com</a>)
+                  (<a target="_blank" href="http://geekologie.com/2014/04/every-nintendo-and-super-nintendo-game-t.php">geekologie.com</a>)
                 </li>
                 <li>
                   Steam In-Home Streaming
-                  (<a href="http://store.steampowered.com/streaming/" target="_blank">store.steampowered.com</a>)
+                  (<a target="_blank" href="http://store.steampowered.com/streaming/">store.steampowered.com</a>)
                 </li>
                 <li>
                   Evolve: Asymmetrischer Shooter 4 vs. 1
-                  (<a href="http://www.eurogamer.net/articles/2014-05-22-evolve-entertains-as-long-as-you-play-it-properly" target="_blank">eurogamer.net</a>)
+                  (<a target="_blank" href="http://www.eurogamer.net/articles/2014-05-22-evolve-entertains-as-long-as-you-play-it-properly">eurogamer.net</a>)
                 </li>
                 <li>
                   The Expert: 7 red lines
-                  (<a href="https://www.youtube.com/watch?v=BKorP55Aqvg" target="_blank">youtube.com</a>)
+                  (<a target="_blank" href="https://www.youtube.com/watch?v=BKorP55Aqvg">youtube.com</a>)
                 </li>
                 <li>
                   Depixelizing Pixel Art
-                  (<a href="http://research.microsoft.com/en-us/um/people/kopf/pixelart/supplementary/multi_comparison.html" target="_blank">research.microsoft.com</a>)
+                  (<a target="_blank" href="http://research.microsoft.com/en-us/um/people/kopf/pixelart/supplementary/multi_comparison.html">research.microsoft.com</a>)
                 </li>
                 <li>
                   Sixth Sense
-                  (<a href="http://www.ted.com/talks/pattie_maes_demos_the_sixth_sense" target="_blank">ted.com</a>)
+                  (<a target="_blank" href="http://www.ted.com/talks/pattie_maes_demos_the_sixth_sense">ted.com</a>)
                 </li>
                 <li>
                   Vergleich absurder Uebernahme-Deals wie Whatsapp&#x2F;Facebook
-                  (<a href="https://public.brightside.io/v1/chart/ece4947eb29375535376ca212578cf78" target="_blank">public.brightside.io</a>)
+                  (<a target="_blank" href="https://public.brightside.io/v1/chart/ece4947eb29375535376ca212578cf78">public.brightside.io</a>)
                 </li>
                 <li>
                   Superman mit GoPro
-                  (<a href="https://www.youtube.com/watch?v=H0Ib9SwC7EI" target="_blank">youtube.com</a>)
+                  (<a target="_blank" href="https://www.youtube.com/watch?v=H0Ib9SwC7EI">youtube.com</a>)
                 </li>
                 <li>
                   Living with Lag
-                  (<a href="http://geekologie.com/2014/04/living-with-lag-if-internet-lag-existed.php" target="_blank">geekologie.com</a>)
+                  (<a target="_blank" href="http://geekologie.com/2014/04/living-with-lag-if-internet-lag-existed.php">geekologie.com</a>)
                 </li>
                 <li>
                   Kids react to old computers
-                  (<a href="https://www.youtube.com/watch?v=PF7EpEnglgk" target="_blank">youtube.com</a>)
+                  (<a target="_blank" href="https://www.youtube.com/watch?v=PF7EpEnglgk">youtube.com</a>)
                 </li>
               </ul>
             </div>
@@ -229,6 +203,9 @@
               Weitere Folgen
             </h2>
             <ul>
+              <li>
+                <a href="dsgvo-feed.html">DSGVO-konformer Feed verfuegbar (19.05.2018)</a>
+              </li>
               <li>
                 <a href="24.html">Episode 24: Auf Achse im Weltall (13.12.2015)</a>
               </li>
@@ -307,11 +284,9 @@
             </ul>
           </div>
           <div id='footer'>
-            Kontakt:
             <a href="mailto:tankwart@nerdtanke.de">tankwart@nerdtanke.de</a>
-            <div class='imprint'>
-              <a rel="nofollow" href="imprint.html">Impressum</a>
-            </div>
+            <a rel="nofollow" href="imprint.html">Impressum</a>
+            <a rel="nofollow" href="privacy.html">Datenschutzerklärung</a>
           </div>
         </div>
       </div>
