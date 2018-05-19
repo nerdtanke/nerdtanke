@@ -141,7 +141,7 @@ helpers do
   def player(podcast)
     content_tag :div, :class => 'player' do
       audio_tag = content_tag :audio, :controls => 'controls' do
-        [ source_tag(podcast, :ogg), source_tag(podcast, :mp3) ].join
+        [ source_tag(podcast, :mp3) ].join
       end
       link_to "Abspielen (#{podcast.duration})", '#', :class => 'play_link', 'data-audio' => CGI::escapeHTML(audio_tag)
     end
