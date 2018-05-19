@@ -1,6 +1,4 @@
 #footer
-  - unless @no_footer
-    Kontakt:
-    = mail_to 'tankwart@nerdtanke.de'
-    .imprint
-      = link_to 'Impressum', 'imprint.html', :rel => 'nofollow'
+  = mail_to 'tankwart@nerdtanke.de'
+  = link_to 'Impressum', 'imprint.html', :rel => 'nofollow'
+  = link_to 'Datenschutzerklärung', 'privacy.html', :rel => 'nofollow'
