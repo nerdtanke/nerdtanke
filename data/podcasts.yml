@@ -2439,3 +2439,16 @@
     -
       label: 'Edge of Stability'
       url: 'https://vimeo.com/133202655'
+
+-
+  episode: dsgvo-feed
+  label: "DSGVO-konformer Feed verfügbar"
+  date: 2018-05-19
+  filesize: 1164807
+  filename: 'nerdtanke-dsgvo-feed'
+  duration: '1:37'
+  topics:
+    -
+      timestamp: '0:00'
+      label: 'Neuer Podcast-Feed'
+      url: 'http://nerdtanke.de/rss.xml'
