@@ -4,12 +4,12 @@ GEM
     activesupport (3.1.0)
       multi_json (~> 1.0)
     addressable (2.2.6)
-    capistrano (2.5.21)
+    capistrano (2.15.9)
       highline
       net-scp (>= 1.0.0)
       net-sftp (>= 2.0.0)
       net-ssh (>= 2.0.14)
-      net-ssh-gateway (>= 1.0.0)
+      net-ssh-gateway (>= 1.1.0)
     chunky_png (1.2.5)
     coffee-script (2.2.0)
       coffee-script-source
@@ -27,6 +27,7 @@ GEM
     eventmachine (1.0.0.beta.3-x86-mingw32)
     execjs (1.2.9)
       multi_json (~> 1.0)
+    ffi (1.0.9)
     ffi (1.0.9-x86-mingw32)
     fssm (0.2.7)
     guard (0.6.3)
@@ -36,7 +37,7 @@ GEM
       guard (>= 0.4.0)
       multi_json (~> 1.0.3)
     haml (3.1.3)
-    highline (1.6.1)
+    highline (2.0.3)
     hike (1.2.1)
     http_router (0.10.2)
       rack (>= 1.0.0)
@@ -89,13 +90,13 @@ GEM
     middleman-livereload (0.2.0)
       guard-livereload (~> 0.3.0)
     multi_json (1.0.3)
-    net-scp (1.0.4)
-      net-ssh (>= 1.99.1)
-    net-sftp (2.0.5)
-      net-ssh (>= 2.0.9)
-    net-ssh (2.1.4)
-    net-ssh-gateway (1.0.1)
-      net-ssh (>= 1.99.1)
+    net-scp (3.0.0)
+      net-ssh (>= 2.6.5, < 7.0.0)
+    net-sftp (2.1.2)
+      net-ssh (>= 2.6.5)
+    net-ssh (2.9.4)
+    net-ssh-gateway (1.3.0)
+      net-ssh (>= 2.6.5)
     padrino-core (0.10.2)
       activesupport (~> 3.1.0)
       http_router (~> 0.10.2)
@@ -142,6 +143,7 @@ GEM
       multi_json (>= 1.0.2)
     url_mount (0.2.1)
       rack
+    win32-api (1.4.8)
     win32-api (1.4.8-x86-mingw32)
     win32-process (0.6.5)
       windows-pr (>= 1.1.2)
@@ -156,6 +158,10 @@ PLATFORMS
   x86-mingw32
 
 DEPENDENCIES
-  capistrano
+  capistrano (< 3)
   middleman
+  net-ssh (< 3)
   therubyracer
+
+BUNDLED WITH
+   1.15.0
