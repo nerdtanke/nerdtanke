@@ -1,7 +1,7 @@
 GEM
   remote: http://rubygems.org/
   specs:
-    activesupport (3.1.0)
+    activesupport (3.1.12)
       multi_json (~> 1.0)
     addressable (2.2.6)
     capistrano (2.15.9)
@@ -27,7 +27,6 @@ GEM
     eventmachine (1.0.0.beta.3-x86-mingw32)
     execjs (1.2.9)
       multi_json (~> 1.0)
-    ffi (1.0.9)
     ffi (1.0.9-x86-mingw32)
     fssm (0.2.7)
     guard (0.6.3)
@@ -89,7 +88,7 @@ GEM
       win32-process (~> 0.6.5)
     middleman-livereload (0.2.0)
       guard-livereload (~> 0.3.0)
-    multi_json (1.0.3)
+    multi_json (1.0.4)
     net-scp (3.0.0)
       net-ssh (>= 2.6.5, < 7.0.0)
     net-sftp (2.1.2)
@@ -143,7 +142,6 @@ GEM
       multi_json (>= 1.0.2)
     url_mount (0.2.1)
       rack
-    win32-api (1.4.8)
     win32-api (1.4.8-x86-mingw32)
     win32-process (0.6.5)
       windows-pr (>= 1.1.2)
